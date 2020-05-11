@@ -1,0 +1,864 @@
+OBJECTID,Angle,Site_ID,the_geom,Status,Type,Street,XStreet1,XStreet2,Side
+1,151,HB-012,POINT (-73.97094092206245 40.67489979560509),Installed,Type B,Flatbush Avenue,Plaza Street West,Grand Army Plaza,W
+2,15,HB-035,POINT (-73.9698563675342 40.675293041592475),Installed,Type A,Vanderbilt Avenue,Plaza Street,Grand Army Plaza,W
+3,15,HB-016,POINT (-73.96933351768122 40.67669030073022),Installed,Type A,Vanderbilt Avenue,Park Place,Sterling Place,W
+4,150,HB-054,POINT (-73.96914453879718 40.67239541684192),Installed,Type B,Flatbush Avenue,Grand Army Plaza,Ocean Avenue,W
+5,105,HB-018,POINT (-73.96853401192864 40.67284824665104),Installed,Type B,Eastern Parkway,Plaza Street East,Underhill Avenue,S
+6,105,HB-017,POINT (-73.96409033972417 40.671859854711656),Installed,Type C,Eastern Parkway,Brooklyn Museum,,S
+8,105,BCM-022,POINT (-73.95773261669052 40.67042718177338),Installed,Type B,Eastern Parkway South Mall,Franklin Avenue,Bedford Avenue,C
+9,105,BCM-055,POINT (-73.95770842112825 40.67077417841282),Installed,Type B,Eastern Parkway North Mall,Franklin Avenue,Bedford Avenue,C
+10,351.35,B44-006,POINT (-73.95339018531715 40.68129788213102),Installed,Type D,Bedford Avenue,Fulton Street,Halsey Street,E
+11,184.04,B44-029,POINT (-73.94962072639778 40.67994221065099),Installed,Type D,Nostrand Avenue,Fulton Street,Herkimer Street,W
+12,184.04,B44-007,POINT (-73.95045588191881 40.671026090004034),Installed,Type D,Nostrand Avenue,St. Johns Place,Lincoln Place,W
+13,4.05,B44-008,POINT (-73.95304860493874 40.67149597845128),Installed,Type D,Rogers Avenue,St. Johns Place,Lincoln Place,E
+15,355.5,B44-010,POINT (-73.95375632129138 40.66334614118204),Installed,Type D,Rogers Avenue,Empire Boulevard,Sterling Street,E
+17,175.5,B44-011,POINT (-73.95008947052956 40.654946984944374),Installed,Type D,Nostrand Avenue,Clarkson Avenue,Lenox Road,W
+19,15,BCM-047,POINT (-73.9566746709794 40.674034356969194),Installed,Type B,Franklin Avenue,Park Place,Sterling Place,E
+21,172,HB-040,POINT (-73.96378093686616 40.67835947203779),Installed,Type A,Washington Avenue,Bergen Street,St. Marks Avenue,E
+22,172,HB-041,POINT (-73.96317366315928 40.6752624305906),Installed,Type B,Washington Avenue,Grand Avenue,Sterling Place,E
+24,3.95,BCM-029,POINT (-73.94959115941272 40.67866240801067),Installed,Type A,Nostrand Avenue,Atlantic Avenue,Herkimer Place,E
+25,4,BCM-034,POINT (-73.94992894192683 40.67508078747498),Installed,Type B,Nostrand Avenue,St. Marks Avenue,Prospect Place,E
+34,4,BCM-006,POINT (-73.94191706650545 40.673095874862625),Installed,Type B,Kingston Avenue,Park Place,Prospect Place,W
+35,4,BCM-002,POINT (-73.944409168464 40.67474246251577),Installed,Type C,Brooklyn Avenue,St. Marks Place,Prospect Place,E
+37,94,BCM-008,POINT (-73.94237500944197 40.669322853373586),Installed,Type B,Eastern Parkway South Mall,Kingston Avenue,Brooklyn Avenue,C
+39,94,BCM-011,POINT (-73.9501234154602 40.669668028353286),Installed,Type B,Eastern Parkway South Mall,Nostrand Avenue,New York Avenue,C
+40,151,HB-027,POINT (-73.96447162390767 40.66589684418657),Installed,Type B,Flatbush Avenue,Prospect Park Zoo,,W
+43,151,HB-025,POINT (-73.96208712036012 40.662440076820445),Installed,Type B,Flatbush Avenue,Ocean Avenue,Lefferts Avenue,W
+46,4,BCM-049,POINT (-73.95024167594066 40.671764236500714),Installed,Type A,Nostrand Avenue,St. Johns Place,Sterling Place,E
+47,32,HB-036,POINT (-73.97669273010936 40.6646259842499),Installed,Type B,Prospect Park West,9 Street,,E
+48,32,HB-037,POINT (-73.97945483953947 40.66133001627859),Installed,Type B,Prospect Park West,Bartel Pritchard Square,14 Street,E
+49,76,HB-038,POINT (-73.96233176882019 40.660676785774164),Installed,Type B,Lincoln Road,Ocean Avenue,Flatbush Avenue,N
+50,4,BCM-004,POINT (-73.94130363489906 40.67967440420074),Installed,Type B,Kingston Avenue,Fulton Street,Herkimer Street,W
+51,14,LI-006,POINT (-73.95672945408005 40.746308763020124),Installed,Type B,Center Boulevard,47 Avenue,46 Road,W
+53,104,LI-005,POINT (-73.94869889938468 40.74249116226945),Installed,Type B,49 Avenue,21 Street,Skillman Avenue,N
+54,55,LI-004,POINT (-73.95172486952384 40.74313280832306),Installed,Type B,Jackson Avenue,49 Avenue,11 Street,W
+55,14,LI-029,POINT (-73.95406957312356 40.74310285284613),Installed,Type A,Vernon Boulevard,50 Avenue,49 Avenue,W
+56,14,LI-038,POINT (-73.9538163821914 40.743871221695905),Installed,Type A,Vernon Boulevard,48 Avenue,49 Avenue,W
+58,104,LI-039,POINT (-73.94941685924978 40.74840996197866),Installed,Type B,44 Drive,11 Street,21 Street,S
+62,104,LI-031,POINT (-73.94824133932262 40.745959890097375),Removed Sign/Footing (Permanent),Type A,46 Avenue,21 Street,11 Street,S
+63,55,LI-012,POINT (-73.94897766458294 40.744562491712166),Installed,Type B,Jackson Avenue,47 Avenue,47 Road,W
+67,65,LI-017,POINT (-73.94027786002854 40.747989208882096),Installed,Type A,Jackson Avenue,Queens Street,43 Avenue,W
+68,99,LI-016,POINT (-73.93714743638326 40.745067360432216),Installed,Type B,Thomson Avenue,30 Street,30 Place,S
+69,65,LI-024,POINT (-73.93780791320678 40.74887128047945),Installed,Type B,Jackson Avenue,Queens Plaza South,West Street,W
+71,154,LI-033,POINT (-73.9416523592201 40.74839133841017),Installed,Type B,43 Avenue,27 Street,Crescent Street,E
+73,35,LI-036,POINT (-73.94249075102296 40.75414066869394),Installed,Type B,21 Street,41 Avenue,40 Avenue,W
+74,35,LI-035,POINT (-73.93914520077138 40.7520902370644),Installed,Type B,Crescent Street,41 Avenue,Queens Plaza North,E
+76,120,LI-021,POINT (-73.93997667069246 40.75019306669323),Installed,Type B,Queens Plaza South,27 Street,Crescent Street,S
+77,120,LI-018,POINT (-73.93779514088232 40.74984601759714),Installed,Type B,Queens Plaza North,29 Street,,S
+78,35,LI-023,POINT (-73.93643888094317 40.74972528921548),Installed,Type B,Queens Plaza East,Queens Plaza North,Queens Plaza,W
+80,29,CH-031,POINT (-74.0026786332953 40.71436153793842),Installed,Type C,Centre Street,Pearl Street,Worth Street,W
+81,29,CH-012,POINT (-74.00211047908971 40.71528986695807),Installed,Type B,Centre Street,Worth Street,Leonard Street,W
+82,122,CH-009,POINT (-73.99971245647355 40.7141275882212),Installed,Type B,Worth Street,Mulberry Street,Baxter Street,N
+83,33,CH-029,POINT (-74.00306576854683 40.71786825723577),Installed,Type B,Broadway,White Street,Franklin Street,E
+84,29,CH-048,POINT (-74.00139044995379 40.71627185729514),Installed,Type A,Centre Street,Collect Pond Park,,W
+85,133,CH-006,POINT (-74.00165635500274 40.719118467639895),Installed,Type B,Canal Street,Broadway,Cortlandt Alley,S
+86,133,CH-033,POINT (-74.00022633864761 40.71808745764426),Installed,Type B,Canal Street,Centre Street,Lafayette Street,S
+89,115,CH-007,POINT (-73.99930023355047 40.717383313657116),Installed,Custom,Canal Street,Baxter Street,Mulberry Street,S
+90,133,CH-008,POINT (-73.99881037129593 40.71731190369378),Installed,Type B,Canal Street,Mulberry Street,Baxter Street,N
+93,114,CH-014,POINT (-73.99769576707232 40.71666882802764),Installed,Type B,Canal Street,Mott Street,Elizabeth Street,S
+94,114,CH-018,POINT (-73.996299289352 40.71641631287889),Installed,Type B,Canal Street,Bowery,Elizabeth Street,N
+96,173,CH-046,POINT (-73.99860937076863 40.71369389434737),Installed,Type B,Mott Street,Chatham Square,Pell Street,E
+97,53,CH-047,POINT (-73.99774555592167 40.71366997482022),Installed,Type B,Chatham Square,East Broadway,Catherine Street,S
+98,84,CH-044,POINT (-73.99373276731855 40.713840462228234),Installed,Type A,East Broadway,Forsyth Street,Pike Street,N
+99,174,CH-052,POINT (-73.99009401628037 40.71386655286185),Installed,Type B,Rutgers Street,East Broadway,Henry Street,E
+100,26,CH-042,POINT (-73.99580772703635 40.716912810295035),Installed,Type B,Bowery,Canal Street,Hester Street,W
+101,111.4,CH-024,POINT (-73.99328325377779 40.718105217203366),Installed,Type B,Grand Street,Forsyth Street,Chrystie Street,N
+102,17,CH-010,POINT (-73.99741373888901 40.71921724363764),Removed Sign Only (Temporary),Type A,Mulberry Street,Grand Street,Hester Street,W
+104,299,M34-001,POINT (-73.97368578841362 40.74394259899159),Installed,Type D,E 34 Street,1 Avenue,2 Avenue,N
+107,299,M34-002,POINT (-73.97640895192549 40.74509780515794),Installed,Type D,E 34 Street,2 Avenue,3 Avenue,N
+108,119,M34-021,POINT (-73.97775572900618 40.745468153437194),Installed,Type D,E 34 Street,3 Avenue,2 Avenue,S
+110,119,M34-020,POINT (-73.98104186191837 40.74685366255314),Installed,Type D,E 34 Street,Park Avenue,Lexington Avenue,S
+111,299,M34-004,POINT (-73.98173597294206 40.74732800297258),Installed,Type D,E 34 Street,Park Avenue,Madison Avenue,N
+114,119,M34-018,POINT (-73.98735181510239 40.749516865018066),Installed,Type D,W 34 Street,6 Avenue,5 Avenue,S
+116,299,M34-007,POINT (-73.99125564045256 40.75136005796257),Installed,Type D,W 34 Street,7 Avenue,8 Avenue,N
+117,119,M34-017,POINT (-73.9910791896565 40.75110492933453),Installed,Type D,W 34 Street,7 Avenue,8 Avenue,S
+118,119,M34-016,POINT (-73.99310130260639 40.75197296484732),Installed,Type D,W 34 Street,8 Avenue,7 Avenue,S
+120,119,M34-015,POINT (-73.9959527026786 40.75317188944929),Installed,Type D,W 34 Street,9 Avenue,8 Avenue,S
+123,119,M34-014,POINT (-73.99896507361764 40.754409604324955),Installed,Type D,W 34 Street,10 Avenue,Dyer Avenue,S
+127,119,TFP-032,POINT (-73.99388809669979 40.75227617623056),Installed,Type B,W 34 Street,8 Avenue,9 Avenue,S
+128,119,TFP-027,POINT (-73.99318916372467 40.7521668912773),Installed,Type B,W 34 Street,8 Avenue,7 Avenue,N
+130,29,TFP-036,POINT (-73.99383600324384 40.75128377380636),Removed Sign Only (Temporary),Type B,8 Avenue,W 33 Street,W 31 Street,E
+132,29,TFP-034,POINT (-73.99131959321888 40.75025799760485),Installed,Type C,7 Avenue,W 33 Street,W 32 Street,W
+134,29,FC-029,POINT (-73.9927355003132 40.75339682004766),Installed,Type A,8 Avenue,W 36 Street,W 35 Street,W
+135,119,FC-072,POINT (-73.99226086193701 40.75423326777276),Removed Sign/Footing (Permanent),Type B,W 37 Street,8 Avenue,9 Avenue,N
+139,119,FC-052,POINT (-73.98698107059262 40.75512353954595),Installed,Type A,W 41 Street,Broadway,7 Avenue,S
+143,29,TFP-006,POINT (-73.98750189001689 40.74997663204136),Installed,Type A,6 Avenue,W 34 Street,W 35 Street,E
+145,8,TFP-085,POINT (-73.98823446042303 40.74845189036404),Installed,Type B,Broadway,W 32 Street,W 33 Street,W
+147,29,TFP-017,POINT (-73.98544981749777 40.74738225440743),Installed,Type A,5 Avenue,W 32 Street,W 33 Street,W
+149,29,TFP-019,POINT (-73.98721652449022 40.75077213737823),Installed,Type A,6 Avenue,W 35 Street,W 36 Street,W
+150,29,FC-079,POINT (-73.98604283837376 40.75198533185072),Installed,Type A,6 Avenue,W 38 Street,W 37 Street,E
+153,25.69,B44-001,POINT (-73.95928049626649 40.70909356916884),Pending Sign,Type C,Havemeyer Street,Broadway,S 5 Street,W
+154,139.6,B44-002,POINT (-73.96111202467691 40.706672353095755),Installed,Type D,Lee Avenue,Taylor Street,Wilson Street,W
+160,351.35,B44-005,POINT (-73.95494956204679 40.68913970804321),Installed,Type D,Bedford Avenue,Lafayette Avenue,Clifton Place,E
+161,171.39,B44-030,POINT (-73.95174357694937 40.6909378654431),Installed,Type D,Nostrand Avenue,DeKalb Avenue,Kosciuszko Street,W
+162,355.5,B44-014,POINT (-73.95242147930728 40.65104692669156),Installed,Type D,Rogers Avenue,Church Avenue,Martense Street,E
+163,175.5,B44-013,POINT (-73.94958684619934 40.65030880305629),Installed,Type D,Nostrand Avenue,Church Avenue,Erasmus Street,W
+165,355.5,B44-016,POINT (-73.95135691974376 40.64113029444273),Installed,Type D,Rogers Avenue,Avenue D,Clarendon Road,E
+166,176,B44-017,POINT (-73.94768554402249 40.632089181966414),Installed,Type D,Nostrand Avenue,Flatbush Avenue,Avenue H,W
+167,356,B44-018,POINT (-73.94745934939017 40.63176626510745),Installed,Type D,Nostrand Avenue,Flatbush Avenue,Avenue H,E
+168,351.75,B44-020,POINT (-73.94459426580288 40.61569615248991),Installed,Type D,Nostrand Avenue,Kings Highway,Marine Parkway,E
+169,171.75,B44-019,POINT (-73.94503089196765 40.61641832780659),Installed,Type D,Nostrand Avenue,Kings Highway,Avenue N,W
+170,171.75,B44-021,POINT (-73.94204167433105 40.600608516166744),Installed,Type D,Nostrand Avenue,Avenue U,Avenue T,W
+173,351.75,B44-024,POINT (-73.9405499303632 40.59414283050365),Installed,Type D,Nostrand Avenue,Avenue X,Avenue W,E
+175,267.19,B44-026,POINT (-73.93818710026444 40.58404559939174),Installed,Type D,Emmons Avenue,Nostrand Avenue,Haring Street,N
+177,29.07,LM-117,POINT (-74.0008787493298 40.710338459730124),Installed,Type B,Pearl Street,"Robert F. Wagner, Sr. Place",St. James Place,E
+178,47.77,LM-046,POINT (-74.00559721052535 40.71187891996291),Installed,Type B,Park Row (Printing House Square),Frankfort Street,Spruce Street,E
+179,24.05,LM-045,POINT (-74.00374884789584 40.71086719821974),Installed,Type B,Gold Street,Frankfort Street,Spruce Street,W
+180,132,LM-044,POINT (-74.0046549652125 40.71155399461857),Installed,Fingerpost,Frankfort Street,Park Row,Printing House Square,S
+182,148.86,LM-049,POINT (-74.00412689641331 40.707694314915294),Installed,Type B,Fulton Street,Pearl Street,Water Street,N
+189,101.49,LM-095,POINT (-74.01382760773453 40.71540332343359),Installed,Type B,Murray Street,West Street,North End Avenue,N
+191,7.44,LM-101,POINT (-74.00859914967346 40.72046295266324),Installed,Type B,Hudson Street,North Moore Street,Beach Street,W
+193,30.85,LM-104,POINT (-74.00627758193731 40.717218411629695),Installed,Type A,Church Street,Worth Street,Leonard Street,W
+198,7.43,LM-100,POINT (-74.00897551304584 40.718320685869266),Installed,Type B,Hudson Street,Worth Street,Harrison Street,W
+199,30.65,LM-105,POINT (-74.00724358723863 40.71818813753627),Installed,Type B,West Broadway,Leonard Street,Worth Street,W
+200,121,LM-068,POINT (-74.00669667049529 40.71429415392826),Installed,Type B,Chambers Street,Broadway,Church Street,S
+204,7.34,LM-112,POINT (-74.00805321434801 40.72358160775511),Installed,Type B,Hudson Street,Canal Street,Desbrosses Street,W
+207,138.06,LM-121,POINT (-74.00444976772236 40.706371377092566),Installed,Type B,John Street,Front Street,South Street,N
+210,45.03,LM-051,POINT (-74.00188429463522 40.70943840769949),Installed,Type B,Pearl Street,Dover Street,Peck Slip,W
+211,37.98,LM-118,POINT (-73.99943791505932 40.71195370609875),Installed,Type B,St. James Place,Madison Street,James Street,E
+214,17.84,LM-020,POINT (-74.0132515868288 40.70568448002117),Installed,Type B,Broadway,Morris Street,Beaver Street,E
+215,24.16,LM-034,POINT (-74.01124230278006 40.706119901058024),Installed,Type B,Broad Street,Exchange Place,Beaver Street,E
+217,9.29,LM-035,POINT (-74.0100651090118 40.705247799854746),Installed,Type B,William Street,Beaver Street,Exchange Place,W
+221,32.2,LM-022,POINT (-74.01165390195008 40.70799217974499),Installed,Type A,Broadway,Wall Street,Pine Street,W
+225,32.37,LM-071,POINT (-74.00887353535887 40.71131452605609),Installed,Type A,Broadway,Vesey Street,Fulton Street,W
+226,123.71,LM-047,POINT (-74.00755021249321 40.71006771551603),Installed,Type A,Fulton Street,Nassau Street,Dutch Street,S
+227,35.06,LM-039,POINT (-74.00950962319924 40.708541690449096),Installed,Type B,Nassau Street,Liberty Street,Cedar Street,W
+232,15.97,LM-082,POINT (-74.01454347424549 40.70997076539064),Installed,Type B,West Street,Albany Street,Cedar Street,E
+234,120.88,LM-069,POINT (-74.00751362508723 40.71313003972556),Installed,Type B,Murray Street,Broadway,Church Street,S
+235,71.28,LM-013,POINT (-74.01013936925462 40.703212406589174),Installed,Type B,Water Street,Coenties Slip,,E
+236,47.49,LM-010,POINT (-74.00577036990333 40.706194900187036),Installed,Type B,Water Street,Maiden Lane,Fletcher Street,E
+240,137,LM-005,POINT (-74.00815325263476 40.7032818146613),Installed,Type B,Old Slip,South Street,Front Street,S
+247,51.85,LM-030,POINT (-74.01069592927806 40.70372916167626),Installed,Type B,Pearl Street,Coenties Slip,,W
+252,60.03,LM-014,POINT (-74.0125282201641 40.70249319466989),Installed,Type B,Water Street,Whitehall Street,Moore Street,E
+302,119,MT-096,POINT (-73.97260607023182 40.7498895608144),Installed,Type A,E 42 Street,2 Avenue,3 Avenue,S
+353,29,MT-117,POINT (-73.98644490476083 40.756850888010064),Pending Sign,Type A,7 Avenue,W 43 Street,W 44 Street,W
+355,119,MT-118,POINT (-73.98615304738586 40.757454623021374),Removed Sign Only (Temporary),Type A,W 44 Street,7 Avenue,8 Avenue,N
+356,19.52,MT-116,POINT (-73.98582175122382 40.757047675114364),Removed Sign/Footing (Permanent),Type B,Broadway,W 44 Street,W 43 Street,E
+358,119,MT-120,POINT (-73.98578377454602 40.75800018229857),Removed Sign Only (Temporary),Type A,W 45 Street,7 Avenue,8 Avenue,S
+359,17.98,MT-124,POINT (-73.98566786903456 40.757404350620355),Installed,Type B,Broadway,W 44 Street,W 45 Street,E
+360,29,MT-125,POINT (-73.9855844279986 40.758136356194306),Installed,Type B,7 Avenue,W 45 Street,W 46 Street,W
+363,119,MT-127,POINT (-73.98552845582589 40.75871868857356),Installed,Type A,W 46 Street,Broadway,8 Avenue,S
+364,119,MT-128,POINT (-73.98492901784103 40.75845689708346),Installed,Type A,W 46 Street,7 Avenue,6 Avenue,S
+367,119,MT-129,POINT (-73.98445774970031 40.759074783398454),Installed,Type A,W 47 Street,7 Avenue,6 Avenue,S
+369,29,MT-130,POINT (-73.98537600407397 40.758905700572754),Installed,Type C,Broadway,W 46 Street,W 47 Street,W
+372,29,MT-138,POINT (-73.98334664115528 40.760795721318836),Installed,Type B,7 Avenue,W 49 Street,W 50 Street,E
+374,119,MT-168,POINT (-73.98372384344334 40.761231078223986),Installed,Type B,W 50 Street,7 Avenue,Broadway,S
+375,119,MT-167,POINT (-73.98255790413418 40.76167339929493),Installed,Type B,W 51 Street,7 Avenue,6 Avenue,N
+380,21.07,MT-136,POINT (-73.98483291141326 40.76030567386545),Installed,Type B,Broadway,W 48 Street,W 49 Street,W
+382,119,MT-040,POINT (-73.98639073178249 40.76234825495211),Installed,Type B,W 50 Street,8 Avenue,9 Avenue,S
+386,29,MT-037,POINT (-73.98864765203227 40.75859253256057),Installed,Type A,8 Avenue,W 44 Street,W 45 Street,E
+391,29,MT-015,POINT (-73.99063560488844 40.76137245486003),Installed,Type A,9 Avenue,W 46 Street,W 47 Street,W
+419,119,MT-200,POINT (-73.99046833431561 40.75590378417298),Installed,Type B,W 40 Street,8 Avenue,7 Avenue,N
+421,119,MT-198,POINT (-73.9896112231463 40.757059407542016),Installed,Type B,W 42 Street,8 Avenue,7 Avenue,S
+424,29,MT-193,POINT (-73.98672210686031 40.75615234803565),Installed,Type A,7 Avenue,W 42 Street,W 43 Street,E
+426,14.64,MT-194,POINT (-73.98620324479192 40.75595689634496),Installed,Type C,Broadway,W 42 Street,W 43 Street,E
+435,119,MT-171,POINT (-73.9839034390088 40.75465732008978),Installed,Type B,W 42 Street,6 Avenue,5 Avenue,S
+437,40.24,LM-028,POINT (-74.0080034115796 40.70537642323291),Installed,Type B,Pearl Street,Wall Street,Beaver Street,E
+439,118.48,LM-125,POINT (-74.01612467632943 40.707802783296856),Sign Held,Type B,West Thames Street,West Street,Battery Place,S
+442,129.3,NR-001,POINT (-73.9574469408601 40.717729214325814),Installed,Type B,N 7 Street,Bedford Avenue,Driggs Avenue,N
+443,129.3,NR-002,POINT (-73.95662284918623 40.717085069943145),Installed,Type B,N 7 Street,Driggs Avenue,Bedford Avenue,S
+445,39.05,NR-004,POINT (-73.96125259051651 40.71462659550827),Installed,Type B,Bedford Avenue,Grand Street,N 1 Street,W
+446,118.26,NR-005,POINT (-73.95996403319809 40.71403331792419),Installed,Type B,Grand Street,Driggs Avenue,Bedford Avenue,N
+448,97.76,NR-007,POINT (-73.95583435939727 40.714140160705256),Installed,Type B,Metropolitan Avenue,Havemeyer Street,Marcy Avenue,N
+450,90.25,NR-009,POINT (-73.95359273682506 40.71399300806912),Installed,Type B,Metropolitan Avenue,Marcy Avenue,Rodney Street,S
+452,172.95,NR-011,POINT (-73.9516896980267 40.71385973127276),Installed,Type B,Union Avenue,Metropolitan Avenue,Keap Street,W
+455,25.69,NR-014,POINT (-73.95829574208472 40.71051591509937),Installed,Type B,Havemeyer Street,Borinquen Place,S 3 Street,W
+457,172.92,NR-016,POINT (-73.95099169032511 40.71082412867955),Installed,Type B,Union Avenue,Grand Street,Maujer Street,E
+461,98.24,NR-020,POINT (-73.96827540756362 40.71088492511334),Installed,Type B,Broadway,Kent Avenue,Dunham Place,N
+463,114.35,NR-022,POINT (-73.96335909422254 40.71036063492012),Installed,Type B,Broadway,Bedford Avenue,Driggs Avenue,N
+469,113.83,NR-028,POINT (-73.95439973784237 40.70727662099556),Installed,Type B,Broadway,Hooper Street,Keap Street,N
+470,126.96,NR-029,POINT (-73.95061339619636 40.705573528830925),Installed,Type B,Broadway,Johnson Avenue,Heyward Street,S
+475,171.4,NR-034,POINT (-73.95022691253166 40.69962677060121),Installed,Type B,Marcy Avenue,Flushing Avenue,Ellery Street,W
+477,172,DB-020,POINT (-73.96583150417477 40.69336590030343),Installed,Type B,Hall Street,Myrtle Avenue,Willoughby Avenue,E
+478,82,DB-021,POINT (-73.96396221311389 40.69353499667576),Installed,Type B,Myrtle Avenue,Grand Avenue,Stueben Street,S
+484,171.23,NR-043,POINT (-73.96576317565554 40.68834506325146),Installed,Type B,Washington Avenue,Lafayette Avenue,Dekalb Avenue,E
+495,171.36,NR-054,POINT (-73.96677637971048 40.683312169102294),Installed,Type B,Clinton Avenue,Fulton Street,Atlantic Avenue,E
+496,171.28,NR-055,POINT (-73.96465847992066 40.68286053724958),Installed,Type B,Washington Avenue,Fulton Street,Atlantic Avenue,E
+497,105.34,NR-056,POINT (-73.95838730759735 40.68176918188934),Installed,Type B,Fulton Street,Classon Avenue,Claver Place,N
+500,94.02,NR-059,POINT (-73.94932025100182 40.68031302852711),Installed,Type B,Fulton Street,Nostrand Avenue,New York Avenue,S
+501,93.8,NR-060,POINT (-73.94348929598254 40.680130540113446),Installed,Type B,Fulton Street,Tompkins Avenue,Brooklyn Avenue,N
+502,171.45,NR-061,POINT (-73.94042623897553 40.68002036861735),Installed,Type B,Throop Avenue,Fulton Street,Decatur Street,W
+504,4.04,NR-063,POINT (-73.95058334405869 40.66818807981552),Installed,Type B,Nostrand Avenue,President Street,Union Street,E
+507,175.43,NR-066,POINT (-73.95086952212797 40.66376020222408),Installed,Type B,Nostrand Avenue,Empire Boulevard,Sterling Street,E
+511,105.38,NR-070,POINT (-73.95671256826779 40.666671352175044),Installed,Type B,Crown Street,Bedford Avenue,Franklin Avenue,N
+514,85.26,NR-073,POINT (-73.96117775805142 40.66337433560325),Installed,Type A,Empire Boulevard,Washington Avenue,Flatbush Avenue,N
+515,75.89,NR-074,POINT (-73.96119543853315 40.66089849883101),Installed,Type B,Lincoln Road,Flatbush Avenue,Ocean Avenue,N
+517,62.66,NR-077,POINT (-73.96007234749501 40.655673134331856),Installed,Type B,Parkside Avenue,Flatbush Avenue,Parkside Court,N
+520,62.57,NR-079,POINT (-73.95954394546213 40.65297414564861),Removed Sign Only (Temporary),Type B,Caton Avenue,Flatbush Avenue,E 21 Street,N
+521,62.38,NR-080,POINT (-73.97019509255908 40.64672057213318),Installed,Type B,Church Avenue,E 10 Street,Stratford Road,N
+522,79.32,NR-081,POINT (-73.95894268177119 40.65040460592396),Installed,Type A,Church Avenue,Flatbush Avenue,E 21 Street,N
+523,168.62,NR-082,POINT (-73.95864880879628 40.65058116867958),Installed,Type B,Flatbush Avenue,Church Avenue,Martense Street,E
+525,81.89,NR-084,POINT (-73.96432098904036 40.644313403537964),Installed,Type A,Beverley Road,E 16 Street,Marlborough Road,S
+527,81.19,NR-086,POINT (-73.95820375450651 40.64512499803857),Installed,Type B,Beverley Road,Flatbush Avenue,E 21 Street,N
+528,59.18,NR-087,POINT (-73.96425260407997 40.64121538584001),Installed,Type B,Cortelyou Road,Marlborough Road,E 16 Street,S
+531,171.6,NR-090,POINT (-73.96251168965881 40.635762164292906),Installed,Type B,E 16 Street,Newkirk Avenue,Foster Avenue,W
+533,140.52,NR-092,POINT (-73.947381283677 40.63270928309211),Installed,Type B,Flatbush Avenue,Nostrand Avenue,E 31 Street,E
+541,85.33,NR-100,POINT (-73.95007629323872 40.657055362497054),Installed,Type B,Winthrop Street,Nostrand Avenue,New York Avenue,S
+542,175.13,NR-101,POINT (-73.95024027617808 40.6561437789728),Removed Sign Only (Temporary),Type B,Nostrand Avenue,Parkside Avenue,Clarkson Avenue,W
+550,86.43,NR-110,POINT (-73.9499341593717 40.65085909988853),Installed,Type B,Church Avenue,Nostrand Avenue,Rogers Avenue,N
+560,81.68,NR-119,POINT (-73.96151825297878 40.629980603893955),Installed,Type A,Avenue H,E 15 Street,E 16 Street,S
+562,60.07,NR-121,POINT (-73.95810644272436 40.608744897618585),Installed,Type B,Kings Highway,E 15 Street,E 16 Street,S
+565,81.58,NR-124,POINT (-73.95567754222638 40.59898068605342),Installed,Type B,Avenue U,E 16 Street,E 15 Street,N
+578,7.51,HS-132,POINT (-74.00747664484315 40.725718520651604),Installed,Type B,Hudson Street,Spring Street,Dominick Street,E
+579,8,HS-133,POINT (-74.00639631341512 40.72284725000807),Installed,Type B,Varick Street,Canal Street,Grand Street,W
+589,133,CH-027,POINT (-74.00214076911325 40.71944822454209),Installed,Type A,Canal Street,Broadway,Mercer Street,S
+598,111.4,CH-020,POINT (-73.98985985190558 40.71435440471382),Installed,Type B,Canal Street,Essex Street,East Broadway,N
+604,14,LI-002,POINT (-73.95391708884821 40.74298868689396),Installed,Type A,Vernon Boulevard,50 Avenue,49 Avenue,W
+616,29,TFP-024,POINT (-73.99023291110564 40.751348277311344),Installed,Type A,7 Avenue,W 35 Street,W 34 Street,E
+617,29,TFP-030,POINT (-73.99253235257925 40.75326514324164),Installed,Type A,8 Avenue,W 36 Street,W 35 Street,E
+623,29,TFP-084,POINT (-73.9886736971722 40.748384007411396),Installed,Type A,6 Avenue,W 32 Street,W 31 Street,E
+627,29,FC-020,POINT (-73.98705990889698 40.750579716000885),Installed,Type A,6 Avenue,W 35 Street,W 36 Street,E
+672,129.44,LM-026,POINT (-74.00965870075649 40.706412551633264),Installed,Type B,Wall Street,William Street,Broad Street,S
+680,104.53,LM-060,POINT (-74.0151748692154 40.704715103061964),Installed,Type B,Battery Place,Greenwich Street,Washington Street,S
+692,31,LM-094,POINT (-74.0088392245417 40.713965068206356),Installed,Type B,Church Street,Murray Street,Warren Street,W
+694,120.18,LM-098,POINT (-74.01114068270259 40.71645967465588),Installed,Type B,Chambers Street,Greenwich Street,West Street,N
+697,7,LM-115,POINT (-74.00975737503768 40.72262904503104),Installed,Type A,Greenwich Street,Vestry Street,Laight Street,W
+714,29,M15-008,POINT (-73.97768258669542 40.73787004430754),Installed,Type D,1 Avenue,E 25 Street,E 24 Street,E
+715,209,M15-033,POINT (-73.98128202544748 40.737559468377924),Installed,Type D,2 Avenue,E 23 Street,E 22 Street,W
+716,29,M15-009,POINT (-73.97585590979963 40.740348623197306),Installed,Type D,1 Avenue,E 29 Street,E 28 Street,E
+718,29,M15-012,POINT (-73.9662470476293 40.753549468242525),Installed,Type D,1 Avenue,E 50 Street,E 49 Street,E
+719,29,M15-013,POINT (-73.962469688123 40.758700271029326),Installed,Type D,1 Avenue,E 57 Street,E 58 Street,E
+720,29,M15-014,POINT (-73.95793654918893 40.76491725698124),Installed,Type D,1 Avenue,E 67 Street,E 68 Street,E
+721,29,M15-015,POINT (-73.95226811095465 40.77272862424258),Installed,Type D,1 Avenue,E 79 Street,E 80 Street,E
+723,29,M15-017,POINT (-73.94400776345543 40.78397595677709),Installed,Type D,1 Avenue,E 97 Street,E 98 Street,E
+726,209,M15-021,POINT (-73.93385905671458 40.802562302584874),Installed,Type D,2 Avenue,E 125 Street,E 124 Street,W
+727,209,M15-022,POINT (-73.93850530037022 40.79619006789922),Installed,Type D,2 Avenue,E 115 Street,E 114 Street,W
+729,209,M15-024,POINT (-73.9475218340707 40.78387066517363),Installed,Type D,2 Avenue,E 95 Street,E 96 Street,W
+730,209,M15-025,POINT (-73.95162456545806 40.7782423762608),Installed,Type D,2 Avenue,E 86 Street,E 87 Street,W
+731,209,M15-026,POINT (-73.9553326833076 40.773160146670335),Installed,Type D,2 Avenue,E 79 Street,E 78 Street,W
+732,209,M15-027,POINT (-73.96051611517139 40.76604905617839),Installed,Type D,2 Avenue,E 67 Street,E 68 Street,W
+734,209,M15-029,POINT (-73.96888767162088 40.75460859654612),Installed,Type D,2 Avenue,E 50 Street,E 49 Street,W
+735,209,M15-030,POINT (-73.97250222671367 40.74964586183737),Installed,Type D,2 Avenue,E 42 Street,E 41 Street,W
+737,209,M15-032,POINT (-73.97898087853576 40.7407568613195),Installed,Type D,2 Avenue,E 28 Street,E 27 Street,W
+738,47.49,M15-002,POINT (-74.00701880679455 40.705306515939725),Installed,Type D,Water Street,Wall Street,Pine Street,S
+740,82.67,M15-004,POINT (-73.99730595880816 40.711940275447944),Installed,Type D,Madison Street,Catherine Street,Oliver Street,S
+741,201.35,M15-036,POINT (-73.99196862972454 40.716549280370096),Installed,Type D,Allen Street,Hester Street,Grand Street,W
+743,29,M15-006,POINT (-73.98820854973064 40.72342282478242),Installed,Type D,1 Avenue,E 1 Street,E 2 Street,E
+745,29,M15-007,POINT (-73.98214936609203 40.731650742219095),Installed,Type D,1 Avenue,E 14 Street,E 15 Street,E
+746,209,M15-034,POINT (-73.98538672277803 40.73192698192328),Installed,Type D,2 Avenue,E 14 Street,E 13 Street,W
+749,36.71,M15-003,POINT (-74.00358829773884 40.707736053648155),Installed,Type D,Pearl Street,Fulton Street,Beekman Street,S
+750,262.67,M15-037,POINT (-73.99725158871584 40.712108240115775),Installed,Type D,Madison Street,Catherine Street,Oliver Street,N
+751,29,M15-011,POINT (-73.96894643305339 40.7498362066561),Installed,Type D,1 Avenue,E 44 Street,E 43 Street,E
+766,124,X12-008,POINT (-73.89101985097886 40.8613538467409),Installed,Type D,E Fordham Road,Webster Avenue,3 Avenue,S
+783,23,X41-003,POINT (-73.910129735426 40.83115026550901),Sign Held,Type D,Webster Avenue,E 167 Street,E 168 Street,E
+785,37,X41-010,POINT (-73.87661995692726 40.87115542799487),Sign Held,Type D,Webster Avenue,E 204 Street,E 205 Street,E
+787,52,X41-001,POINT (-73.91797688173108 40.815773440686215),Sign Held,Type D,3 Avenue,E 149 Street,Willis Avenue,E
+789,23,X41-004,POINT (-73.90783718472078 40.83522934542145),Sign Held,Type D,Webster Avenue,E 170 Street,E 169 Street,E
+790,23,X41-005,POINT (-73.90500027760127 40.840197725128746),Sign Held,Type D,Webster Avenue,Claremont Parkway,E 173 Street,E
+791,23,X41-006,POINT (-73.9005729740728 40.848181803875924),Pending Sign,Type D,Webster Avenue,E Tremont Avenue,E 178 Street,E
+793,51,X41-009,POINT (-73.88324766252002 40.867374200880924),Sign Held,Type D,Webster Avenue,Bedford Park Boulevard,Botanical Square South,E
+798,203,X41-021,POINT (-73.91043207514453 40.83107918781159),Sign Held,Type D,Webster Avenue,E 167 Street,E 168 Street,W
+799,218,X41-016,POINT (-73.8918714029045 40.861360557841074),Pending Sign,Type D,Webster Avenue,E Fordham Road,E 188 Street,W
+801,203,X41-020,POINT (-73.90797922238785 40.83544528664222),Sign Held,Type D,Webster Avenue,E 170 Street,E 169 Street,W
+802,203,X41-019,POINT (-73.90536532195622 40.840062201942715),Sign Held,Type D,Webster Avenue,Claremont Parkway,Clay Avenue,W
+803,203,X41-018,POINT (-73.90084832770785 40.84817964016504),Sign Held,Type D,Webster Avenue,Valentine Avenue,E Tremont Avenue,W
+805,231,X41-015,POINT (-73.88388962759298 40.867214213880914),Pending Sign,Type D,Webster Avenue,Bedford Park Boulevard,E 199 Street,W
+806,233.52,X41-014,POINT (-73.87713871350198 40.871043719287336),Pending Sign,Type D,Webster Avenue,E 204 Street,E Mosholu Parkway North,W
+812,209,M60-030,POINT (-73.95660373887253 40.81311995552966),Installed,Type D,Amsterdam Avenue,La Salle Street,W 125 Street,W
+813,299,M60-029,POINT (-73.95181774329103 40.81055417694529),Installed,Type D,W 125 Street,Frederick Douglass Boulevard,St. Nicholas Avenue,N
+814,29,M60-004,POINT (-73.95651526897797 40.81283656538138),Installed,Type D,Amsterdam Avenue,W 125 Street,La Salle Street,E
+815,119,M60-005,POINT (-73.9524127984521 40.81057906081429),Installed,Type D,W 125 Street,St. Nicholas Avenue,Frederick Douglass Boulevard,S
+816,119,M60-006,POINT (-73.9448200571761 40.80738002626017),Installed,Type D,W 125 Street,Lenox Avenue,5 Avenue,S
+817,299,M60-028,POINT (-73.9461458592959 40.808164377528044),Installed,Type D,W 125 Street,Lenox Avenue,Adam Clayton Powell Boulevard,N
+819,119,M60-007,POINT (-73.94025021721247 40.80545820895702),Installed,Type D,E 125 Street,Madison Avenue,Park Avenue,S
+822,119,M60-009,POINT (-73.93412270064674 40.802873890240775),Installed,Type D,E 125 Street,2 Avenue,3 Avenue,S
+823,299,M60-025,POINT (-73.93424482580798 40.80314713083724),Installed,Type D,E 125 Street,2 Avenue,3 Avenue,N
+824,313,M60-024,POINT (-73.91729546369295 40.77104587584661),Removed Sign/Footing (Temporary),Type D,Hoyt Avenue North,31 Street,29 Street,N
+845,37.05,LM-141,POINT (-74.00793265432381 40.70811171500748),Installed,Type B,William Street,Maiden Lane,Platt Street,W
+847,119,MT-174,POINT (-73.97948845296338 40.75298198900127),Installed,Type A,E 42 Street,Madison Avenue,5 Avenue,N
+850,119,MT-178,POINT (-73.97672285649038 40.75162425716636),Installed,Type A,E 42 Street,Park Avenue,Lexington Avenue,S
+853,119,MT-181,POINT (-73.9750655763682 40.7509241371577),Installed,Type A,E 42 Street,3 Avenue,Lexington Avenue,S
+866,119,MT-195,POINT (-73.9853244188936 40.75792680738388),Installed,Type A,W 45 Street,7 Avenue,6 Avenue,N
+868,140.88,NR-134,POINT (-73.94745293846121 40.63246846744135),Installed,Type B,Flatbush Avenue,Nostrand Avenue,Avenue H,W
+869,29,MT-208,POINT (-73.98342603160482 40.75559401115066),Installed,Type B,6 Avenue,W 43 Street,W 44 Street,W
+870,29,MT-209,POINT (-73.9817273251334 40.76301371633241),Installed,Type B,7 Avenue,W 53 Street,W 54 Street,E
+871,119,MT-210,POINT (-73.98256696842759 40.763190878381266),Installed,Type B,W 53 Street,Broadway,7 Avenue,S
+873,119,GV-003,POINT (-73.99130115122801 40.72703974797881),Installed,Type B,E 4 Street,Bowery,2 Avenue,N
+874,29,GV-006,POINT (-73.99074427976664 40.73004870749496),Installed,Type B,4 Avenue,E 8 Street,E 9 Street,N
+875,29,GV-004,POINT (-73.9909786342301 40.72828018932914),Installed,Type B,Cooper Square (3 Avenue),E 6 Street,E 5 Street,W
+876,29,GV-005,POINT (-73.99136877027895 40.729961452599426),Installed,Type B,Lafayette Street,Astor Place,E 8 Street,W
+877,82,DB-023,POINT (-73.96427226762056 40.69370922372473),Installed,Type B,Myrtle Avenue,Grand Avenue,Ryerson Street,N
+881,151,NF-005,POINT (-73.9746486359603 40.680007188373914),Installed,Type B,Flatbush Avenue,St. Marks Avenue,6 Avenue,W
+884,15,NF-008,POINT (-73.97233051267143 40.67729544545146),Installed,Type B,Carlton Avenue,Flatbush Avenue,Park Place,W
+891,173,GW-005,POINT (-73.95964093370607 40.73173570467678),Sign Held,Type A,West Street,India Street,Java Street,W
+896,119,GV-008,POINT (-74.0049234379483 40.740671758107815),Installed,Type B,W 14 Street,Hudson Street,8 Avenue,S
+897,89.28,GV-009,POINT (-74.00596503718785 40.73943334031628),Installed,Type C,Gansevoort Street,Greenwich Street,Hudson Street,N
+913,95,DB-001,POINT (-73.9809740482181 40.70136642102741),Installed,Type A,York Street,Navy Street,Gold Street,N
+916,93,DB-004,POINT (-73.96758688097759 40.697786296191595),Installed,Type A,Flushing Avenue,Washington Avenue,Williamsburg Street West,N
+919,171.36,NR-137,POINT (-73.96784157718074 40.68785054700136),Installed,Type B,Clinton Avenue,Lafayette Avenue,Greene Avenue,W
+923,82,NR-141,POINT (-73.95406076745344 40.58575438504833),Installed,Type B,Shore Parkway,Shore Parkway,E 14 Street,N
+927,75,DB-009,POINT (-73.96309912374825 40.69807501879195),Installed,Type A,Flushing Avenue,Williamsburg Street West,Steuben Street,N
+943,30.46,SX-004,POINT (-73.91340295623249 40.83882455644667),Installed,Type B,Grand Concourse,E 170 Street,E 171 Street,E
+944,30.46,SX-003,POINT (-73.91413396766123 40.83863332479589),Installed,Type B,Grand Concourse,E 170 Street,Elliot Place,W
+945,36.31,SX-002,POINT (-73.91730367055249 40.8345860638423),Installed,Type B,Grand Concourse,E 167 Street,E 168 Street,E
+946,36.31,SX-001,POINT (-73.91814790275282 40.83439890939062),Installed,Type B,Grand Concourse,E 167 Street,Tudor Place,W
+948,117,SX-006,POINT (-73.9175030275052 40.8400715435405),Installed,Type B,E 170 Street,Jerome Avenue,Townsend Avenue,S
+949,19,SX-007,POINT (-73.91763659619339 40.816222618271084),Installed,Type B,Melrose Avenue,E 149 Street,E 150 Street,E
+950,118.64,SX-008,POINT (-73.91755714657833 40.815927966522075),Installed,Type B,E 149 Street,3 Avenue,Bergen Avenue,S
+951,205,X41-025,POINT (-73.91772586669869 40.81631012298567),Sign Held,Type D,Melrose Avenue,E 149 Street,E 150 Street,W
+953,124.32,FR-001,POINT (-73.89125266064028 40.86148182350258),Installed,Type C,E Fordham Road,Webster Avenue,3 Avenue,S
+954,98.97,FR-005,POINT (-73.89456391394955 40.862126620626704),Installed,Type B,E Fordham Road,E Kingsbridge Road,Valentine Avenue,N
+959,10,RW-001,POINT (-73.75318783016303 40.603217264108764),Installed,Type B,Beach 20 Street,Cornaga Avenue,Mott Avenue,W
+965,82.45,CO-001,POINT (-73.86231727737814 40.74979318753188),Installed,Type C,Roosevelt Avenue,National Street,104 Street,S
+969,29,UE-006,POINT (-73.94327621144392 40.776794680076755),Pending Sign,Type A,East End Avenue,E 89 Street,E 88 Street,E
+970,29,UE-005,POINT (-73.94466819978182 40.774884885445324),Sign Held,Type A,East End Avenue,E 86 Street,,E
+972,119,UE-002,POINT (-73.9560648803685 40.77959515214696),Pending Sign,Type B,E 86 Street,Lexington Avenue,Park Avenue,S
+977,160.23,FG-003,POINT (-73.82975060662288 40.758462062283876),Installed,Type B,Main Street,41 Avenue,40 Road,W
+980,155.45,FG-006,POINT (-73.83182010292103 40.762958519255086),Removed Sign/Footing (Temporary),Type B,Main Street,Northern Boulevard,Northern Boulevard,E
+984,119,UM-001,POINT (-73.93360901180138 40.84917988277828),Installed,Type A,W 181 Street,St. Nicholas Avenue,Audubon Avenue,S
+985,16.65,UM-002,POINT (-73.93841343811575 40.85080229227997),Installed,Type A,Fort Washington Avenue,W 181 Street,W 180 Street,W
+1000,150.68,DB-011,POINT (-73.98052965467244 40.68861306549064),Installed,Type B,Flatbush Avenue,Fulton Street,Livingston Street,E
+1001,149.99,DB-012,POINT (-73.97805571312699 40.68513270165639),Installed,Type B,Flatbush Avenue,Hanson Place,Lafayette Avenue,N
+1002,27,DB-013,POINT (-73.97853890325433 40.68378390945135),Installed,Type B,4 Avenue,Pacific Street,Atlantic Avenue,E
+1003,117.71,DB-014,POINT (-73.9762119815462 40.68709555870145),Installed,Type B,Fulton Street,Lafayette Avenue,Fort Greene Place,N
+1004,120,DB-015,POINT (-73.97324905535525 40.68572584992718),Installed,Type B,Fulton Street,Hanson Place,South Portland Avenue,S
+1017,84.11,RD-001,POINT (-73.88128438052286 40.701847790842315),Installed,Type B,Myrtle Avenue,70 Street,69 Place,S
+1018,79.44,EB-001,POINT (-73.8832200880914 40.66629286349936),Installed,Type B,Livonia Avenue,Ashford Street,Warwick Street,S
+1019,90,RD-003,POINT (-73.89976232590435 40.70056270613133),Installed,Type B,Myrtle Avenue,Forest Avenue,71 Avenue,N
+1022,81.6,JH-003,POINT (-73.8836552883602 40.74758924647894),Installed,Type A,Roosevelt Avenue,82 Street,83 Street,N
+1023,172.26,JH-002,POINT (-73.88403441891741 40.74796774272087),Installed,Type B,82 Street,Roosevelt Avenue,37 Avenue,W
+1024,81.69,JH-004,POINT (-73.89219329899753 40.74719556804267),Installed,Type B,37 Road,73 Street,74 Street,N
+1025,171.56,EH-001,POINT (-73.89142550991978 40.74650310252891),Installed,Type A,74 Street,Broadway,41 Avenue,W
+1029,108.92,SX-016,POINT (-73.92700570333128 40.81838955392367),Installed,Type B,E 149 Street,Grand Concourse,Anthony J. Griffin Place,S
+1031,20.09,SX-018,POINT (-73.92692047515818 40.81903498591818),Installed,Type A,Grand Concourse,E 149 Street,E 150 Street,E
+1033,154.2,SX-020,POINT (-73.9296704606766 40.82660491930601),Installed,Type B,E 153 Street,E 157 Street,River Avenue,N
+1035,24.18,SX-022,POINT (-73.9262451036346 40.82741062744537),Installed,Type A,River Avenue,E 161 Street,E 158 Street,W
+1036,129.89,SX-023,POINT (-73.92705857183448 40.82791516023531),Installed,Type B,E 161 Street,River Avenue,Macombs Dam Bridge,S
+1040,119,SX-027,POINT (-73.92991275417359 40.81324866066701),Installed,Type B,E 138 Street,Grand Concourse E,Grand Concourse W,N
+1041,112.25,SX-028,POINT (-73.92408911877878 40.82748070702179),Installed,Type B,E 161 Street,Walton Avenue,Gerard Avenue,N
+1042,112.63,SX-029,POINT (-73.92301460206389 40.826677255153236),Installed,Type B,E 161 Street,Grand Concourse,Walton Avenue,S
+1043,108.58,SX-030,POINT (-73.92299484594409 40.81733942310511),Installed,Type B,E 149 Street,Morris Avenue,Park Avenue,S
+1044,114.89,NR-143,POINT (-73.9575071319861 40.70836531338015),Installed,Type B,Broadway,Marcy Avenue,Rodney Street,N
+1045,114.88,NR-144,POINT (-73.95769254477118 40.708267218747764),Installed,Type B,Broadway,Marcy Avenue,Rodney Street,S
+1047,23.85,SX-031,POINT (-73.92348104360283 40.82569632878505),Installed,Type B,Grand Concourse,E 158 Street,E 161 Street,W
+1048,114.01,SX-032,POINT (-73.92086838929255 40.83567187115015),Installed,Type B,E 167 Street,River Avenue,Gerard Avenue,N
+1049,113.24,SX-033,POINT (-73.92096067639407 40.826233812366624),Installed,Type B,E 161 Street,Concourse Village West,Sherman Avenue,S
+1050,22.27,SX-034,POINT (-73.91863893607982 40.82541750112827),Installed,Type B,Concourse Village East,E 161 Street,E 158 Street,W
+1052,29.12,SX-036,POINT (-73.91939697115329 40.83301600269094),Installed,Type B,Grand Concourse,McClellan Street,E 166 Street,W
+1054,95.86,SX-038,POINT (-73.92182754400226 40.84036794893543),Installed,Type B,W 170 Street,Edward L. Grant Highway,Shakespeare Avenue,N
+1057,119.09,SX-041,POINT (-73.9255236304327 40.81012878993224),Installed,Type A,E 138 Street,Alexander Avenue,3 Avenue,S
+1058,166.24,SX-042,POINT (-73.93027651664882 40.819547014459516),Installed,Type B,Exterior Street,E 149 Street,E 150 Street,E
+1062,23.72,SX-046,POINT (-73.92693829885197 40.825950287498415),Installed,Type A,River Avenue,E 157 Street,E 158 Street,E
+1063,112.63,SX-047,POINT (-73.92229177707759 40.826918993746546),Installed,Type B,E 161 Street,Grand Concourse,Sheridan Avenue,N
+1067,289.71,FR-009,POINT (-73.89130423598334 40.860122244661554),Installed,Type C,E 189 Street,3 Avenue,Park Avenue,N
+1074,21.4,LM-148,POINT (-73.99006264182013 40.71938123548931),Installed,Type A,Allen Street,Delancey Street,Rivington Street,E
+1076,21.4,LM-146,POINT (-73.98845326261338 40.71829013203168),Installed,Type A,Essex Street,Delancey Street,Broome Street,W
+1077,21.4,LM-147,POINT (-73.98567107189449 40.71803981260082),Installed,Type B,Clinton Street,Delancey Street,Rivington Street,W
+1079,111.4,LM-150,POINT (-73.9908597899575 40.723447810870255),Installed,Type B,E Houston Street,Chrystie Street,Forsyth Street,S
+1088,111.87,SX-050,POINT (-73.92585283271958 40.82753879735249),Installed,Type B,E 161 Street,River Avenue,Gerard Avenue,S
+1090,84.5,CH-055,POINT (-73.99432448785939 40.714299755043776),Installed,Type B,Division Street,Forsyth Street,Market Street,N
+1094,16.41,LM-157,POINT (-74.01429242000722 40.70831131439666),Installed,Type A,Washington Street,Rector Street,Carlisle Street,E
+1107,32.55,LM-158,POINT (-74.00651282387312 40.71357556614044),Installed,Type B,Broadway,Warren Street,Chambers Street,E
+1108,46.52,LM-159,POINT (-74.00493212631976 40.712467642113694),Installed,Type C,Centre Street,Brooklyn Bridge,Chambers Street,W
+1110,11.64,LM-161,POINT (-74.01175274324689 40.713959440591445),Installed,Type B,Greenwich Street,Barclay Street,Park Place,W
+1112,128.19,LM-163,POINT (-74.00541858955697 40.70896351736825),Installed,Type A,Fulton Street,Gold Street,Ryders Alley,S
+1114,37.28,LM-165,POINT (-74.0068890518557 40.7065531017077),Installed,Type A,Pearl Street,Maiden Lane,Cedar Street,E
+1115,129.33,LM-166,POINT (-74.01018560332894 40.70687565719635),Installed,Type B,Wall Street,Broad Street,William Street,N
+1120,151.53,NR-146,POINT (-73.962570771931 40.66313735907833),Installed,Type B,Flatbush Avenue,Ocean Avenue,East Drive,W
+1121,94.01,NR-147,POINT (-73.93821911276811 40.6796990708724),Installed,Type B,Fulton Street,Albany Avenue,Troy Avenue,S
+1122,94.11,NR-148,POINT (-73.94649054329784 40.680291802786826),Installed,Type B,Fulton Street,Marcy Avenue,Verona Place,N
+1124,82.85,NR-150,POINT (-73.94903304943304 40.711077140309456),Installed,Type B,Grand Street,Lorimer Street,Union Avenue,S
+1125,25.79,NR-151,POINT (-73.96373174264781 40.71076255550271),Installed,Type A,Bedford Avenue,S 6 Street,Williamsburg Bridge,W
+1126,66,FG-007,POINT (-73.83043146875416 40.75954901517782),Installed,Type B,Roosevelt Avenue,Main Street,Prince Street,N
+1127,66,FG-008,POINT (-73.83038087890188 40.75942016198039),Installed,Type B,Roosevelt Avenue,Main Street,Prince Street,S
+1128,160,FG-009,POINT (-73.8301033274123 40.75970066055786),Installed,Type B,Main Street,Roosevelt Avenue,39 Avenue,E
+1131,160,Q44-046,POINT (-73.83068183151245 40.76046372064368),Installed,Type D,Main Street,39 Avenue,38 Avenue,W
+1132,340,Q44-016,POINT (-73.83055087000187 40.760607104810155),Installed,Type D,Main Street,38 Avenue,39 Avenue,E
+1133,159.04,FG-014,POINT (-73.83088082095696 40.761298244602074),Installed,Type B,Main Street,37 Avenue,38 Avenue,E
+1138,71.93,FG-019,POINT (-73.8290717120324 40.759902838085026),Installed,Type B,Roosevelt Avenue,Main Street,Union Street,N
+1141,134.58,HTM-005,POINT (-74.00392686787865 40.71457769846233),Installed,Heritage Trail Marker,Duane Street,Elk Street,Lafayette Street,N
+1142,54,HTM-011,POINT (-74.0032712619444 40.7137435536409),Installed,Heritage Trail Marker,Centre Street,Duane Street,Reade Street,N
+1144,72.32,HTM-023,POINT (-74.00763292567558 40.71144004444251),Installed,Heritage Trail Marker,Park Row,Beekman Street,Ann Street,E
+1145,32.37,HTM-035,POINT (-74.00803259935783 40.712271900028135),Installed,Heritage Trail Marker,Broadway,Barclay Street,Park Place,W
+1146,212.69,HTM-034,POINT (-74.00984957929487 40.709857701081326),Installed,Heritage Trail Marker,Broadway,Cortlandt Street,John Street,E
+1147,27,HTM-006,POINT (-74.01231757208693 40.70860052657618),Installed,Heritage Trail Marker,Trinity Place,Thames Street,Rector Street,N
+1148,300,HTM-016,POINT (-74.01005634533297 40.70886333265621),Removed Sign Only (Permanent),Heritage Trail Marker,Liberty Street,Liberty Place,Broadway,S
+1150,314,HTM-019,POINT (-74.00794234469312 40.709123319674326),Installed,Heritage Trail Marker,John Street,Dutch Street,Nassau Street,S
+1153,307.73,HTM-004,POINT (-74.00868498492565 40.70670018319739),Installed,Heritage Trail Marker,Pine Street,William Street,Pearl Street,S
+1154,309.44,HTM-001,POINT (-74.01086028842273 40.70730971669145),Installed,Heritage Trail Marker,Wall Street,Nassau Street,Broadway,N
+1156,24.19,HTM-022,POINT (-74.01083911902882 40.706658893971095),Installed,Heritage Trail Marker,Broad Street,Exchange Place,Wall Street,E
+1157,34.92,HTM-003,POINT (-74.00906477298068 40.706073650161414),Installed,Heritage Trail Marker,Wall Street,Hanover Street,William Street,S
+1158,7.33,HTM-021,POINT (-74.01138896679656 40.70519351972054),Installed,Heritage Trail Marker,Broad Street,Beaver Street,Exchange Place,E
+1159,25,HTM-007,POINT (-74.01445531121593 40.70444196605801),Removed Sign Only (Permanent),Heritage Trail Marker,Battery Place,State Street,Broadway,S
+1160,314.59,HTM-024,POINT (-74.01386921258596 40.70255148051227),Installed,Heritage Trail Marker,State Street,Bus Slip,Pearl Street,N
+1161,77.74,HTM-017,POINT (-74.01140924110115 40.70358650616443),Installed,Heritage Trail Marker,Pearl Street,Broad Street,Coenties Slip,N
+1163,228.68,HTM-037,POINT (-74.00877402656396 40.7040866859618),Installed,Heritage Trail Marker,Water Street,Old Slip,,E
+1164,41.6,NR-153,POINT (-73.94864740150564 40.6321686055434),Removed Sign Only (Temporary),Type B,Hillel Place,Campus Road,Kenilworth Place,N
+1165,171.47,NR-152,POINT (-73.94686058928977 40.63188075124264),Installed,Type B,Flatbush Avenue,Avenue H,Nostrand Avenue,W
+1166,173,GW-011,POINT (-73.9592873019592 40.729575085570815),Installed,Type A,West Street,Greenpoint Avenue,Milton Street,W
+1168,95,DB-028,POINT (-73.97055365473133 40.69791011606891),Pending Sign,Type A,Flushing Avenue,Vanderbilt Avenue,Clinton Avenue,N
+1174,119,M86-002,POINT (-73.9553378681306 40.77929911354305),Pending Sign,Type D,E 86 Street,Lexington Avenue,3 Avenue,S
+1175,299,M86-001,POINT (-73.95593267058157 40.77973685961005),Pending Sign,Type D,E 86 Street,Lexington Avenue,Park Avenue,N
+1176,299,M86-003,POINT (-73.95439990601902 40.77908474635214),Pending Sign,Type D,E 86 Street,3 Avenue,Lexington Avenue,N
+1177,119,M86-004,POINT (-73.95366811235083 40.778605198144454),Pending Sign,Type D,E 86 Street,3 Avenue,2 Avenue,S
+1178,41.3,LM-171,POINT (-74.01357906936384 40.7020506396215),Installed,Custom,Peter Minuit Plaza,State Street,,W
+1179,221.3,LM-172,POINT (-74.01357906936384 40.7020506396215),Installed,Custom,Peter Minuit Plaza,State Street,,W
+1180,41.3,LM-173,POINT (-74.01346527000116 40.70197455523577),Installed,Custom,Peter Minuit Plaza,State Street,,W
+1181,221.3,LM-174,POINT (-74.01346527000116 40.70197455523577),Installed,Custom,Peter Minuit Plaza,State Street,,W
+1182,41.3,LM-175,POINT (-74.01335147208131 40.70189846983611),Installed,Custom,Peter Minuit Plaza,State Street,,W
+1183,221.3,LM-176,POINT (-74.01335147208131 40.70189846983611),Installed,Custom,Peter Minuit Plaza,State Street,,W
+1185,328.73,HTM-027,POINT (-74.0040892166808 40.70724121953899),Installed,Heritage Trail Marker,Fulton Street,Water Street,Front Street,S
+1186,56.69,HTM-026,POINT (-74.00267760610426 40.70794081415187),Installed,Heritage Trail Marker,Water Street,Beekman Street,Peck Slip,E
+1187,140,HTM-025,POINT (-74.00138347511307 40.705018129298324),Removed Sign Only (Permanent),Heritage Trail Marker,Pier 17,East River,,W
+1188,29,UM-006,POINT (-73.91526686883792 40.8692803870076),Installed,Type B,10 Avenue,W 215 Street,W 214 Street,E
+1189,29,UM-007,POINT (-73.91865371754496 40.8646461999949),Installed,Type B,10 Avenue,W 207 Street,Post Avenue,E
+1190,69.42,UM-008,POINT (-73.92000913151693 40.868139537440875),Installed,Type B,Broadway,Isham Street,W 207 Street,W
+1191,64.76,UM-009,POINT (-73.92148109632124 40.86770016420124),Installed,Type B,Broadway,W 207 Street,W 204 Street,W
+1192,64.76,UM-010,POINT (-73.92299016222071 40.86716055266133),Installed,Type B,Broadway,W 204 Street,W 207 Street,W
+1193,154,UM-011,POINT (-73.92727296430986 40.86533117862172),Installed,Type B,Dyckman Street,Broadway,Vermilyea Avenue,S
+1194,0,UM-013,POINT (-73.92516904709264 40.86123067005089),Installed,Type B,Hillside Avenue,Nagle Avenue,Sickles Street,E
+1197,21.84,UM-016,POINT (-73.93255003011406 40.85880137836663),Installed,Type B,Bennett Avenue,W 192 Street,Broadway,E
+1198,20.94,UM-017,POINT (-73.93424498444737 40.858911488161624),Installed,Type B,Fort Washington Avenue,Margaret Corbin Circle,W 190 Street,E
+1199,21.8,UM-018,POINT (-73.93262914935144 40.856492935541254),Installed,Type B,Broadway,W 190 Street,W 189 Street,E
+1200,29,UM-019,POINT (-73.92949698921659 40.855291174992615),Installed,Type B,St. Nicholas Avenue,W 191 Street,W 190 Street,W
+1201,8.21,UM-020,POINT (-73.93643683753264 40.85279902654081),Installed,Type B,Overlook Terrace,W 184 Street,W 186 Street,E
+1202,13.09,UM-021,POINT (-73.93745813563655 40.85300552442591),Installed,Type B,Fort Washington Avenue,W 185 Street,W 183 Street,E
+1203,119,UM-022,POINT (-73.93750470353798 40.848258834922106),Installed,Type B,W 178 Street,Broadway,Wadsworth Avenue,S
+1204,16.95,UM-023,POINT (-73.93948709818564 40.84770518326423),Installed,Type B,Fort Washington Avenue,W 177 Street,W 176 Street,E
+1205,16.95,UM-024,POINT (-73.94021562237327 40.84635201776935),Installed,Type B,Fort Washington Avenue,W 175 Street,W 174 Street,W
+1209,19.22,UM-028,POINT (-73.93659540039219 40.83709147295915),Installed,Type A,Edgecombe Avenue,W 165 Street,W 164 Street,E
+1211,170.59,UM-030,POINT (-73.93971220744018 40.83547378137487),Installed,Type B,St. Nicholas Avenue,W 162 Street,W 161 Street,W
+1214,137.82,UM-033,POINT (-73.92735781986786 40.86571328996847),Installed,Type B,Dyckman Street,Broadway,Seaman Avenue,N
+1216,29,UM-034,POINT (-73.93956442370698 40.84164233597604),Installed,Type B,Broadway,W 169 Street,W 168 Street,W
+1217,119,UM-035,POINT (-73.93933712926258 40.84081994925265),Installed,Type B,W 168 Street,St. Nicholas Avenue,Audubon Avenue,N
+1220,29,UM-038,POINT (-73.93673958676825 40.830195964655985),Installed,Type B,Frederick Douglass Boulevard,W 155 Street,Harlem River Drive,W
+1221,29,UM-039,POINT (-73.94574947157949 40.832561157779026),Pending Blades,Fingerpost,Broadway,W 155 Street,W 153 Street,E
+1222,29,UM-040,POINT (-73.95044136491875 40.82613982877411),Installed,Type B,Broadway,W 145 Street,W 144 Street,E
+1225,119,UM-043,POINT (-73.93640669342535 40.81233114618002),Installed,Type B,E 135 Street,Madison Avenue,5 Avenue,N
+1238,29,UM-056,POINT (-73.9374149165743 40.80417331831825),Installed,Type B,Lexington Avenue,E 125 Street,E 124 Street,E
+1239,119,UM-057,POINT (-73.9368434089524 40.804235621012715),Removed Sign/Footing (Permanent),Type B,E 125 Street,Lexington Avenue,3 Avenue,N
+1240,119,UM-058,POINT (-73.93775140221985 40.804410754017454),Installed,Type B,E 125 Street,Lexington Avenue,Park Avenue,S
+1243,29,UM-061,POINT (-73.95842787798641 40.80004506433829),Pending Sign,Type B,Central Park West,Frederick Douglass Circle,W 97 Street,E
+1244,29,UM-062,POINT (-73.95248422219315 40.798435554420585),Installed,Type B,Lenox Avenue,Central Park North,W 111 Street,W
+1245,119,UM-063,POINT (-73.94464218674905 40.79476035614654),Installed,Type B,E 110 Street,Lexington Avenue,Park Avenue,S
+1246,119,UM-064,POINT (-73.9419207270786 40.798648549495844),Installed,Type B,E 116 Street,Lexington Avenue,Park Avenue,S
+1247,119,UM-065,POINT (-73.94991142614747 40.802224739506684),Installed,Type B,W 116 Street,Lenox Avenue,"Adam Clayton Powell, Jr. Boulevard",N
+1248,119,UM-066,POINT (-73.95217131184424 40.803176818858155),Installed,Type B,W 116 Street,"Adam Clayton Powell, Jr Boulevard",Lenox Avenue,N
+1252,119,UM-072,POINT (-73.944634035108 40.82387825195224),Installed,Type B,W 145 Street,St. Nicholas Avenue,Edgecombe Avenue,S
+1254,29,UM-071,POINT (-73.93621125370494 40.82022711495156),Installed,Type B,Lenox Avenue,W 145 Street,W 143 Street,E
+1255,19.46,UM-073,POINT (-73.94813469014245 40.8171144353193),Installed,Type B,St. Nicholas Avenue,W 135 Street,W 134 Street,W
+1256,2.78,DB-029,POINT (-73.98852034584694 40.69595034369656),Installed,Type A,Adams Street,Tillary Street,Johnson Street,E
+1257,2.78,DB-030,POINT (-73.98876599668364 40.69646776551499),Installed,Type C,Adams Street,Tillary Street,Red Cross Place,C
+1260,171.54,JH-006,POINT (-73.891419595849 40.747133550957756),Installed,Type B,74 Street,37 Road,Roosevelt Avenue,E
+1261,111.17,NX-005,POINT (-73.86640353427181 40.87749391527742),Installed,Type B,E Gun Hill Road,Duncomb Avenue,White Plains Road,N
+1272,29,UW-011,POINT (-73.9729988587815 40.79330695111728),Installed,Type B,Broadway,W 94 Street,W 93 Street,W
+1273,29,UW-012,POINT (-73.9729480874831 40.79274269209178),Installed,Type B,Broadway,W 93 Street,W 94 Street,E
+1278,29,UW-017,POINT (-73.96674800166828 40.80441956171172),Installed,Type B,Broadway,W 110 Street,W 111 Street,W
+1280,119,UW-019,POINT (-73.96361550624854 40.80295857039323),Installed,Type B,W 110 Street,Amsterdam Avenue,Columbus Avenue,N
+1296,119,UM-078,POINT (-73.94202874130598 40.80642149600298),Pending Sign,Type B,E 125 Street,5 Avenue,Madison Avenue,N
+1300,81.35,DB-031,POINT (-73.97286601610547 40.68584306296562),Installed,Type B,Greene Avenue,Fulton Street,Cumberland Street,S
+1301,78.08,BV-001,POINT (-73.91830140288252 40.66863267586626),Pending Sign,Type B,Pitkin Avenue,Grafton Street,Legion Street,N
+1305,82.85,GW-012,POINT (-73.94091733323766 40.71184907825917),Installed,Type B,Grand Street,Bushwick Avenue,Humboldt Street,S
+1306,82.85,GW-013,POINT (-73.94374576442281 40.71158045355847),Installed,Type B,Grand Street,Graham Avenue,Humboldt Street,S
+1308,119,UE-012,POINT (-73.96792317858434 40.76287149002427),Pending Sign,Type B,E 60 Street,Lexington Avenue,Park Avenue,S
+1318,155.96,JM-001,POINT (-73.80301630754965 40.70795060533099),Installed,Type B,Parsons Boulevard,Hillside Avenue,87 Road,W
+1320,273.98,BV-002,POINT (-73.90375764685514 40.67796365993617),Sign Held,Type D,Fulton Street,Van Sinderen Avenue,Sackman Street,N
+1321,169.12,BV-003,POINT (-73.90353974653874 40.67809778208819),Sign Held,Type D,Van Sinderen Avenue,Fulton Street,Truxton Street,W
+1322,349.12,BV-004,POINT (-73.90358595637686 40.67827268914217),Installed,Type C,Van Sinderen Avenue,Fulton Street,Truxton Street,W
+1324,29,UM-080,POINT (-73.93261544366275 40.8510288189463),Installed,Type B,St. Nicholas Avenue,W 183 Street,W 184 Street,W
+1331,120,LI-042,POINT (-73.93961652246803 40.75075786860197),Installed,Type B,Queens Plaza North,27 Street,Crescent Street,N
+1346,84.67,NS-001,POINT (-74.15276572903906 40.6369243777079),Pending Sign,Type A,Richmond Terrace,Van Name Avenue,Mariners Lane,N
+1347,171.89,JH-005,POINT (-73.89240250752214 40.746954338636954),Installed,Type B,73 Street,Broadway,Roosevelt Avenue,W
+1349,206.21,X41-026,POINT (-73.89874388528246 40.85149735636197),Sign Held,Type D,Webster Avenue,E 180 Street,E 178 Street,W
+1350,26.1,X41-027,POINT (-73.89834211987015 40.851771776458875),Pending Sign,Type D,Webster Avenue,E 180 Street,E 179 Street,E
+1351,29,UM-082,POINT (-73.95253759074538 40.81101996623207),Pending Sign,Type B,St. Nicholas Avenue,W 125 Street,W 126 Street,W
+1354,97.09,LM-180,POINT (-74.00497217454918 40.728516036364965),Installed,Type B,W Houston Street,Varick Street,6 Avenue,S
+1359,63,HB-055,POINT (-73.9616366865252 40.65506085587048),Installed,Type B,Parkside Avenue,Ocean Avenue,Parkside Court,N
+1360,29,FC-087,POINT (-73.98808368222942 40.7546619616914),Installed,Type A,7 Avenue,W 40 Street,W 39 Street,W
+1364,155.63,JM-005,POINT (-73.80257449591772 40.70751079048249),Installed,Type B,Parsons Boulevard,Hillside Avenue,88 Avenue,E
+1366,154.17,JM-007,POINT (-73.7949153238547 40.705585278151936),Installed,Type B,165 Street,Jamaica Avenue,89 Avenue,E
+1368,166.5,JM-009,POINT (-73.80001643892281 40.70322992110941),Installed,Type B,Parsons Boulevard,Jamaica Avenue,Archer Avenue,E
+1369,169.56,JM-010,POINT (-73.80764793492011 40.700739801829386),Installed,Type B,Sutphin Boulevard,Archer Avenue,Jamaica Avenue,E
+1370,89.05,JM-011,POINT (-73.80775117586215 40.70169202575596),Installed,Type B,Jamaica Avenue,Sutphin Boulevard,148 Street,S
+1382,155.92,JM-017,POINT (-73.79297056351864 40.710464642101726),Installed,Type A,169 Street,Hillside Avenue,88 Avenue,W
+1385,159.72,JM-020,POINT (-73.80210468774573 40.702631586253794),Installed,Type B,153 Street,Jamaica Avenue,Archer Avenue,E
+1389,29,FC-090,POINT (-73.98870405678083 40.75381056570014),Installed,Type B,7 Avenue,W 38 Street,W 39 Street,W
+1392,209,M86-006,POINT (-73.94706263292913 40.77621638159256),Installed,Type D,York Avenue,E 86 Street,E 87 Street,W
+1394,119,M86-021,POINT (-73.95854060618973 40.78062758104662),Installed,Type D,E 86 Street,Madison Avenue,Park Avenue,S
+1395,119,M86-022,POINT (-73.95144267529685 40.77763431746677),Installed,Type D,E 86 Street,2 Avenue,1 Avenue,S
+1396,119,M86-023,POINT (-73.94920059582182 40.77668825278227),Installed,Type D,E 86 Street,1 Avenue,York Avenue,S
+1398,119,M86-019,POINT (-73.96982391140762 40.785380363263506),Installed,Type D,W 86 Street,Central Park West,Columbus Avenue,S
+1399,119,M86-018,POINT (-73.97253693858946 40.78652875838978),Installed,Type D,W 86 Street,Columbus Avenue,Amsterdam Avenue,S
+1400,119,M86-017,POINT (-73.97544199999007 40.78775425390528),Installed,Type D,W 86 Street,Amsterdam Avenue,Broadway,S
+1403,299,M86-008,POINT (-73.9520136632623 40.778111793210456),Pending Sign,Type D,E 86 Street,2 Avenue,3 Avenue,N
+1405,299,M86-010,POINT (-73.96018732698445 40.78154535804148),Installed,Type D,E 86 Street,5 Avenue,Madison Avenue,N
+1406,299,M86-011,POINT (-73.96956804355369 40.785503983434516),Installed,Type D,W 86 Street,Central Park West,Columbus Avenue,N
+1407,299,M86-012,POINT (-73.97254409544995 40.78674769442346),Installed,Type D,W 86 Street,Columbus Avenue,Amsterdam Avenue,N
+1411,7.63,LM-181,POINT (-74.00564533611286 40.72556222279236),Installed,Type B,Varick Street,Spring Street,Dominick Street,E
+1412,14,LI-043,POINT (-73.95330694776752 40.7454017517532),Installed,Type A,Vernon Boulevard,47 Avenue,47 Road,W
+1426,171.4,B46-001,POINT (-73.9312380972813 40.693411026902396),Installed,Type D,Malcolm X Boulevard,DeKalb Avenue,Kosciuszko Street,W
+1427,171.4,B46-002,POINT (-73.93033167409271 40.688687638410734),Installed,Type D,Malcolm X Boulevard,Gates Avenue,Quincy Street,W
+1428,351.4,B46-024,POINT (-73.93015319075299 40.68884732456452),Installed,Type D,Malcolm X Boulevard,Gates Avenue,Quincy Street,E
+1429,215.02,B46-004,POINT (-73.92893156197603 40.67954860298387),Installed,Type D,Malcolm X Boulevard,Fulton Street,Marion Street,W
+1430,38.17,B46-022,POINT (-73.92921340525132 40.679016080843304),Installed,Type D,Utica Avenue,Fulton Street,Herkimer Street,E
+1431,184,B46-005,POINT (-73.93126740188066 40.66812511248794),Removed Sign/Footing (Temporary),Type D,Utica Avenue,Eastern Parkway,Union Street,W
+1432,4,B46-021,POINT (-73.931088211028 40.668191692994746),Removed Sign/Footing (Temporary),Type D,Utica Avenue,Eastern Parkway,Union Street,E
+1433,4,B46-020,POINT (-73.93145776017995 40.663778439174656),Installed,Type D,Utica Avenue,Empire Boulevard,Montgomery Street,E
+1435,356.2,B46-019,POINT (-73.93090701770815 40.657649574907),Pending Sign,Type D,Utica Avenue,Winthrop Street,Clarkson Avenue,E
+1436,175.3,B46-007,POINT (-73.93120384987378 40.65810813578446),Pending Sign,Type D,Utica Avenue,Winthrop Street,Clarkson Avenue,W
+1437,176.5,B46-018,POINT (-73.93031865065569 40.65214927002993),Pending Sign,Type D,Utica Avenue,Church Avenue,Linden Boulevard,E
+1438,175.4,B46-008,POINT (-73.930491454915 40.65145367790538),Pending Sign,Type D,Utica Avenue,Church Avenue,Snyder Avenue,W
+1439,175.33,B46-009,POINT (-73.92949144169178 40.64242071844448),Pending Sign,Type D,Utica Avenue,Avenue D,Clarendon Road,W
+1440,175.33,B46-017,POINT (-73.92922200575926 40.64188281004466),Pending Sign,Type D,Utica Avenue,Avenue D,Foster Avenue,E
+1441,355.3,B46-016,POINT (-73.92824122756726 40.63271216945675),Pending Sign,Type D,Utica Avenue,Avenue H,Avenue I,E
+1442,175.27,B46-010,POINT (-73.92845103384535 40.6326466253143),Pending Sign,Type D,Utica Avenue,Avenue H,Avenue I,W
+1443,175.33,B46-011,POINT (-73.92781716565693 40.62672577675929),Pending Sign,Type D,Utica Avenue,Flatlands Avenue,Avenue J,W
+1444,175.33,B46-015,POINT (-73.92749397526578 40.625452501701865),Pending Sign,Type D,Utica Avenue,Avenue K,Avenue L,E
+1445,175.33,B46-014,POINT (-73.92681581418888 40.61934960270803),Pending Sign,Type D,Utica Avenue,Avenue N,Avenue M,E
+1446,175.33,B46-012,POINT (-73.92693218317214 40.61858891040354),Pending Sign,Type D,Utica Avenue,Avenue N,Avenue O,W
+1447,319.6,B46-013,POINT (-73.9210582995841 40.6092093276496),Sign Held,Type D,Flatbush Avenue,Avenue U,Avenue V,E
+1448,171.4,B46-003,POINT (-73.9293281910842 40.683781986510844),Installed,Type D,Malcolm X Boulevard,Halsey Street,Macon Street,W
+1449,351.4,B46-023,POINT (-73.92926864758523 40.68442172382793),Installed,Type D,Malcolm X Boulevard,Halsey Street,Hancock Street,E
+1461,119,UM-085,POINT (-73.9415319196979 40.831054208028895),Installed,Type A,W 155 Street,St. Nicholas Avenue,Amsterdam Avenue,N
+1462,146.35,UM-086,POINT (-73.95815734190316 40.81534034999489),Installed,Type B,W 125 Street,Broadway,Amsterdam Avenue,S
+1465,119,SX-062,POINT (-73.91452644265017 40.844304578156944),Installed,Type B,E Mount Eden Avenue,Jerome Avenue,Townsend Avenue,N
+1466,14.3,SX-063,POINT (-73.91163227888762 40.8433086959426),Pending Sign,Type B,Grand Concourse,Mount Eden Parkway,E 173 Street,E
+1468,154.17,JM-024,POINT (-73.79626368406895 40.70756957371608),Installed,Type B,165 Street,89 Avenue,Jamaica Avenue,W
+1469,153.56,JM-025,POINT (-73.79500692373709 40.70754036579855),Installed,Type B,Merrick Boulevard,90 Avenue,89 Avenue,E
+1470,68.8,JM-026,POINT (-73.79090423983698 40.706725279589016),Installed,Type B,Jamaica Avenue,169 Street,168 Place,S
+1484,127.88,SB-030,POINT (-74.00674120303877 40.65564332847205),Pending Sign,Type B,36 Street,3 Avenue,2 Avenue,S
+1485,45.98,KB-001,POINT (-73.90978706825994 40.87432857878421),Pending Sign,Type B,Broadway,W 225 Street,W 225 Street,E
+1486,125.18,KB-002,POINT (-73.9106030176346 40.874480364302656),Installed,Type B,W 225 Street,Broadway,Marble Hill Avenue,N
+1490,81.84,CI-003,POINT (-73.98449443545377 40.57515275826228),Installed,Type C,Surf Avenue,W 17 Street,,C
+1493,252.59,Q44-002,POINT (-73.80290137575038 40.70184536271152),Installed,Type D,Archer Avenue,153 Street,150 Street,N
+1494,71.21,Q44-059,POINT (-73.80704885924807 40.70067199895457),Removed Sign Only (Temporary),Type D,Archer Avenue,Sutphin Boulevard,147 Place,S
+1495,250.03,Q44-003,POINT (-73.80741521885685 40.70071324914087),Installed,Type D,Archer Avenue,Sutphin Boulevard,147 Place,N
+1496,161.56,Q44-058,POINT (-73.80811801414639 40.702064027888056),Installed,Type D,Sutphin Boulevard,Jamaica Avenue,90 Street,W
+1497,341.56,Q44-004,POINT (-73.80797300704525 40.70216392861881),Installed,Type D,Sutphin Boulevard,Jamaica Avenue,90 Street,E
+1498,160.25,Q44-057,POINT (-73.8096688800371 40.70549554497905),Installed,Type D,Sutphin Boulevard,Hillside Avenue,88 Avenue,W
+1499,340.25,Q44-005,POINT (-73.80944585027626 40.705446876933095),Installed,Type D,Sutphin Boulevard,Hillside Avenue,88 Avenue,E
+1502,338.58,Q44-007,POINT (-73.81710249105639 40.71794463832917),Installed,Type D,Main Street,Union Turnpike,79 Avenue,E
+1507,355.36,Q44-010,POINT (-73.8251479241583 40.73373676942996),Installed,Type D,Main Street,Melbourne Avenue,68 Avenue,E
+1511,351.53,Q44-012,POINT (-73.82535145305279 40.742895649952644),Removed Sign Only (Temporary),Type D,Main Street,Horace Harding Expressway,60 Avenue,E
+1512,171.53,Q44-050,POINT (-73.82566772654611 40.74297791962032),Removed Sign Only (Temporary),Type D,Main Street,Horace Harding Expressway,60 Avenue,W
+1515,172.82,Q44-049,POINT (-73.82627357340328 40.74636719883122),Installed,Type D,Main Street,Booth Memorial Avenue,57 Road,W
+1516,6.08,Q44-013,POINT (-73.82600800916043 40.74733832919324),Removed Sign Only (Temporary),Type D,Main Street,Booth Memorial Avenue,56 Avenue,E
+1517,160.55,Q44-048,POINT (-73.82602325223922 40.751153471651996),Removed Sign Only (Temporary),Type D,Main Street,Elder Avenue,Dahlia Avenue,W
+1518,328.74,Q44-014,POINT (-73.82588348262865 40.7514669423688),Removed Sign Only (Temporary),Type D,Main Street,Elder Avenue,Dahlia Avenue,E
+1519,339.08,Q44-015,POINT (-73.82926427502913 40.75804565606738),Installed,Type D,Main Street,Kissena Boulevard,41 Road,E
+1520,159.08,Q44-047,POINT (-73.82947554318166 40.75793128227086),Installed,Type D,Main Street,41 Avenue,41 Road,W
+1539,253.49,Q44-027,POINT (-73.8611734579887 40.83368458684705),Installed,Type D,Hugh J. Grant Circle,Virginia Avenue,Metropolitan Avenue,N
+1540,80.37,Q44-034,POINT (-73.86197980414487 40.83288446585757),Installed,Type D,Westchester Avenue,Virginia Avenue,White Plains Road,S
+1542,111.23,Q44-033,POINT (-73.86749990241526 40.8349696096937),Installed,Type D,Cross Bronx Expressway,Beach Avenue,St. Lawrence Avenue,S
+1551,119,MT-215,POINT (-73.98443647570966 40.754877453438425),Installed,Type B,W 42 Street,6 Avenue,Broadway,S
+1553,174.75,FG-020,POINT (-73.83209121939197 40.75169941700913),Installed,Type B,College Point Boulevard,Blossom Avenue,Fowler Avenue,E
+1555,77.28,FG-022,POINT (-73.83577498922094 40.751973399702955),Sign Held,Type B,Avery Avenue,131 Street,College Point Boulevard,S
+1557,166.15,FG-024,POINT (-73.83432120983242 40.757877165635044),Installed,Type B,College Point Boulevard,Roosevelt Avenue,40 Road,W
+1561,68.9,FG-028,POINT (-73.84595296063937 40.754599497454144),Installed,Type C,Roosevelt Avenue,Passerelle,126 Street,S
+1625,119,UM-095,POINT (-73.93109939998968 40.84829698871348),Installed,Type B,W 181 Street,Amsterdam Avenue,Audubon Avenue,N
+1626,29,UM-096,POINT (-73.93049161288654 40.848849305671344),Installed,Type B,Amsterdam Avenue,W 182 Street,W 183 Street,W
+1627,8.22,SX-065,POINT (-73.93043072095413 40.81911661617943),Installed,Type B,Exterior Street,E 149 Street,E 146 Street,W
+1628,29,SX-064,POINT (-73.92543503783058 40.80578156880033),Installed,Type B,Willis Avenue,Bruckner Boulevard,E 132 Street,W
+1630,176.29,SX-067,POINT (-73.93102701169208 40.822013825554635),Installed,Type A,Exterior Street,Major Deegan Expressway,E 150 Street,W
+1631,109.86,SX-068,POINT (-73.93049286352445 40.82043173434354),Installed,Type B,E 150 Street,Exterior Street,River Avenue,E
+1632,24.28,SX-069,POINT (-73.92795592510332 40.82421114374821),Installed,Type B,River Avenue,E 153 Street,E 157 Street,E
+1652,92.78,DB-043,POINT (-73.99049523184146 40.69608737823124),Installed,Type B,Tillary Street,Cadman Plaza East,Cadman Plaza West,S
+1653,2.78,DB-044,POINT (-73.99008862880912 40.696558570425765),Pending Sign,Type B,Cadman Plaza East,Tillary Street,Red Cross Place,W
+1663,29,UE-018,POINT (-73.95151786166599 40.777995471300834),Installed,Type B,2 Avenue,E 86 Street,E 87 Street,E
+1664,29,UE-019,POINT (-73.95315782950433 40.77611266218713),Installed,Type B,2 Avenue,E 83 Street,E 84 Street,W
+1665,29,UE-020,POINT (-73.95837007990968 40.768986879546844),Pending Sign,Type B,2 Avenue,E 72 Street,E 73 Street,W
+1666,29,UE-021,POINT (-73.95834633290292 40.76863104237347),Installed,Type B,2 Avenue,E 72 Street,E 71 Street,E
+1667,29,UE-022,POINT (-73.9598018011855 40.76702218362903),Pending Sign,Type B,2 Avenue,E 69 Street,E 70 Street,W
+1668,29,UE-023,POINT (-73.9593012693371 40.767326474546444),Installed,Type B,2 Avenue,E 70 Street,E 69 Street,E
+1669,29,UE-024,POINT (-73.94780069605929 40.783123112508456),Installed,Type B,2 Avenue,E 94 Street,E 95 Street,E
+1670,29,UE-025,POINT (-73.94730550661116 40.78414745448832),Installed,Type B,2 Avenue,E 96 Street,E 95 Street,W
+1717,119,UM-100,POINT (-73.93123501043516 40.7977086970566),Pending Sign,Type B,E 120 Street,Pleasant Avenue,Paladino Avenue,N
+1720,29,UM-103,POINT (-73.95087407462196 40.80518366865356),Pending Sign,Type B,Adam Clayton Powell Jr Boulevard,W 119 Street,W 120 Street,E
+1751,21.4,LM-183,POINT (-73.98992470377682 40.71883279049893),Installed,Type B,Orchard Street,Delancey Street,Broome Street,W
+1777,150.9,NS-004,POINT (-74.07564523609304 40.64265937227602),Installed,Type C,Richmond Terrace,Nick Laporte Place,Schuyler Street,W
+1778,60.34,NS-005,POINT (-74.07687613859068 40.64191350199616),Installed,Type B,Hyatt Street,Central Avenue,Bay Street,S
+1783,90,NS-010,POINT (-74.07669814823866 40.63765741826353),Installed,Type B,Victory Boulevard,Bay Street,Bay Street,S
+1784,162.22,NS-011,POINT (-74.07820370036005 40.63810451510512),Installed,Type B,Van Duzer Street,Victory Boulevard,St. Pauls Avenue,S
+1785,172.15,NS-012,POINT (-74.07629520897616 40.62834087410197),Installed,Type B,Bay Street,Prospect Street,Union Place,E
+1789,157.78,NS-016,POINT (-74.07596184710512 40.62704100591554),Installed,Type B,Bay Street,Water Street,Canal Street,W
+1791,67.59,NS-018,POINT (-74.07945252930438 40.6247358478835),Installed,Type B,Broad Street,Tompkins Avenue,Quinn Street,N
+1795,149.58,NS-022,POINT (-74.07179124815619 40.62167993900334),Installed,Type B,Bay Street,Townsend Avenue,Norwood Avenue,E
+1798,76.98,NS-025,POINT (-74.1114304800765 40.629578505222725),Installed,Type B,Forest Avenue,Bement Avenue,North Burgher Avenue,S
+1800,48.84,NS-027,POINT (-74.08875265193171 40.64669575740186),Installed,Type B,Richmond Terrace,Jersey Street,Westervelt Avenue,S
+1802,29,GV-023,POINT (-73.99940506629058 40.73400061438632),Installed,Type B,6 Avenue,Greenwich Avenue,Christopher Street,W
+1810,9.87,CI-004,POINT (-73.96610330992485 40.58538938209138),Installed,Type B,Ocean Parkway,Shore Parkway,Avenue Z,E
+1813,96.98,CI-006,POINT (-73.97689226777547 40.575451481352296),Installed,Type B,Surf Avenue,W 8 Street,W 12 Street,N
+1815,74.32,CI-008,POINT (-73.96663105531798 40.57639992004721),Installed,Type B,Brighton Beach Avenue,Brighton 1 Road,Beach Walk,S
+1816,74.32,CI-009,POINT (-73.95992857922968 40.57782640551409),Installed,Type B,Brighton Beach Avenue,Coney Island Avenue,Brighton 7 Street,S
+1817,174.54,CI-010,POINT (-73.98100441670307 40.57532991036227),Installed,Type B,Stillwell Avenue,Surf Avenue,Bowery,E
+1818,94.23,CI-011,POINT (-73.97822767047235 40.57535400918886),Installed,Type B,Surf Avenue,W 10 Street,W 12 Street,S
+1819,102,CI-012,POINT (-73.97316483622882 40.57489742134438),Installed,Type B,Surf Avenue,W 5 Street,Sea Breeze Avenue,N
+1821,10.12,CI-014,POINT (-73.96776842302377 40.5805004745068),Installed,Type B,Ocean Parkway,Neptune Avenue,West Avenue,W
+1824,119,MT-220,POINT (-74.00365299690823 40.75637376826089),Installed,Type B,W 34 Street,12 Avenue,11 Avenue,S
+1825,119,MT-219,POINT (-73.99772621452728 40.75408948387255),Installed,Type B,W 34 Street,Dyer Avenue,10 Avenue,N
+1826,119,MT-218,POINT (-73.99589269068841 40.7533044156272),Installed,Type B,W 34 Street,9 Avenue,8 Avenue,N
+1828,299,M23-004,POINT (-73.97891971911557 40.73716645598597),Installed,Type D,E 23 Street,1 Avenue,2 Avenue,N
+1834,299,M23-005,POINT (-73.98117399249467 40.73809999842937),Installed,Type D,E 23 Street,2 Avenue,3 Avenue,N
+1836,299,M23-006,POINT (-73.98343260753177 40.73906271330043),Installed,Type D,E 23 Street,3 Avenue,Lexington Avenue,N
+1839,119,M23-027,POINT (-73.9859326010914 40.73988894880157),Installed,Type D,E 23 Street,Park Avenue South,Lexington Avenue,S
+1841,119,M23-026,POINT (-73.9888289667282 40.741108100846674),Installed,Type D,E 23 Street,Broadway,Madison Avenue,S
+1842,299,M23-009,POINT (-73.98866554382538 40.741277196511),Installed,Type D,E 23 Street,Broadway,Madison Avenue,N
+1845,299,M23-011,POINT (-73.99343838379892 40.743277561774434),Installed,Type D,W 23 Street,6 Avenue,7 Avenue,N
+1846,119,M23-024,POINT (-73.9953972827813 40.743878995342925),Installed,Type D,W 23 Street,7 Avenue,6 Avenue,S
+1847,299,M23-012,POINT (-73.99595238154089 40.74432791428889),Installed,Type D,W 23 Street,7 Avenue,8 Avenue,N
+1848,119,M23-023,POINT (-73.99810437882708 40.745033234915034),Installed,Type D,W 23 Street,8 Avenue,7 Avenue,S
+1849,299,M23-013,POINT (-73.99876067509872 40.74550952177455),Installed,Type D,W 23 Street,8 Avenue,9 Avenue,N
+1850,119,M23-022,POINT (-74.00095310335033 40.74624346250866),Installed,Type D,W 23 Street,9 Avenue,8 Avenue,S
+1854,119,M23-020,POINT (-74.00679367796025 40.74869358244613),Removed Sign/Footing (Temporary),Type D,W 23 Street,11 Avenue,10 Avenue,S
+1859,15.62,LM-184,POINT (-73.99302369621525 40.72257660334797),Installed,Type B,Bowery,Prince Street,Stanton Street,E
+1860,173,LM-185,POINT (-73.99251459912924 40.71166493057125),Installed,Type B,Pike Street,Monroe Street,Cherry Street,W
+1861,111.4,LM-186,POINT (-73.98405885650477 40.71504608968911),Installed,Type B,Grand Street,Samuel Dickstein Plaza,East Broadway,S
+1862,21.4,LM-187,POINT (-73.98698695678692 40.721137516282326),Installed,Type A,Essex Street,Stanton Street,East Houston Street,W
+1863,118.5,LM-188,POINT (-73.9967523774368 40.722105885309404),Installed,Type A,Spring Street,Cleveland Place,Mulberry Street,S
+1864,111.4,LM-189,POINT (-73.98657415333952 40.71958477766398),Installed,Type B,Rivington Street,Norfolk Street,Suffolk Street,N
+1865,21.4,LM-190,POINT (-73.98898146569482 40.71682046589033),Installed,Type B,Essex Street,Grand Street,Broome Street,N
+1868,119,MT-221,POINT (-73.97387325943387 40.74382371263966),Installed,Type B,E 34 Street,1 Avenue,2 Avenue,S
+1869,79,RD-004,POINT (-73.90584045971464 40.700111597026826),Installed,Type B,Myrtle Avenue,Cornelia Street,Cypress Avenue,S
+1870,81.5,RD-005,POINT (-73.90401648057411 40.70042647920045),Installed,Type B,Myrtle Avenue,Seneca Avenue,Catalpa Avenue,N
+1899,111.4,LM-191,POINT (-73.99258385384618 40.7200716797344),Installed,Type B,Delancey Street,Chrystie Street,Forsyth Street,N
+1904,130.3673,FL-005,POINT (-73.90241086704123 40.645342831291714),Installed,Type B,Rockaway Parkway,Glenwood Road,E 98 Street,E
+2101,82,WO-007,POINT (-73.89648835434535 40.74638220251848),Installed,Type B,Roosevelt Avenue,69 Street,39 Avenue,N
+2107,157,CO-011,POINT (-73.86946968104847 40.74942082919644),Installed,Type B,Junction Boulevard,Roosevelt Avenue,38 Avenue,E
+2112,172.08,FB-010,POINT (-73.97964824111706 40.64326855425521),Installed,Type B,McDonald Avenue,Church Avenue,Albemarle Road,W
+2117,58.08,MW-001,POINT (-73.97689434275298 40.63078612316066),Installed,Type B,18 Avenue,McDonald Avenue,Seton Place,S
+2118,170.93,MW-002,POINT (-73.97660210285868 40.62850041752029),Installed,Type B,McDonald Avenue,Parkville Avenue,Lawrence Avenue,E
+2125,167.12,X6-003,POINT (-73.94558268745816 40.83461213166177),Installed,Type D,Edward M. Morgan Place,W 157 Street,W 158 Street,W
+2127,119,X6-005,POINT (-73.9426243775076 40.83126524916279),Installed,Type D,W 155 Street,Amsterdam Avenue,St. Nicholas Avenue,S
+2135,110.93,X6-010,POINT (-73.92642574920565 40.82785188294309),Installed,Type D,E 161 Street,River Avenue,Jerome Avenue,S
+2137,113.24,X6-012,POINT (-73.91994586398933 40.82600527252043),Installed,Type D,E 161 Street,Sherman Avenue,Concourse Village East,S
+2140,111.33,X6-015,POINT (-73.91339641049893 40.82396317317153),Installed,Type D,E 161 Street,Melrose Avenue,Elton Avenue,S
+2142,113.25,X6-017,POINT (-73.90918158922283 40.82411530320916),Installed,Type D,E 163 Street,3 Avenue,Elton Avenue,S
+2145,107.99,X6-020,POINT (-73.90042393146325 40.821958601986736),Installed,Type D,E 163 Street,Prospect Avenue,Rev. James A. Polite Avenue,S
+2147,90.18,X6-022,POINT (-73.89644644593422 40.82089566880401),Installed,Type D,E 163 Street,Intervale Avenue,Kelly Street,S
+2149,135.58,X6-024,POINT (-73.8911156032924 40.820426714138826),Installed,Type D,Hunts Point Avenue,Bruckner Boulevard,Southern Boulevard,W
+2165,321.93,X6-039,POINT (-73.88601250401722 40.814868271066246),Installed,Type D,Hunts Point Avenue,Spofford Avenue,Faile Street,E
+2168,332.4,X6-042,POINT (-73.88911886715545 40.81877352310639),Installed,Type D,Hunts Point Avenue,Seneca Avenue,Garrison Avenue,E
+2171,270.39,X6-045,POINT (-73.8964117742428 40.82109498602663),Installed,Type D,E 163 Street,Kelly Street,Intervale Avenue,N
+2173,287.59,X6-047,POINT (-73.90101608708464 40.822311124011875),Installed,Type D,E 163 Street,Prospect Avenue,Union Avenue,N
+2178,291.33,X6-052,POINT (-73.91407459144261 40.82436704691482),Installed,Type D,E 161 Street,Melrose Avenue,Courtlandt Avenue,N
+2181,293.24,X6-055,POINT (-73.92078232937172 40.826352474374175),Installed,Type D,E 161 Street,Sherman Avenue,Sheridan Avenue,N
+2267,158,CO-017,POINT (-73.85268578130486 40.74608646452954),Installed,Type B,111 Street,49 Avenue,50 Avenue,E
+2268,114.08,CO-018,POINT (-73.8481430771404 40.7402989581437),Installed,Type B,Corona Avenue,Horace Harding Expressway,111 Street,N
+2306,173.8,LM-192,POINT (-73.99217177414063 40.712300710636775),Installed,Type B,Pike Street,Madison Street,Monroe Street,E
+2377,89.5,JM-032,POINT (-73.81733388050601 40.70248585663046),Installed,Type B,Jamaica Avenue,Metropolitan Avenue,Van Wyck Expressway,N
+2378,156.36,JM-033,POINT (-73.816301847375 40.70126767218669),Installed,Type B,Van Wyck Expressway,89 Avenue,91 Avenue,W
+2461,174.75,FG-043,POINT (-73.8324301353853 40.75174298902175),Installed,Type B,College Point Boulevard,Fowler Avenue,Blossom Avenue,W
+2510,166,FG-045,POINT (-73.83399736653541 40.75692121237331),Installed,Type B,College Point Boulevard,40 Road,41 Avenue,W
+2514,155.3,FG-037,POINT (-73.83224867892912 40.759602085108675),Installed,Type B,Prince Street,39 Avenue,Roosevelt Avenue,E
+2559,177.5865,CI-016,POINT (-73.95956971944047 40.57568689149355),Installed,Type B,Coney Island Avenue,Brightwater Court,Boardwalk,W
+2560,74.32,CI-017,POINT (-73.96179456799877 40.577627975819226),Installed,Type B,Brighton Beach Avenue,Brighton 6 Street,Brighton 5 Street,N
+2576,152,SB-065,POINT (-73.97826703102955 40.68497691865244),Pending Sign,Type B,Flatbush Avenue,4 Avenue,State Street,S
+2577,117,SB-066,POINT (-73.97853220585161 40.68457653063657),Pending Sign,Type B,Atlantic Avenue,4 Avenue,3 Avenue,N
+2582,125.63,FG-040,POINT (-73.82758627018045 40.75751102495133),Installed,Type B,Kissena Boulevard,Barclay Avenue,Sanford Avenue,E
+2583,163.02,FG-041,POINT (-73.82813160981969 40.75532023847853),Installed,Type B,Main Street,Maple Avenue,Franklin Avenue,E
+2587,112.31,CO-016,POINT (-73.8496302887254 40.74076339810264),Installed,Type B,Corona Avenue,111 Street,Horace Harding Expressway,N
+2588,158.72,CO-015,POINT (-73.85301383901587 40.745935063450965),Installed,Type A,111 Street,United Nations Avenue North,49 Avenue,W
+2601,111.4,LM-194,POINT (-73.98621288681794 40.72205656727122),Installed,Type B,E Houston Street,Essex Street,Norfolk Street,S
+2602,21.4,LM-195,POINT (-73.98137667919798 40.72050292087926),Installed,Type A,Pitt Street,E Houston Street,Stanton Street,E
+2603,111.4,LM-196,POINT (-73.99726042148448 40.72147504478493),Installed,Type B,Kenmare Street,Cleveland Place,Mulberry Street,N
+2604,121.3,LM-197,POINT (-73.9986134759686 40.71990581932426),Installed,Type B,Grand Street,Centre Street,Lafayette Street,N
+2605,83.96,LM-198,POINT (-73.99027425752736 40.712699726304585),Installed,Type A,Madison Street,Rutgers Street,Pike Street,N
+2606,173.62,LM-199,POINT (-73.98705160544665 40.71306722158252),Installed,Type B,Clinton Street,Madison Street,Henry Street,W
+2607,111.4,LM-200,POINT (-73.99061171794344 40.7144341744606),Installed,Type B,Canal Street,Division Street,Rutgers Street,S
+2608,43.79,NS-032,POINT (-74.08922468935774 40.63014811511286),Installed,Type A,Victory Boulevard,Forest Avenue,Silver Lake Park Road,W
+2609,74.32,CI-018,POINT (-73.95994946583298 40.57803176294327),Installed,Type B,Brighton Beach Avenue,Coney Island Avenue,Brighton 7 Street,N
+2610,82.11,CI-019,POINT (-73.95064473749767 40.583545863128045),Installed,Type B,Emmons Avenue,Sheepshead Bay Road,E 16 St,N
+2618,29,UW-032,POINT (-73.9730753391597 40.78033654248782),Installed,Type B,Central Park West,W 77 Street,W 81 Street,W
+2622,119,UM-126,POINT (-73.95868710585479 40.80088980507223),Installed,Type B,W 110 Street,Frederick Douglass Circle,Manhattan Avenue,N
+2644,146.51,UM-132,POINT (-73.95620572503174 40.813120028356046),Installed,Type B,W 125 Street,Amsterdam Avenue,Hancock Place,S
+2645,147.34,UM-133,POINT (-73.95487500601752 40.811567019697826),Installed,Type B,W 125 Street,Hancock Place,Amsterdam Avenue,S
+2648,119,UM-137,POINT (-73.96109846957833 40.81858663429378),Installed,Type B,W 125 Street,Marginal Street,Riverside Drive,S
+2651,29,UM-138,POINT (-73.94803146576565 40.809041212356256),Pending Sign,Type B,Adam Clayton Powell Jr Boulevard,W 125 Street,W 126 Street,E
+2653,299,M79-002,POINT (-73.95056740018585 40.771552014802744),Installed,Type D,E 79 Street,York Avenue,1 Avenue,N
+2654,299,M79-003,POINT (-73.9522881719888 40.77227866824965),Installed,Type D,E 79 Street,1 Avenue,York Avenue,N
+2655,299,M79-004,POINT (-73.95541358446297 40.77358321989996),Installed,Type D,E 79 Street,2 Avenue,3 Avenue,N
+2656,299,M79-005,POINT (-73.9574712469064 40.77444889384383),Installed,Type D,E 79 Street,3 Avenue,Lexington Avenue,N
+2657,299,M79-006,POINT (-73.95913162218261 40.77514951764593),Installed,Type D,E 79 Street,Lexington Avenue,Park Avenue,N
+2658,299,M79-007,POINT (-73.96171000185272 40.77623849593211),Installed,Type D,E 79 Street,Madison Avenue,Park Avenue,N
+2661,299,M79-010,POINT (-73.97187704768153 40.78219051834428),Installed,Type D,W 81 Street,Central Park West,Columbus Avenue,N
+2670,119,M79-019,POINT (-73.97422079283997 40.78299943059224),Installed,Type D,W 81 Street,Columbus Avenue,Central Park West,S
+2671,119,M79-020,POINT (-73.97211374624464 40.78208580429029),Installed,Type D,W 81 Street,Central Park West,Columbus Avenue,S
+2675,119,M79-024,POINT (-73.95867670114266 40.774757701536174),Installed,Type D,E 79 Street,Lexington Avenue,3 Avenue,S
+2682,61.81,JM-037,POINT (-73.79695961873396 40.704721298573915),Installed,Type B,Jamaica Avenue,163 Street,162 Street,N
+2687,172,JH-023,POINT (-73.88888398251375 40.75346882648854),Installed,Type B,78 Street,34 Avenue,Northern Boulevard,W
+2696,91.26,NS-033,POINT (-74.11639992869641 40.62899129519841),Installed,Type B,Forest Avenue,Broadway,Elizabeth Street,N
+2703,119,UW-039,POINT (-73.97967856287558 40.783816645865244),Installed,Type B,W 79 Street,Broadway,Amsterdam Avenue,N
+2708,29,UW-044,POINT (-73.98340483311044 40.771232553453935),Installed,Type B,Columbus Avenue,W 62 Street,W 63 Street,W
+2715,29,UW-051,POINT (-73.9824766680397 40.772510659463826),Installed,Type B,Columbus Avenue,W 64 Street,W 65 Street,W
+2717,29,MT-225,POINT (-73.98138920009872 40.768589430242194),Pending Sign,Type B,Central Park West,Columbus Circle,W 61 Street,E
+2857,75.43,SX-088,POINT (-73.90828007363871 40.81606663156239),Installed,Type B,Westchester Avenue,Jackson Avenue,Trinity Avenue,N
+2858,105.45,DB-058,POINT (-73.96780782934077 40.68373713749385),Installed,Type B,Fulton Street,Vanderbilt Avenue,Clinton Avenue,N
+2859,168.7,LM-215,POINT (-74.01274586603584 40.701474030878934),Installed,Type C,Whitehall Street,South Street,Water Street,W
+2860,49.59,LM-216,POINT (-74.00620319700705 40.70436902762657),Installed,Type B,South Street,Wall Street,Pine Street,W
+2867,250.84,QWH-035,POINT (-73.7962304710102 40.590802657673045),Installed,Type D,Rockaway Beach Boulevard,Beach 67 Street,Beach 69 Street,N
+2870,250.74,QWH-036,POINT (-73.80135375573163 40.58909212492473),Installed,Type D,Rockaway Beach Boulevard,Beach 73 Street,Aquatic Place,N
+2872,121.4,LM-219,POINT (-74.0095267660681 40.71260307853231),Installed,Type A,Barclay Street,Church Street,Broadway,S
+2874,188.111,LM-220,POINT (-74.0101105872557 40.71974442211575),Installed,Type A,Greenwich Street,North Moore Street,Franklin Street,E
+2879,38.45,LM-223,POINT (-74.00043428635294 40.71120001609182),Installed,Type B,St. James Place,Pearl Street,Madison Street,W
+2881,122.05,LM-225,POINT (-73.99894405292838 40.71356319511027),Installed,Type A,Worth Street,Park Row,Centre Street,S
+2883,82.42,QWH-021,POINT (-73.80940788998743 40.58768982636087),Installed,Type D,Rockaway Beach Boulevard,Beach 84 Street,Beach 81 Street,S
+2884,261.11,QWH-037,POINT (-73.80966132719911 40.58786525278235),Installed,Type D,Rockaway Beach Boulevard,Beach 84 Street,Beach 84 Street,N
+2885,62.5,QWH-020,POINT (-73.81518068511826 40.5865068090723),Installed,Type D,Rockaway Beach Boulevard,Beach 92 Street,Beach 91 Street,S
+2887,58.47,QWH-032,POINT (-73.81779288218111 40.58536371445469),Installed,Type D,Rockaway Beach Boulevard,Beach 95 Street,Beach 96 Street,S
+2888,237.63,QWH-026,POINT (-73.8178528601985 40.585448296853315),Installed,Type D,Rockaway Beach Boulevard,Beach 96 Street,Beach 95 Street,N
+2889,68.94,QWH-031,POINT (-73.82347146481894 40.58366244729068),Installed,Type D,Rockaway Beach Boulevard,Beach 102 Street,Beach 105 Street,S
+2892,69.14,QWH-030,POINT (-73.82921121160305 40.581996700921366),Installed,Type D,Rockaway Beach Boulevard,Beach 108 Street,Beach 105 Street,S
+2897,119,QWH-003,POINT (-73.88689168582438 40.744671812751896),Installed,Type D,Broadway,78 Street,79 Street,S
+2899,134.5,QWH-004,POINT (-73.88068727148506 40.74150973687111),Installed,Type D,Broadway,Whitney Avenue,45 Avenue,W
+2900,314.5,QWH-054,POINT (-73.88056055893595 40.74160536463848),Installed,Type D,Broadway,Whitney Avenue,Elmhurst Avenue,E
+2901,196.35,QWH-005,POINT (-73.87740333739293 40.73740864069972),Installed,Type D,Broadway,Queens Boulevard,51 Avenue,W
+2902,16.66,QWH-053,POINT (-73.8771613830634 40.737539411353985),Installed,Type D,Broadway,Justice Avenue,Queens Boulevard,E
+2903,93.86,QWH-006,POINT (-73.87130962302845 40.73315949006212),Installed,Type D,Hoffman Drive,Woodhaven Boulevard,58 Avenue,S
+2904,291.1,QWH-052,POINT (-73.87117247991438 40.73403461708044),Installed,Type D,Queens Boulevard,59 Avenue,90 Street,N
+2905,145.22,QWH-007,POINT (-73.86769174032766 40.72242823015612),Installed,Type D,Woodhaven Boulevard,Penelope Street,Fleet Street,W
+2906,325.7,QWH-051,POINT (-73.86787795865001 40.72317395134711),Installed,Type D,Woodhaven Boulevard,Penelope Avenue,63 Drive,E
+2907,182.64,QWH-008,POINT (-73.85996246549243 40.71204016753331),Installed,Type D,Woodhaven Boulevard,Metropolitan Avenue,Cooper Avenue,W
+2908,2.55,QWH-050,POINT (-73.85951716149869 40.71227816064931),Installed,Type D,Woodhaven Boulevard,Metropolitan Avenue,Polo Place,E
+2909,178.65,QWH-009,POINT (-73.85548121952878 40.70217947174538),Installed,Type D,Woodhaven Boulevard,Myrtle Avenue,Forest Park Drive,W
+2910,1.47,QWH-049,POINT (-73.85506787217257 40.702390720263274),Installed,Type D,Woodhaven Boulevard,Myrtle Avenue,Forest Park Drive,E
+2911,155.76,QWH-010,POINT (-73.85225788874344 40.693400732411895),Removed Sign Only (Temporary),Type D,Woodhaven Boulevard,Jamaica Avenue,88 Avenue,W
+2912,337.33,QWH-048,POINT (-73.85204430184187 40.69386263247375),Installed,Type D,Woodhaven Boulevard,Jamaica Avenue,86 Drive,E
+2913,156.42,QWH-011,POINT (-73.85034694699368 40.69005465629546),Installed,Type D,Woodhaven Boulevard,91 Avenue,89 Avenue,W
+2914,335.23,QWH-047,POINT (-73.85007977953953 40.69012142840438),Installed,Type D,Woodhaven Boulevard,91 Avenue,90 Avenue,E
+2915,159.38,QWH-012,POINT (-73.84632703889811 40.68441782001375),Installed,Type D,Woodhaven Boulevard,101 Avenue,97 Avenue,W
+2916,339.44,QWH-046,POINT (-73.84606679611335 40.684494794012735),Installed,Type D,Woodhaven Boulevard,101 Avenue,97 Avenue,E
+2919,94,BCM-056,POINT (-73.93163984610652 40.669004406276976),Installed,Type B,Eastern Parkway,Utica Avenue,Schenectady Avenue,N
+2920,19.55,WO-008,POINT (-73.90322520216793 40.745794015295104),Installed,Type B,61 Street,Roosevelt Avenue,39 Avenue,E
+2921,158.53,BA-003,POINT (-73.77102212224577 40.76348613438666),Installed,Type A,Bell Boulevard,41 Avenue,41 Road,W
+2928,173.62,QWH-013,POINT (-73.84481293301133 40.68041908774885),Installed,Type D,Cross Bay Boulevard,Liberty Avenue,Rockaway Boulevard,W
+2929,344.83,QWH-045,POINT (-73.84442843701378 40.68015143054041),Installed,Type D,Cross Bay Boulevard,Liberty Avenue,108 Avenue,E
+2931,349,QWH-044,POINT (-73.84293580463012 40.67198427808935),Installed,Type D,Cross Bay Boulevard,Pitkin Avenue,149 Avenue,E
+2932,168.89,QWH-015,POINT (-73.84079464527926 40.66208767641368),Installed,Type D,Cross Bay Boulevard,157 Avenue,158 Avenue,W
+2933,349.78,QWH-043,POINT (-73.84044052553757 40.66226035982701),Installed,Type D,Cross Bay Boulevard,157 Avenue,158 Avenue,E
+2935,349.43,QWH-042,POINT (-73.83795361055533 40.65224343038361),Installed,Type D,Cross Bay Boulevard,163 Avenue,164 Avenue,E
+2944,158.75,DB-060,POINT (-73.9812133219299 40.68981160119113),Installed,Type B,Flatbush Avenue Extension,Dekalb Avenue,Fulton Street,E
+2946,158,RW-014,POINT (-73.8311576602029 40.58417021687807),Installed,Custom,Beach Channel Drive,Beach 108 Street,Rockaway Freeway,N
+2947,112.34,BR-074,POINT (-74.03678019587885 40.63905602630002),Installed,Custom,Bay Ridge Avenue,Shore Road,Ferry Terminal,E
+2950,44.83,SB-068,POINT (-74.01356245648749 40.68079228981604),Installed,Custom,Red Hook Ferry Terminal,Clinton Wharf,,S
+2951,109.77,SB-069,POINT (-74.00178142893353 40.69238977070874),Installed,Custom,BBP Pier 6,,,E
+2952,120.56,LI-058,POINT (-73.957521164531 40.7483029311322),Installed,Custom,Gantry Plaza State Park,Center Blvd,,E
+2954,121.88,RI-001,POINT (-73.95284847547828 40.75679214313595),Installed,Custom,Roosevelt Island Ferry Terminal,E Main Street,North Loop Road,E
+2955,21.34,AS-059,POINT (-73.93574068761384 40.77201441414165),Installed,Custom,Astoria Ferry Terminal,,,N
+2957,17.57,LM-226,POINT (-74.01413272940808 40.70479904544312),Installed,Type B,Broadway,Battery Place,Morris Street,W
+2959,31.06,LM-227,POINT (-74.00549117558664 40.71821618898604),Installed,Type B,Church Street,Franklin Street,Leonard Street,N
+2960,120.92,LM-228,POINT (-74.01046181906781 40.71081654707686),Installed,Type A,Dey Street,Church Street,Broadway,S
+2976,119,UE-053,POINT (-73.94410487598957 40.78315092827829),Installed,Type B,E 96 Street,FDR Drive,1 Avenue,N
+2978,29,UE-038,POINT (-73.9663884988806 40.764924713593516),Installed,Type A,Lexington Avenue,E 63 Street,E 62 Street,W
+2979,119,UE-039,POINT (-73.96441591599637 40.76791722953961),Installed,Type B,E 68 Street,Lexington Avenue,Park Avenue,S
+2985,119,UE-045,POINT (-73.95688666610718 40.77743816703962),Pending Sign,Type B,E 83 Street,Lexington Avenue,3 Avenue,S
+2991,119,UE-058,POINT (-73.96134819249717 40.76010328474935),Installed,Type B,E 60 Street,1 Avenue,York Avenue,S
+2992,119,UE-059,POINT (-73.9640512898964 40.76138728902112),Installed,Type B,E 60 Street,2 Avenue,3 Avenue,N
+3031,119.08,LM-230,POINT (-74.00199682652472 40.71501922331519),Removed Sign Only (Temporary),Type B,Worth Street,Centre Street,Hamill Place,S
+3032,85.09,LM-231,POINT (-73.97910320130617 40.71227443589203),Installed,Type B,Cherry Street,Jackson Street,FDR Drive,S
+3033,178,FG-046,POINT (-73.83323494555023 40.763066366496105),Installed,Type B,Prince Street,Northern Boulevard,35th Avenue,E
+3034,68.39,CO-024,POINT (-73.85616834599674 40.75157871360905),Installed,Type B,Roosevelt Avenue,111 Street,108 Street,N
+3038,93,DB-062,POINT (-73.98655124449994 40.69987002012386),Pending Sign,Type B,Sands Street,Jay Street,Jay Street,S
+3039,171.36,DB-061,POINT (-73.97459061333456 40.68671201745623),Sign Held,Type B,South Portland Avenue,Fulton Street,Lafayette Avenue,W
+3041,77.28,FG-047,POINT (-73.83530658851144 40.75131159736138),Installed,Type A,Fowler Avenue,131 Street,College Point Blvd,N
+3044,30.4,LM-233,POINT (-74.00659998617931 40.718996228071646),Installed,Type B,West Broadway,Franklin Street,Franklin Street,S
+3050,65.96,LM-232,POINT (-74.00060623139056 40.712964865842366),Installed,Type B,Park Row,Pearl Street,Worth Street,S
+3053,155.3,FG-048,POINT (-73.83288565327351 40.76072317495859),Installed,Type B,Prince Street,37 Avenue,38 Avenue,W
+3056,119,UW-052,POINT (-73.97628515169127 40.78813435271357),Installed,Type B,W 86 Street,Broadway,Amsterdam Avenue,S
+3057,119,UE-098,POINT (-73.95112067194566 40.78603956289397),Installed,Type B,E 96 Street,Lexington Avenue,Park Avenue,N
+3059,119,UM-143,POINT (-73.9451424008151 40.80000914167524),Installed,Type B,E 116 Street,Madison Avenue,5 Avenue,S
+3063,28.15,UW-053,POINT (-73.96841800442515 40.79893675613928),Installed,Type B,Broadway,W 103 Street,W 102 Street,E
+3066,19,UW-054,POINT (-73.96842708119726 40.79973903147819),Installed,Type B,Broadway,W 104 Street,W 103 Street,W
+3070,167.06,CH-058,POINT (-73.99466376406014 40.71554123372612),Sign Held,Type D,Manhattan Bridge Bike Path,Canal Street,,E
+3074,66.15,B82-009,POINT (-73.95375784703798 40.610506575793224),Pending Sign,Type D,Kings Highway,Ocean Parkway,E 19 Street,S
+3077,38.4,B82-003,POINT (-73.99355355575271 40.60208166713139),Installed,Type D,Bay Parkway,86 Street,85 Street,E
+3078,38.4,B82-004,POINT (-73.98921453384477 40.6062526673832),Pending Sign,Type D,Bay Parkway,78 Street,79 Street,E
+3080,97.5,B82-006,POINT (-73.9724673330867 40.604154172235404),Installed,Type D,Kings Highway,McDonald Avenue,Dahill Road,S
+3081,64.35,B82-007,POINT (-73.96165548424685 40.60734437631206),Pending Sign,Type D,Kings Highway,Coney Island Avenue,E 12 Street,S
+3082,38.37,B82-002,POINT (-73.9969581897755 40.5987856252391),Pending Sign,Type D,Bay Parkway,Bath Avenue,Benson Avenue,E
+3083,45.63,B82-010,POINT (-73.94453281431119 40.6161947854636),Sign Held,Type D,Kings Highway,Nostrand Avenue,E 32 Street,S
+3086,319.59,B82-023,POINT (-73.88173440728217 40.64806135120507),Pending Sign,Type D,Pennsylvania Avenue,Schroeders Avenue,Delmar Loop,E
+3088,331.77,B82-024,POINT (-73.8845014119731 40.6506369127878),Installed,Type D,Pennsylvania Avenue,Vandalia Avenue,Delmar Loop,E
+3089,151.77,B82-020,POINT (-73.88483181985795 40.650521876928025),Pending Sign,Type D,Pennsylvania Avenue,Vandalia Avenue,Croton Loop,W
+3092,49.5,B82-018,POINT (-73.89405367000018 40.64780989865984),Pending Sign,Type D,Flatlands Avenue,E 105 Street,E 106 Street,S
+3093,229.5,B82-026,POINT (-73.89507299557722 40.6474103122949),Sign Held,Type D,Flatlands Avenue,E 105 Street,E 103 Street,N
+3095,49.51,B82-017,POINT (-73.90182858253037 40.64540312340378),Installed,Type D,Glenwood Road,Rockaway Parkway,E 98 Street,S
+3096,229.65,B82-028,POINT (-73.90587024450234 40.64041213366667),Pending Sign,Type D,Flatlands Avenue,Remsen Avenue,E 92 Street,N
+3097,49.65,B82-016,POINT (-73.90607597622754 40.64006340029592),Pending Sign,Type D,Flatlands Avenue,Remsen Avenue,E 89 Street,S
+3098,49.65,B82-015,POINT (-73.91274829812868 40.635754552818725),Pending Sign,Type D,Flatlands Avenue,E 81 Street,E 80 Street,S
+3099,229.65,B82-029,POINT (-73.9123500652568 40.63621546445191),Pending Sign,Type D,Flatlands Avenue,E 81 Street,E 82 Street,N
+3100,49.65,B82-014,POINT (-73.91812685185367 40.63228050385366),Pending Sign,Type D,Flatlands Avenue,Ralph Avenue,E 76 Street,S
+3101,229.65,B82-030,POINT (-73.91832415935882 40.63235248403776),Pending Sign,Type D,Flatlands Avenue,Ralph Avenue,E 78 Street,N
+3102,50.2,B82-013,POINT (-73.92785952900574 40.62600203638788),Pending Sign,Type D,Flatlands Avenue,Utica Avenue,Avenue K,S
+3103,229.65,B82-031,POINT (-73.92805321003964 40.62608331803784),Pending Sign,Type D,Flatlands Avenue,Utica Avenue,E 49 Street,N
+3104,41.19,B82-012,POINT (-73.93360159594656 40.62529655250809),Pending Sign,Type D,Kings Highway,Troy Avenue,E 41 Street,S
+3106,246.58,B82-033,POINT (-73.93719273369234 40.622300804020696),Pending Sign,Type D,Kings Highway,Flatbush Avenue,Ryder Street,N
+3107,220.85,B82-034,POINT (-73.94466971641089 40.61628355996194),Installed,Type D,Kings Highway,Nostrand Avenue,E 31 Street,N
+3108,261.81,B82-035,POINT (-73.95391284457192 40.61100027147602),Pending Sign,Type D,Kings Highway,Ocean Avenue,E 19 Street,N
+3110,247.45,B82-037,POINT (-73.9622786488092 40.60728639711112),Pending Sign,Type D,Kings Highway,Coney Island Avenue,E 9 Street,N
+3111,29,UE-118,POINT (-73.96721583443778 40.77237716205469),Pending Sign,Type B,5 Avenue,E 72 Street,E 71 Street,W
+3112,71.8912619399,FG-050,POINT (-73.82796612815493 40.760175149848045),Installed,Type B,Roosevelt Avenue,Lippman Plaza,Main Street,N
+3114,29,UE-119,POINT (-73.96134910553516 40.78037536219853),Installed,Type B,5 Avenue,E 84 Street,E 85 Street,W
+3120,82.1,EH-023,POINT (-73.8909154393014 40.746829242601954),Installed,Type B,Roosevelt Avenue,75 Street,74 Street,S
+3121,260.75,B82-038,POINT (-73.97184789320553 40.60427885432685),Pending Sign,Type D,Kings Highway,McDonald Avenue,E 2 Street,N
+3125,218.4,B82-040,POINT (-73.98959681837479 40.60612765707461),Pending Sign,Type D,Bay Parkway,79 Street,78 Street,W
+3126,218.4,B82-041,POINT (-73.99377249275543 40.60209209464183),Pending Sign,Type D,Bay Parkway,86 Street,85 Street,W
+3127,218.37,B82-042,POINT (-73.99726753507039 40.598750224470685),Pending Sign,Type D,Bay Parkway,Bath Avenue,Benson Avenue,W
+3128,26.5,EX-002,POINT (-73.8726680473689 40.841276696287075),Installed,Type B,Morris Park Avenue,E 180 Street,Adams Street,W
+3130,27.0649357538,UE-122,POINT (-73.94425905813056 40.78792272467661),Installed,Fingerpost,2 Avenue,E 102 Street,E 101 Street,E
+3131,81.95,JH-043,POINT (-73.89255656288832 40.748819385447696),Installed,Type B,37 Avenue,73 Street,74 Street,S
+3132,119,M14-002,POINT (-74.00225753291511 40.73955947975693),Installed,Type D,W 14 Street,8 Avenue,7 Avenue,S
+3139,299,M14-008,POINT (-73.98970629641198 40.734416837103765),Installed,Type D,E 14 Street,Union Square East,Irving Place,N
+3140,299,M14-009,POINT (-73.99716446722532 40.737581484403464),Pending Sign,Type D,W 14 Street,6 Avenue,7 Avenue,N
+3143,210,UE-125,POINT (-73.94209822258794 40.77738668790017),Installed,Custom,E 90 Street,FDR Drive,,S
+3144,355,LM-237,POINT (-73.979276958561 40.710216881182866),Installed,Custom,East River Esplanade,FDR Drive,Jackson Street,S
+3145,259,MS-015,POINT (-73.97302844764404 40.73188065528004),Installed,Custom,East River Esplanade,FDR Drive,E 20 Street,W
+3146,349,CP-001,POINT (-73.84891796702455 40.80415932401451),Installed,Custom,Soundview Avenue,Shorehaven Greenway,,S
+3155,119,UE-126,POINT (-73.94796881470907 40.790372958846646),Installed,Type B,E 103 Street,Lexington Avenue,Park Avenue,S
+3157,35.1658775393,UW-057,POINT (-73.97683047593938 40.788190608961706),Installed,Type B,Broadway,W 86 Street,W 85 Street,W
+3180,299.14,UE-127,POINT (-73.94831722463064 40.78969880625159),Installed,Fingerpost,E 102 Street,Lexington Avenue,Park Avenue,S
+3181,209.02,UE-128,POINT (-73.94654495047048 40.788793356535685),Installed,Fingerpost,3 Avenue,E 102 Street,E 99 Street,E
+3190,208.67,UM-146,POINT (-73.94464576069059 40.800093895183984),Installed,Type B,Madison Avenue,E 116 Street,E 117 Street,E
+3195,0,UW-063,POINT (-73.98199715210424 40.772715943447764),Pending Sign,Type B,Broadway,W 65 Street,W 64 Street,E
+3196,120,UW-064,POINT (-73.98193680951267 40.77370346962398),Installed,Type B,W 66 Street,Columbus Ave,Broadway,S
+3199,18.36,DB-066,POINT (-73.99121397060219 40.69977438315956),Pending Sign,Type B,Cadman Plaza West,Middagh Street,Clark Street,W
+3212,2.78,DB-074,POINT (-73.98886199125363 40.69906370521054),Pending Sign,Type A,Adams Street,Red Cross Place,Tillary Street,W
+3214,3,DB-075,POINT (-73.98833391127951 40.69916502085224),Pending Sign,Type A,Adams Street,Sands Street,Tillary Street,E
+3216,119,PS-001,POINT (-73.99247892757624 40.74996412787987),Installed,Custom,7 Avenue,31 Street,32 Street,W
+3217,29,PS-002,POINT (-73.99238558797957 40.749820952101864),Installed,Custom,7 Avenue,31 Street,32 Street,N
+3218,29,PS-003,POINT (-73.9924488499202 40.749704949481405),Installed,Custom,7 Avenue,31 Street,32 Street,S
+3219,29,PS-003,POINT (-142.79870371803085 -90),Installed,Custom,7 Avenue,31 Street,32 Street,S
+3220,29,PS-004,POINT (-73.99252260012804 40.74960171217848),Installed,Custom,7 Avenue,31 Street,32 Street,S
+3221,119,PS-005,POINT (-73.99200604040294 40.750267980771476),Installed,Custom,7 Avenue,31 Street,32 Street,W
+3222,119,PS-006,POINT (-73.991998611528 40.75015763135684),Installed,Custom,7 Avenue,31 Street,32 Street,W
+3223,29,PS-007,POINT (-73.99200979006135 40.75002464811426),Installed,Custom,7 Avenue,31 Street,32 Street,S
+3224,119,PS-008,POINT (-73.99226654981591 40.74965117717709),Installed,Custom,7 Avenue,31 Street,32 Street,W
+3225,29,PS-009,POINT (-73.9921789203063 40.74936113807765),Installed,Custom,7 Avenue,31 Street,32 Street,N
+3226,29,PS-010,POINT (-73.99174559685402 40.75030474536787),Installed,Custom,7 Avenue,31 Street,32 Street,N
+3227,118.73,UW-069,POINT (-73.97614540815226 40.780702816378984),Installed,Type B,W 77 Street,Columbus Avenue,Central Park West,N
+3228,28.3306000407,UE-055,POINT (-73.95657950561487 40.77797634682489),Installed,Type A,Lexington Avenue,E 84 Street,E 83 Street,E
+3230,92,DB-076,POINT (-73.98706372370769 40.69227516325185),Installed,Type B,Willoughby Street,Jay Street,Lawrence Street,N
+3231,29,UE-129,POINT (-73.97225207982704 40.7654322349117),Pending Sign,Type B,5 Avenue,E 61 Street,E 62 Street,W
+3237,177.58,CO-030,POINT (-73.87591981934123 40.770074438806155),Installed,Type B,94 Street,Ditmars Boulevard,23 Avenue,E
+3252,355.11,NR-159,POINT (-73.94945767925748 40.65056673205802),Installed,Type B,Nostrand Avenue,Church Avenue,Snyder Avenue,E
+3257,110,DB-078,POINT (-73.99267340783284 40.68985968038506),Pending Sign,Type B,Atlantic Avenue,Court Street,Clinton Street,N
+3264,119,UE-138,POINT (-73.96181002919089 40.76027876974674),Pending Blades,Fingerpost,E 60 Street,1 Avenue,2 Avenue,S
+3277,34.93,UW-074,POINT (-73.97440082600451 40.79664619324071),Pending Sign,Type B,Riverside Drive,W 97 Street,W 97 Street,W
+3278,316,LM-239,POINT (-74.0038427562049 40.71164751471961),Installed,Custom,Park Row,Frankfort Street,Pearl Street,S
+3290,3.9,FG-051,POINT (-73.82467229903835 40.739591962987106),Sign Held,Type B,Main Street,Reeves Avenue,Gravett Road,E
+3294,209,MT-231,POINT (-73.99306134576123 40.75804766687055),Pending Sign,Type B,9 Avenue,W 41 Street,W 42 Street,W
+3295,29,MT-232,POINT (-73.97948205135833 40.752682269872444),Pending Sign,Type A,Madison Avenue,E 42 Street,E 41 Street,W
+3296,119,MT-233,POINT (-73.99242845524093 40.75822480495483),Pending Sign,Type A,W 42 Street,9 Avenue,8 Avenue,S
+3297,28.71,UW-075,POINT (-73.97627859208312 40.79540532899097),Pending Sign,Type B,Riverside Drive,Henry Hudson Parkway,W 79 Street,W
+3298,29.02,UE-141,POINT (-73.96411140327373 40.773424944738615),Pending Sign,Type B,Madison Avenue,E 75 Street,E 74 Street,E
+3306,29,MT-234,POINT (-73.97464117464038 40.753221874898955),Pending Sign,Type A,Lexington Avenue,E 45 Street,E 44 Street,E
+3387,117.14,SB-085,POINT (-73.97527880186313 40.68076754689629),Pending Sign,Type B,Bergen Street,Flatbush Avenue,5 Avenue,S
+3412,29.0006,UM-154,POINT (-73.94867100699838 40.82918299399169),Pending Sign,Type B,Broadway,W 149 Street,W 150 Street,W
+3427,69.9775,FG-057,POINT (-73.81456335285546 40.763593806524604),Pending Blades,Fingerpost,Roosevelt Avenue,150 Street,149 Place,S
+3441,93.882,FG-061,POINT (-73.8159907933585 40.76521762122362),Pending Blades,Fingerpost,Northern Boulevard,149 Place,150 Street,S
+3446,28.8967,UM-156,POINT (-73.93711736569581 40.82403098699326),Pending Sign,Type B,Adam Clayton Powell Jr Boulevard,W 149 Street,W 148 Street,E
+3522,18,DB-082,POINT (-73.99095095380389 40.6996990592563),Pending Sign,Type B,Cadman Plaza West,Middagh Street,Pineapple Walk,E
+3540,258.83,EB-038,POINT (-73.87214350662073 40.67544814105002),Pending Sign,Type B,Pitkin Avenue,Euclid Avenue,Doscher Street,N
+3720,119,GV-033,POINT (-74.00561143315882 40.74117688682763),Pending Sign,Type B,W 14 Street,9 Avenue,Washingtson Street,N
+3721,81.2,FG-086,POINT (-73.82365796258584 40.7647325577284),Pending Blades,Fingerpost,Northern Boulevard,Parsons Boulevard,Union Street,N
+3728,0,UM-160,POINT (-73.95290819302568 40.809319402887134),Pending Sign,Type B,St. Nicholas Avenue,W 123 Street,W 124 Street,E
+3731,306.33,FG-087,POINT (-73.82923713853047 40.758225118331914),Pending Sign,Type B,Kissena Boulevard,Main Street,Sanford Drive,S
+3743,332,LM-244,POINT (-74.00395163792189 40.711721448366525),Installed,Custom,Park Row,Frankfort Street,Pearl Street,S
+3745,316,LM-245,POINT (-74.00379894038174 40.711613601138986),Installed,Custom,Brooklyn Bridge,Park Row,,
+3746,29,UM-161,POINT (-73.95024779433577 40.821450498023594),Pending Sign,Type B,Amsterdam Avenue,W 139 Street,W 138 Street,E
+3756,119,UM-163,POINT (-73.95571840766523 40.804660680191915),Pending Sign,Type B,W 116 Street,Fredrick Douglas Blvd,Manhattan Avenue,N
+3767,29,UM-165,POINT (-73.94353460849827 40.825516422976115),Pending Sign,Type A,St. Nicholas Avenue,W 148 Street,W 147 Street,W
+3774,21.5,UM-170,POINT (-73.94622954967568 40.82121410329782),Pending Sign,Type B,St. Nicolas Avenue,W 141 Street,W 140 Street,W
+3787,14,UM-171,POINT (-73.93016534813563 40.861973454987876),Pending Sign,Type B,Broadway,Sherman Avenue,W 196 Street,W
+3813,114.84,NR-025,POINT (-73.9589916549694 40.70885880423728),Installed,Type B,Broadway,Havemeyer Street,Marcy Avenue,N
+3814,26.22,FG-089,POINT (-73.8332436162102 40.74824420450135),Pending Sign,Type B,College Point Boulevard,Booth Memorial Avenue,Fowler Avenue,N
+3815,29,UM-172,POINT (-73.95127910153194 40.81206808518118),Pending Sign,Type B,St. Nicolas Avenue,W 127 Street,W 128 Street,E
