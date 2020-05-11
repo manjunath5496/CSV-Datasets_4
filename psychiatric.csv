@@ -1,0 +1,400 @@
+290,Dementia of the Alzheimer's Type, With Late Onset, Uncomplicated
+290.1,Dementia Due to Creutzfeldt-Jakob Disease
+290.1,Dementia Due to Pick's Disease
+290.1,Dementia of the Alzheimer's Type, With Early Onset, Uncomplicated
+290.11,Dementia of the Alzheimer's Type, With Early Onset, With Delirium
+290.12,Dementia of the Alzheimer's Type, With Early Onset, With Delusions
+290.13,Dementia of the Alzheimer's Type, With Early Onset, With Depressed Mood
+290.2,Dementia of the Alzheimer's Type, With Late Onset, With Delusions
+290.21,Dementia of the Alzheimer's Type, With Late Onset, With Depressed Mood
+290.3,Dementia of the Alzheimer's Type, With Late Onset, With Delirium
+290.4,Vascular Dementia, Uncomplicated
+290.41,Vascular Dementia, With Delirium
+290.42,Vascular Dementia, With Delusions
+290.43,Vascular Dementia, With Depressed Mood
+291,Alcohol Intoxication Delirium
+291,Alcohol Withdrawal Delirium
+291.1,Alcohol-Induced Persisting Amnestic Disorder
+291.2,Alcohol-Induced Persisting Dementia
+291.3,Alcohol-Induced Psychotic Disorder, With Hallucinations
+291.5,Alcohol-Induced Psychotic Disorder, With Delusions
+291.8,Alcohol-Induced Anxiety Disorder
+291.8,Alcohol-Induced Mood Disorder
+291.8,Alcohol-Induced Sexual Dysfunction
+291.8,Alcohol-Induced Sleep Disorder
+291.8,Alcohol Withdrawal
+291.9,Alcohol-Related Disorder NOS
+292,Amphetamine Withdrawal
+292,Cocaine Withdrawal
+292,Nicotine Withdrawal
+292,Opioid Withdrawal
+292,Other (or Unknown) Substance Withdrawal
+292,Sedative, Hypnotic, or Anxiolytic Withdrawal
+292.11,Amphetamine-Induced Psychotic Disorder, With Delusions
+292.11,Cannabis-Induced Psychotic Disorder, With Delusions
+292.11,Cocaine-Induced Psychotic Disorder, With Delusions
+292.11,Hallucinogen-Induced Psychotic Disorder, With Delusions
+292.11,Inhalant-Induced Psychotic Disorder, With Delusions
+292.11,Opioid-Induced Psychotic Disorder, With Delusions
+292.11,Other (or Unknown) Substance-Induced Psychotic Disorder, With Delusions
+292.11,Phencyclidine-Induced Psychotic Disorder, With Delusions
+292.11,Sedative-, Hypnotic-, or Anxiolytic-Induced Psychotic Disorder, With Delusions
+292.12,Amphetamine-Induced Psychotic Disorder, With Hallucinations
+292.12,Cannabis-Induced Psychotic Disorder, With Hallucinations
+292.12,Cocaine-Induced Psychotic Disorder, With Hallucinations
+292.12,Hallucinogen-Induced Psychotic Disorder, With Hallucinations
+292.12,Inhalant-Induced Psychotic Disorder, With Hallucinations
+292.12,Opioid-Induced Psychotic Disorder, With Hallucinations
+292.12,Other (or Unknown) Substance-Induced Psychotic Disorder, With Hallucinations
+292.12,Phencyclidine-Induced Psychotic Disorder, With Hallucinations
+292.12,Sedative-, Hypnotic-, or Anxiolytic-Induced Psychotic Disorder, With Hallucinations
+292.81,Amphetamine Intoxication Delirium
+292.81,Cannabis Intoxication Delirium
+292.81,Cocaine Intoxication Delirium
+292.81,Hallucinogen Intoxication Delirium
+292.81,Inhalant Intoxication Delirium
+292.81,Opioid Intoxication Delirium
+292.81,Other (or Unknown) Substance-Induced Delirium
+292.81,Phencyclidine Intoxication Delirium
+292.81,Sedative, Hypnotic, or Anxiolytic Intoxication Delirium
+292.81,Sedative, Hypnotic, or Anxiolytic Withdrawal Delirium
+292.82,Inhalant-Induced Persisting Dementia
+292.82,Other (or Unknown) Substance-Induced Persisting Dementia
+292.82,Sedative-, Hypnotic-, or Anxiolytic-Induced Persisting Dementia
+292.83,Other (or Unknown) Substance-Induced Persisting Amnestic Disorder
+292.83,Sedative-, Hypnotic-, or Anxiolytic-Induced Persisting Amnestic Disorder
+292.84,Amphetamine-Induced Mood Disorder
+292.84,Cocaine-Induced Mood Disorder
+292.84,Hallucinogen-Induced Mood Disorder
+292.84,Inhalant-Induced Mood Disorder
+292.84,Opioid-Induced Mood Disorder
+292.84,Other (or Unknown) Substance-Induced Mood Disorder
+292.84,Phencyclidine-Induced Mood Disorder
+292.84,Sedative-, Hypnotic-, or Anxiolytic-Induced Mood Disorder
+292.89,Amphetamine-Induced Anxiety Disorder
+292.89,Amphetamine-Induced Sexual Dysfunction
+292.89,Amphetamine-Induced Sleep Disorder
+292.89,Amphetamine Intoxication
+292.89,Caffeine-Induced Anxiety Disorder
+292.89,Caffeine-Induced Sleep Disorder
+292.89,Cannabis-Induced Anxiety Disorder
+292.89,Cannabis Intoxication
+292.89,Cocaine-Induced Anxiety Disorder
+292.89,Cocaine-Induced Sexual Dysfunction
+292.89,Cocaine-Induced Sleep Disorder
+292.89,Cocaine Intoxication
+292.89,Hallucinogen-Induced Anxiety Disorder
+292.89,Hallucinogen Intoxication
+292.89,Hallucinogen Persisting Perception Disorder
+292.89,Inhalant-Induced Anxiety Disorder
+292.89,Inhalant Intoxication
+292.89,Opioid-Induced Sleep Disorder
+292.89,Opioid-Induced Sexual Dysfunction
+292.89,Opioid Intoxication
+292.89,Other (or Unknown) Substance-Induced Anxiety Disorder
+292.89,Other (or Unknown) Substance-Induced Sexual Dysfunction
+292.89,Other (or Unknown) Substance-Induced Sleep Disorder
+292.89,Other (or Unknown) Substance Intoxication
+292.89,Phencyclidine-Induced Anxiety Disorder
+292.89,Phencyclidine Intoxication
+292.89,Sedative-, Hypnotic-, or Anxiolytic-Induced Anxiety Disorder
+292.89,Sedative-, Hypnotic-, or Anxiolytic-Induced Sexual Dysfunction
+292.89,Sedative-, Hypnotic-, or Anxiolytic-Induced Sleep Disorder
+292.89,Sedative, Hypnotic, or Anxiolytic Intoxication
+292.9,Amphetamine-Related Disorder NOS
+292.9,Caffeine-Related Disorder NOS
+292.9,Cannabis-Related Disorder NOS
+292.9,Cocaine-Related Disorder NOS
+292.9,Hallucinogen-Related Disorder NOS
+292.9,Inhalant-Related Disorder NOS
+292.9,Nicotine-Related Disorder NOS
+292.9,Opioid-Related Disorder NOS
+292.9,Other (or Unknown) Substance-Related Disorder NOS
+292.9,Phencyclidine-Related Disorder NOS
+292.9,Sedative-, Hypnotic-, or Anxiolytic-Related Disorder NOS
+293,Delirium Due to...[Indicate the General Medical Condition]
+293.81,Psychotic Disorder Due to...[Indicate the General Medical Condition], With Delusions
+293.82,Psychotic Disorder Due to...[Indicate the General Medical Condition], With Hallucinations
+293.83,Mood Disorder Due to...[Indicate the General Medical Condition]
+293.89,Anxiety Disorder Due to...[Indicate the General Medical Condition]
+293.89,Catatonic Disorder Due to...[Indicate the General Medical Condition]
+293.9,Mental Disorder NOS Due to...[Indicate the General Medical Condition]
+294,Amnestic Disorder Due to...[Indicate the General Medical Condition]
+294.1,Dementia Due to...[Indicate the General Medical Condition]
+294.1,Dementia Due to Head Trauma
+294.1,Dementia Due to Huntington's Disease
+294.1,Dementia Due to Parkinson's Disease
+294.8,Amnestic Disorder NOS
+294.8,Dementia NOS
+294.9,Cognitive Disorder NOS
+294.9,Dementia Due to HIV Disease
+295.1,Schizophrenia, Disorganized Type
+295.2,Schizophrenia, Catatonic Type
+295.3,Schizophrenia, Paranoid Type
+295.4,Schizophreniform Disorder
+295.6,Schizophrenia, Residual Type
+295.7,Schizoaffective Disorder
+295.9,Schizophrenia, Undifferentiated Type
+296,Bipolar I Disorder, Single Manic Episode, Unspecified
+296.01,Bipolar I Disorder, Single Manic Episode, Mild
+296.02,Bipolar I Disorder, Single Manic Episode, Moderate
+296.03,Bipolar I Disorder, Single Manic Episode, Severe Without Psychotic Features
+296.04,Bipolar I Disorder, Single Manic Episode, Severe With Psychotic Features
+296.05,Bipolar I Disorder, Single Manic Episode, In Partial Remission
+296.06,Bipolar I Disorder, Single Manic Episode, In Full Remission
+296.2,Major Depressive Disorder, Single Episode, Unspecified
+296.21,Major Depressive Disorder, Single Episode, Mild
+296.22,Major Depressive Disorder, Single Episode, Moderate
+296.23,Major Depressive Disorder, Single Episode, Severe Without Psychotic Features
+296.24,Major Depressive Disorder, Single Episode, Severe With Psychotic Features
+296.25,Major Depressive Disorder, Single Episode, In Partial Remission
+296.26,Major Depressive Disorder, Single Episode, In Full Remission
+296.3,Major Depressive Disorder, Recurrent, Unspecified
+296.31,Major Depressive Disorder, Recurrent, Mild
+296.32,Major Depressive Disorder, Recurrent, Moderate
+296.33,Major Depressive Disorder, Recurrent, Severe Without Psychotic Features
+296.34,Major Depressive Disorder, Recurrent, Severe With Psychotic Features
+296.35,Major Depressive Disorder, Recurrent, In Partial Remission
+296.36,Major Depressive Disorder, Recurrent, In Full Remission
+296.4,Bipolar I Disorder, Most Recent Episode Hypomanic
+296.4,Bipolar I Disorder, Most Recent Episode Manic, Unspecified
+296.41,Bipolar I Disorder, Most Recent Episode Manic, Mild
+296.42,Bipolar I Disorder, Most Recent Episode Manic, Moderate
+296.43,Bipolar I Disorder, Most Recent Episode Manic, Severe Without Psychotic Features
+296.44,Bipolar I Disorder, Most Recent Episode Manic, Severe With Psychotic Features
+296.45,Bipolar I Disorder, Most Recent Episode Manic, In Partial Remission
+296.46,Bipolar I Disorder, Most Recent Episode Manic, In Full Remission
+296.5,Bipolar I Disorder, Most Recent Episode Depressed, Unspecified
+296.51,Bipolar I Disorder, Most Recent Episode Depressed, Mild
+296.52,Bipolar I Disorder, Most Recent Episode Depressed, Moderate
+296.53,Bipolar I Disorder, Most Recent Episode Depressed, Severe Without Psychotic Features
+296.54,Bipolar I Disorder, Most Recent Episode Depressed, Severe With Psychotic Features
+296.55,Bipolar I Disorder, Most Recent Episode Depressed, In Partial Remission
+296.56,Bipolar I Disorder, Most Recent Episode Depressed, In Full Remission
+296.6,Bipolar I Disorder, Most Recent Episode Mixed, Unspecified
+296.61,Bipolar I Disorder, Most Recent Episode Mixed, Mild
+296.62,Bipolar I Disorder, Most Recent Episode Mixed, Moderate
+296.63,Bipolar I Disorder, Most Recent Episode Mixed, Severe Without Psychotic Features
+296.64,Bipolar I Disorder, Most Recent Episode Mixed, Severe With Psychotic Features
+296.65,Bipolar I Disorder, Most Recent Episode Mixed, In Partial Remission
+296.66,Bipolar I Disorder, Most Recent Episode Mixed, In Full Remission
+296.7,Bipolar I Disorder, Most Recent Episode Unspecified
+296.8,Bipolar Disorder NOS
+296.89,Bipolar II Disorder
+296.9,Mood Disorder NOS
+297.1,Delusional Disorder
+297.3,Shared Psychotic Disorder
+298.8,Brief Psychotic Disorder
+298.9,Psychotic Disorder NOS
+299,Autistic Disorder
+299.1,Childhood Disintegrative Disorder
+299.8,Asperger's Disorder
+299.8,Pervasive Developmental Disorder NOS
+299.8,Rett's Disorder
+300,Anxiety Disorder NOS
+300.01,Panic Disorder Without Agoraphobia
+300.02,Generalized Anxiety Disorder
+300.11,Conversion Disorder
+300.12,Dissociative Amnesia
+300.13,Dissociative Fugue
+300.14,Dissociative Identity Disorder
+300.15,Dissociative Disorder NOS
+300.16,Factitious Disorder With Predominantly Psychological Signs and Symptoms
+300.19,Factitious Disorder NOS
+300.19,Factitious Disorder With Combined Psychological and Physical Signs and Symptoms
+300.19,Factitious Disorder With Predominantly Physical Signs and Symptoms
+300.21,Panic Disorder With Agoraphobia
+300.22,Agoraphobia Without History of Panic Disorder
+300.23,Social Phobia
+300.29,Specific Phobia
+300.3,Obsessive-Compulsive Disorder
+300.4,Dysthymic Disorder
+300.6,Depersonalization Disorder
+300.7,Body Dysmorphic Disorder
+300.7,Hypochondriasis
+300.81,Somatization Disorder
+300.81,Somatoform Disorder NOS
+300.81,Undifferentiated Somatoform Disorder
+300.9,Unspecified Mental Disorder (nonpsychotic)
+301,Paranoid Personality Disorder
+301.13,Cyclothymic Disorder
+301.2,Schizoid Personality Disorder
+301.22,Schizotypal Personality Disorder
+301.4,Obsessive-Compulsive Personality Disorder
+301.5,Histrionic Personality Disorder
+301.6,Dependent Personality Disorder
+301.7,Antisocial Personality Disorder
+301.81,Narcissistic Personality Disorder
+301.82,Avoidant Personality Disorder
+301.83,Borderline Personality Disorder
+301.9,Personality Disorder NOS
+302.2,Pedophilia
+302.3,Transvestic Fetishism
+302.4,Exhibitionism
+302.6,Gender Identity Disorder in Children
+302.6,Gender Identity Disorder NOS
+302.7,Sexual Dysfunction NOS
+302.71,Hypoactive Sexual Desire Disorder
+302.72,Female Sexual Arousal Disorder
+302.72,Male Erectile Disorder
+302.73,Female Orgasmic Disorder
+302.74,Male Orgasmic Disorder
+302.75,Premature Ejaculation
+302.76,Dyspareunia (Not Due to a General Medical Condition)
+302.79,Sexual Aversion Disorder
+302.81,Fetishism
+302.82,Voyeurism
+302.83,Sexual Masochism
+302.84,Sexual Sadism
+302.85,Gender Identity Disorder in Adolescents or Adults
+302.89,Frotteurism
+302.9,Paraphilia NOS
+302.9,Sexual Disorder NOS
+303,Alcohol Intoxication
+303.9,Alcohol Dependence
+304,Opioid Dependence
+304.1,Sedative, Hypnotic, or Anxiolytic Dependence
+304.2,Cocaine Dependence
+304.3,Cannabis Dependence
+304.4,Amphetamine Dependence
+304.5,Hallucinogen Dependence
+304.6,Inhalant Dependence
+304.8,Polysubstance Dependence
+304.9,Other (or Unknown) Substance Dependence
+304.9,Phencyclidine Dependence
+305,Alcohol Abuse
+305.1,Nicotine Dependence
+305.2,Cannabis Abuse
+305.3,Hallucinogen Abuse
+305.4,Sedative, Hypnotic, or Anxiolytic Abuse
+305.5,Opioid Abuse
+305.6,Cocaine Abuse
+305.7,Amphetamine Abuse
+305.9,Caffeine Intoxication
+305.9,Inhalant Abuse
+305.9,Other (or Unknown) Substance Abuse
+305.9,Phencyclidine Abuse
+306.51,Vaginismus (Not Due to a General Medical Condition)
+307,Stuttering
+307.1,Anorexia Nervosa
+307.2,Tic Disorder NOS
+307.21,Transient Tic Disorder
+307.22,Chronic Motor or Vocal Tic Disorder
+307.23,Tourette's Disorder
+307.3,Stereotypic Movement Disorder
+307.42,Insomnia Related to...[Indicate the Axis I or Axis II Disorder]
+307.42,Primary Insomnia
+307.44,Hypersomnia Related to...[Indicate the Axis I or Axis II Disorder]
+307.44,Primary Hypersomnia
+307.45,Circadian Rhythm Sleep Disorder
+307.46,Sleep Terror Disorder
+307.46,Sleepwalking Disorder
+307.47,Dyssomnia NOS
+307.47,Nightmare Disorder
+307.47,Parasomnia NOS
+307.5,Eating Disorder NOS
+307.51,Bulimia Nervosa
+307.52,Pica
+307.53,Rumination Disorder
+307.59,Feeding Disorder of Infancy or Early Childhood
+307.6,Enuresis (Not Due to a General Medical Condition)
+307.7,Encopresis, Without Constipation and Overflow Incontinence
+307.8,Pain Disorder Associated With Psychological Factors
+307.89,Pain Disorder Associated With Both Psychological Factors and a General Medical Condition
+307.9,Communication Disorder NOS
+308.3,Acute Stress Disorder
+309,Adjustment Disorder With Depressed Mood
+309.21,Separation Anxiety Disorder
+309.24,Adjustment Disorder With Anxiety
+309.28,Adjustment Disorder With Mixed Anxiety and Depressed Mood
+309.3,Adjustment Disorder With Disturbance of Conduct
+309.4,Adjustment Disorder With Mixed Disturbance of Emotions and Conduct
+309.81,Posttraumatic Stress Disorder
+309.9,Adjustment Disorder Unspecified
+310.1,Personality Change Due to...[Indicate the General Medical Condition]
+311,Depressive Disorder NOS
+312.3,Impulse-Control Disorder NOS
+312.31,Pathological Gambling
+312.32,Kleptomania
+312.33,Pyromania
+312.34,Intermittent Explosive Disorder
+312.39,Trichotillomania
+312.8,Conduct Disorder
+312.9,Disruptive Behavior Disorder NOS
+313.23,Selective Mutism
+313.81,Oppositional Defiant Disorder
+313.82,Identity Problem
+313.89,Reactive Attachment Disorder of Infancy or Early Childhood
+313.9,Disorder of Infancy, Childhood, or Adolescence NOS
+314,Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type
+314.01,Attention-Deficit/Hyperactivity Disorder, Combined Type
+314.01,Attention-Deficit/Hyperactivity Disorder, Predominantly Hyperactive-Impulsive Type
+314.9,Attention-Deficit/Hyperactivity Disorder NOS
+315,Reading Disorder
+315.1,Mathematics Disorder
+315.2,Disorder of Written Expression
+315.31,Expressive Language Disorder
+315.31,Mixed Receptive-Expressive Language Disorder
+315.39,Phonological Disorder
+315.4,Developmental Coordination Disorder
+315.9,Learning Disorder NOS
+316,...[Specified Psychological Factor] Affecting...[Indicate the General Medical Condition]
+317,Mild Mental Retardation
+318,Moderate Mental Retardation
+318.1,Severe Mental Retardation
+318.2,Profound Mental Retardation
+319,Mental Retardation, Severity Unspecified
+332.1,Neuroleptic-Induced Parkinsonism
+333.1,Medication-Induced Postural Tremor
+333.7,Neuroleptic-Induced Acute Dystonia
+333.82,Neuroleptic-Induced Tardive Dyskinesia
+333.9,Medication-Induced Movement Disorder NOS
+333.92,Neuroleptic Malignant Syndrome
+333.99,Neuroleptic-Induced Acute Akathisia
+347,Narcolepsy
+607.84,Male Erectile Disorder Due to...[Indicate the General Medical Condition]
+608.89,Male Dyspareunia Due to...[Indicate the General Medical Condition]
+608.89,Male Hypoactive Sexual Desire Disorder Due to...[Indicate the Medical Condition]
+608.89,Other Male Sexual Dysfunction Due to...[Indicate the General Medical Condition]
+625,Female Dyspareunia Due to...[Indicate the General Medical Condition]
+625.8,Female Hypoactive Sexual Desire Disorder Due to...[Indicate the General Medical Condition]
+625.8,Other Female Sexual Dysfunction Due to...[Indicate the General Medical Condition]
+780.09,Delirium NOS
+780.52,Sleep Disorder Due to...[Indicate the General Medical Condition], Insomnia Type
+780.54,Sleep Disorder Due to...[Indicate the General Medical Condition], Hypersomnia Type
+780.59,Breathing-Related Sleep Disorder
+780.59,Sleep Disorder Due to...[Indicate the General Medical Condition], Mixed Type
+780.59,Sleep Disorder Due to...[Indicate the General Medical Condition], Parasomnia Type
+780.9,Age-Related Cognitive Decline
+787.6,Encopresis, With Constipation and Overflow Incontinence
+799.9,Diagnosis Deferred on Axis II
+799.9,Diagnosis or Condition Deferred on Axis I
+995.2,Adverse Effects of Medication NOS
+995.5,Neglect of Child (if focus of attention is on victim)
+995.5,Physical Abuse of Child (if focus of attention is on victim)
+995.5,Sexual Abuse of Child (if focus of attention is on victim)
+995.81,Physical Abuse of Adult (if focus of attention is on victim)
+995.81,Sexual Abuse of Adult (if focus of attention is on victim)
+ V15.8,Noncompliance With Treatment
+ V61.1,Partner Relational Problem
+ V61.1,Physical Abuse of Adult
+ V61.1,Sexual Abuse of Adult
+ V61.2,Parent-Child Relational Problem
+ V61.2,Neglect of Child
+ V61.2,Physical Abuse of Child
+ V61.2,Sexual Abuse of Child
+ V61.8,Sibling Relational Problem
+ V61.9,Relational Problem Related to a Mental Disorder or General Medical Condition
+ V62.2,Occupational Problem
+ V62.3,Academic Problem
+ V62.4,Acculturation Problem
+ V62.8,Relational Problem NOS
+ V62.8,Bereavement
+ V62.8,Borderline Intellectual Functioning
+ V62.8,Phase of Life Problem
+ V62.8,Religious or Spiritual Problem
+ V65.2,Malingering
+ V71.0,Adult Antisocial Behavior
+ V71.0,Child or Adolescent Antisocial Behavior
+ V71.0,No Diagnosis on Axis II
+ V71.0,No Diagnosis or Condition on Axis I
