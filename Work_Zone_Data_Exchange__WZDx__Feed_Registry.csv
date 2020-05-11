@@ -1,0 +1,4 @@
+state,issuingOrganization,feedName,url,format,active,Datafeed-frequency-update,version,sdate,edate,pipedToSandbox,lastIngestedToSandboxUTC,State Coordinate
+texas,Texas DOT,txdot,http://txdot-its-c2c.dot.state.tx.us/WZDx/conversion,geojson,true,15m,2,05/05/2020 12:00:00 AM,,true,2020-05-11T09:43:30.987952,POINT (-99.9018 31.9686)
+arizona,Arizona DOT,mcdot,http://api.mcdot-its.com/WZDx/Activity/Get,json,true,4h,1,10/15/2019 12:00:00 AM,,true,2020-05-11T07:28:31.316927,POINT (-111.664616 34.293239)
+iowa,Iowa DOT,iowadot,https://cloud.iowadot.gov/Highway/OTO/wzdx.xml,xml,true,15m,1,10/15/2019 12:00:00 AM,,true,2020-05-11T09:28:31.508059,POINT (-93.500061 42.074659)

@@ -1,0 +1,24 @@
+Data as of,Start Week,End Week,Condition Group,Condition,ICD10_codes,All ages,0-24 years,25-34 years,35-44 years,45-54 years,55-64 years,65-74 years,75-84 years,85 years and over
+05/03/2020,02/01/2020,05/02/2020,Coronavirus-19,Coronavirus-19,U071,38033,51,284,721,1974,4765,8162,10396,11678
+05/03/2020,02/01/2020,05/02/2020,Respiratory diseases,Influenza and pneumonia,J09-J18,16789,25,129,306,895,2185,3602,4585,5061
+05/03/2020,02/01/2020,05/02/2020,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,2966,4,18,37,90,350,682,950,835
+05/03/2020,02/01/2020,05/02/2020,Respiratory diseases,Adult respiratory distress syndrome,J80,6796,14,65,180,463,1049,1708,1801,1515
+05/03/2020,02/01/2020,05/02/2020,Respiratory diseases,Respiratory failure,J96,12688,15,86,220,625,1528,2808,3690,3715
+05/03/2020,02/01/2020,05/02/2020,Respiratory diseases,Respiratory arrest,R09.2,852,0,3,13,37,82,179,244,294
+05/03/2020,02/01/2020,05/02/2020,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",1079,2,1,17,35,117,211,331,365
+05/03/2020,02/01/2020,05/02/2020,Circulatory diseases,Hypertensive diseases,I10-I15,7852,0,32,99,320,968,1794,2246,2393
+05/03/2020,02/01/2020,05/02/2020,Circulatory diseases,Ischemic heart disease,I20-I25,3891,0,2,20,68,326,786,1208,1481
+05/03/2020,02/01/2020,05/02/2020,Circulatory diseases,Cardiac arrest,I46,5613,12,45,119,336,736,1257,1493,1615
+05/03/2020,02/01/2020,05/02/2020,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",1991,0,7,8,38,146,338,581,873
+05/03/2020,02/01/2020,05/02/2020,Circulatory diseases,Heart failure,I50,2058,1,6,7,38,163,344,560,939
+05/03/2020,02/01/2020,05/02/2020,Circulatory diseases,Cerebrovascular diseases,I60-I69,1215,1,5,11,35,138,255,373,397
+05/03/2020,02/01/2020,05/02/2020,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",1642,6,13,34,65,210,345,439,530
+05/03/2020,02/01/2020,05/02/2020,Sepsis,Sepsis,A40-A41,2705,6,31,54,172,431,671,746,594
+05/03/2020,02/01/2020,05/02/2020,Malignant neoplasms,Malignant neoplasms,C00-C97,1634,2,7,16,47,207,439,501,415
+05/03/2020,02/01/2020,05/02/2020,Diabetes,Diabetes,E10-E14,5543,6,38,113,361,947,1511,1488,1079
+05/03/2020,02/01/2020,05/02/2020,Obesity,Obesity,E65-E68,1059,10,54,112,196,270,254,123,40
+05/03/2020,02/01/2020,05/02/2020,Alzheimer disease,Alzheimer disease,G30,877,0,0,0,1,11,70,266,529
+05/03/2020,02/01/2020,05/02/2020,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",3157,0,0,1,6,45,267,940,1898
+05/03/2020,02/01/2020,05/02/2020,Renal failure,Renal failure,N17-N19,2718,4,34,47,182,352,699,765,635
+05/03/2020,02/01/2020,05/02/2020,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",827,4,16,22,39,98,142,215,291
+05/03/2020,02/01/2020,05/02/2020,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",14504,37,136,257,721,1858,3386,4041,4067

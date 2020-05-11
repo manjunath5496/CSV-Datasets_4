@@ -1,0 +1,32 @@
+alias,name,address,country,contact,phone_number,fax_number,e-mail
+A2LA,American Association for Laboratory Accreditation,"5202 Presidents Court Suite 220 Frederick, MD 21703",United States,Megan Riebau,240-575-7492,301-662-2974,mriebau@a2la.org
+NVLAP,National Voluntary Laboratory Accreditation Program,"100 Bureau Drive   Gaithersburg, MD 20899-2140",United States,Amanda McDonald,301-975-5627,301-926-2884,Amanda.mcdonald@Nist.gov
+ISED,"Department of Innovation, Science and Economic Development (ISED) Canada","235 Queen Street   Ottawa, Ontario,  K1A OH5",Canada,Yan Losier,343-291-1267,866-694-8389,yan.losier@canada.ca
+BSMI,"Bureau of Standards, Metrology and Inspection","4, Chinan Road, Section 1   Taipei,  100",Taiwan,Chiu-Kuo Chen,886-2-33432273,886-2-33433991,chukuo.chen@bsmi.gov.tw
+NCC,National Communications Commission,"No. 143, Yan-Ping S. Rd   Taipei,  100",Taiwan,Jhih-Chang Shieh,886-2-33438421,886-2-2343-3699,jcchang@ncc.gov.tw
+RRA,National Radio Research Agency,"1086, Sindo-ri, Sanpo-myeon, Naju-si Jeollanam-do Naju,  520-833",South Korea,Hyunshin Choi,82-61-338-4723,82-61-338-4719,david7937@korea.kr
+IMDA,Infocomm Media Development Authority of Singapore,"10 Pasir Panjang Road #03-01 Mapletree Business City Singapore,  117438",Singapore,Steven Tan,6562111770,6565773888,Steven_St_Tan@imda.gov.sg
+EUAT01,"Bundesministerium für Wissenschaft, Forschung und Wirschaft I/9","Stubenring 1   A-1011 Wien,",Austria,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+EUBE01,"SPF Economie, PME, Classes moyennes et Energie","16 Boulevard du Roi Albert II   B-1000 Brussels,",Belgium,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+EUDK01,Danish Energy Agency,"Amaliegade 44   DK-1256 Copenhagen,",Denmark,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+EUFI01,Finnish Transport and Communication Agency (TRAFICOM,"Kumpulantie 9   00520 Helsinki,",Finland,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+EUFR01,"Ministere de l'Economie, de I'Industrie et du Numerique (DGE)","61 bd Vincent Auriol Teledoc 151 75703 Paris Cedex 13,",France,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+EUDE01,Bundesnetzagentur,"Federal Network Agency Section 415 Canisiusstrasse 21 D-55122 Mainz,",Germany,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+EUIT01,Ministero delle Sviluppo Economico- Direzione Generale Pianificazione e Gestione dello Spettro Radioelettrico,"Viale America, 201   I-00144 Roma,",Italy,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+EUNL01,"Ministry of Economic Affairs, Agentschap Telecom","Emmasingel 1 9726 AH Groningen,",Netherlands,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+EUES01,Secretaría de Estado la Sociedad de la Información y la Agenda Digital (SESIAD),"c/ Poeta Joan Maragall 41   E-28071 Madrid,",Spain,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+EUSE01,Swedish Board for Accreditation and Conformity Assessment (SWEDAC),"Gustavlundsvägen 151 E, flr. 8   SE-167 51 Bromma,",Sweden,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+EUUK01,"Department for Business, Innovation and Skills (BIS)","1, Victoria Street   London,  SW1H OET",United Kingdom,Tina Vounasi,32-2-2992166,32-2-299-80-31,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+OFCAHK,Office of the Communications Authority (OFCA),"29/F Wu Chung House, 213 Queen's Road Wanchai   Hong Kong,",Hong Kong,Jack Yip,852-2961-6718,85228385004,jackyip@ofca.gov.hk
+ACMA,Australian Communications and Media Authority,"Level 44 The Tower, 360 Elizabeth Street   Melbourne,  3000",Australia,Colin Payne,61399636811,61399636970,colin.payne@acma.gov.au
+EUSI01,Ministry of Economic Development and Technology,"Kotnikova 5   SI-1000 Ljubljana,",Slovenia,Tina Vounasi,32-2-2992166,3222998031,GROW-NANDO-ADMINISTRATOR@ec.europa.eu
+JAPANMIC,Ministry of Internal Affairs and Communications (MIC),"Electromagnetic Environment Division, Radio Dept 1-2-2 Kasumigaseki, Chiyoda-ku Tokyo,  100-8926",Japan,Naoki Yanagisawa,81-3-5253-5908,81-3-5253-5914,n.yanagisawa@soumu.go.jp
+USFCC,FCC Test TFAB,"1 Smith Street   Smithville, MD 21045",United States,George Tannahill,301-362-3026,N/A,George.Tannahill@fcc.gov
+ANAB,ANSI-ASQ National Accreditation Board,"500 Montgomery Street Suite 625 Alexandria, VA 22314",United States,Randy Long,414-501-5339,206-637-2791,rlong@anab.org
+LAB,Laboratory Accreditation Bureau,"11617 Coldwater Road Suite 101 Fort Wayne, IN 46845",United States,Randy Long,260-637-2705,260-637-2791,rlong@l-a-b.com
+TKINA2014,"Commissioner of Standardization, Ministry of Economy, State of Israel","5 Bank of Israel Street   Jerusalem,",Israel,Yaacov Wachtel,97226662296,N/A,Yaacov.Wachtel@economy.gov.il
+MCMCMRA,Malaysian Communications and Multimedia Commission(MCMC),"MCMC Tower 1 Jalan Impact, Cyber 6 Cyberjaya,  63000",Malaysia,Aiman Hilmi Azhar,60386888297,N/A,aiman.azhar@cmc.gov.my
+IANZ,International Accreditation New Zealand,"Private Bag 28 908 Remuera   Auckland,  1541",New Zealand,Llewellyn Richards,6495256655,6495252266,lrichards@ianz.govt.nz
+PJLA,"Perry Johnson Laboratory Accreditation, Inc","755 West Big Beaver Road, Suite 1325   Troy, MI 48084",United States,Tracy Szerszen,248-519-2603,N/A,tszerszen@pjlabs.com
+NOAKKFCC,Norwegian Accreditation,"Skedsmogata 5 N-2000 Lillestrom,",Norway,Maarten Aerts,4741391183,N/A,mae@akkreditert.no
+BEISTF,BEIS-Department for Business Energy and Industrial Strategy] (Office for Product Safety and Standards),"1 Victoria Street   London,  SW1H 0ET",United Kingdom,Kevin Lane,44-7741-682805,N/A,Kevin.Lane@beis.gov.uk
