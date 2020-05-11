@@ -1,0 +1,181 @@
+Year,RecordType,RecordTypeDescription,NumberOfComplaints
+2006,Complaint,Weeds,924
+2015,Complaint,Construction,1414
+2010,Complaint,Vacant Building,200
+2005,Complaint,Weeds,936
+2005,Complaint,Emergency,19
+2012,Complaint,Noise,315
+2009,Complaint,Housing,464
+2008,Complaint,Land Use,1659
+2015,Complaint,Shoreline,101
+2005,Complaint,Construction,1131
+2007,Complaint,Housing,490
+2015,Complaint,Vacant Building,423
+2018,Complaint,Shoreline,26
+2011,Complaint,Land Use,1440
+2005,Complaint,Noise,223
+2016,Complaint,Weeds,1744
+2014,Complaint,Vacant Building,311
+2010,Complaint,Weeds,1347
+2005,Tenant Relocation,,219
+2003,Complaint,Housing,81
+2004,Complaint,Land Use,1416
+2010,Complaint,Land Use,1460
+2004,Tenant Relocation,,212
+2009,Complaint,Shoreline,44
+2017,Complaint,Construction,1617
+2007,Complaint,Vacant Building,264
+2016,Complaint,Land Use,1931
+2010,Complaint,Noise,193
+2012,Complaint,Weeds,1269
+2007,Complaint,Shoreline,17
+2006,Complaint,Shoreline,23
+2017,Complaint,Weeds,1758
+2008,Complaint,Shoreline,41
+2008,Tenant Relocation,,120
+2016,Complaint,Housing,619
+2014,Complaint,Construction,1292
+2012,Complaint,Shoreline,22
+2013,Tenant Relocation,,103
+2016,Complaint,Vacant Building,494
+2013,Complaint,Construction,1129
+2015,Tenant Relocation,,241
+2005,Complaint,Housing,403
+2017,Complaint,Tree,1
+2014,Complaint,Shoreline,19
+2006,Complaint,Noise,266
+2007,Complaint,Emergency,38
+2017,Complaint,Housing,761
+2010,Complaint,Housing,468
+2015,Complaint,Weeds,1692
+2016,Complaint,Emergency,113
+2016,Complaint,Construction,1616
+2008,Complaint,Noise,262
+2009,Complaint,Land Use,1722
+2018,Complaint,Noise,1027
+2009,Complaint,Noise,194
+2007,Tenant Relocation,,289
+2017,Complaint,Landlord/Tenant,334
+2009,Complaint,Weeds,1221
+2003,Complaint,Shoreline,3
+2014,Complaint,Housing,623
+2010,Complaint,Shoreline,29
+2019,Complaint,Land Use,2230
+2005,Complaint,Vacant Building,216
+2012,Complaint,Emergency,81
+2014,Complaint,Noise,421
+2011,Complaint,Shoreline,23
+2008,Complaint,Housing,439
+2016,Complaint,Landlord/Tenant,30
+2013,Complaint,Shoreline,27
+2015,Complaint,Land Use,1947
+2008,Complaint,Construction,1158
+2018,Complaint,Vacant Building,575
+2003,Complaint,Construction,117
+2016,Complaint,Shoreline,45
+2018,Complaint,ECA,5
+2003,Complaint,Weeds,62
+2018,Complaint,Emergency,82
+2010,Tenant Relocation,,61
+2009,Complaint,Emergency,53
+2010,Complaint,Construction,951
+2014,Complaint,Weeds,1330
+2005,Complaint,Landlord/Tenant,2
+2014,Tenant Relocation,,185
+2013,Complaint,Emergency,123
+2017,Tenant Relocation,,199
+2008,Complaint,Vacant Building,263
+2005,Complaint,Shoreline,30
+2015,Complaint,Housing,612
+2003,Complaint,Land Use,173
+2007,Complaint,Land Use,1847
+2012,Complaint,Land Use,1290
+2013,Complaint,Housing,646
+2011,Complaint,Weeds,1092
+2003,Complaint,Emergency,11
+2004,Complaint,Weeds,713
+2011,Complaint,Vacant Building,226
+2017,Complaint,Vacant Building,509
+2010,Complaint,Emergency,47
+2017,Complaint,Land Use,1984
+2008,Complaint,Weeds,1498
+2007,Complaint,Noise,263
+2004,Complaint,Vacant Building,180
+2011,Complaint,Emergency,53
+2012,Tenant Relocation,,108
+2012,Complaint,Construction,957
+2003,Tenant Relocation,,11
+2004,Complaint,Construction,1105
+2013,Complaint,Noise,304
+2017,Complaint,Shoreline,58
+2007,Complaint,Weeds,947
+2013,Complaint,Vacant Building,285
+2009,Complaint,Construction,994
+2014,Complaint,Emergency,114
+2004,Complaint,Noise,192
+2006,Tenant Relocation,,227
+2014,Complaint,Land Use,1655
+2017,Complaint,Emergency,166
+2008,Complaint,Emergency,31
+2006,Complaint,Vacant Building,261
+2012,Complaint,Vacant Building,250
+2004,Complaint,Emergency,30
+2006,Complaint,Construction,1159
+2003,Complaint,Vacant Building,16
+2017,Complaint,Noise,746
+2012,Complaint,Housing,555
+2013,Complaint,Weeds,1074
+2009,Complaint,Landlord/Tenant,1
+2016,Complaint,Noise,727
+2003,Complaint,Noise,10
+2018,Tenant Relocation,,215
+2006,Complaint,Land Use,1540
+2016,Tenant Relocation,,210
+2004,Complaint,Housing,436
+2015,Complaint,Noise,683
+2015,Complaint,Emergency,112
+2007,Complaint,Construction,1313
+2011,Complaint,Noise,211
+2004,Complaint,Shoreline,23
+2013,Complaint,Land Use,1481
+2011,Tenant Relocation,,58
+2004,Complaint,Landlord/Tenant,1
+2006,Complaint,Housing,544
+2011,Complaint,Housing,507
+2011,Complaint,Construction,940
+2018,Complaint,Housing,820
+2009,Tenant Relocation,,92
+2006,Complaint,Emergency,37
+2009,Complaint,Vacant Building,250
+2019,Complaint,Weeds,2744
+2018,Complaint,Tree,174
+2019,Complaint,,244
+2018,Complaint,Landlord/Tenant,1795
+2018,Complaint,Land Use,2642
+2018,Complaint,Construction,1687
+2020,Complaint,Weeds,358
+2020,Complaint,Noise,322
+2020,Complaint,Shoreline,17
+2020,Complaint,Emergency,40
+2020,Complaint,Land Use,768
+2020,Complaint,Tree,83
+2020,Complaint,Construction,573
+2020,Tenant Relocation,,108
+2020,Complaint,Vacant Building,207
+2020,Complaint,Landlord/Tenant,699
+2020,Complaint,,117
+2018,Complaint,Weeds,1737
+2020,Complaint,Housing,343
+2020,Complaint,ECA,3
+2018,Complaint,,286
+2019,Complaint,ECA,8
+2005,Complaint,Land Use,1359
+2019,Complaint,Housing,993
+2019,Complaint,Emergency,54
+2019,Complaint,Vacant Building,771
+2019,Complaint,Shoreline,39
+2019,Complaint,Tree,310
+2019,Tenant Relocation,,271
+2019,Complaint,Construction,1677
+2019,Complaint,Landlord/Tenant,1848
+2019,Complaint,Noise,1283
