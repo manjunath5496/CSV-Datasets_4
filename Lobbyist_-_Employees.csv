@@ -1,0 +1,96 @@
+EMP_ID,REPORT_ID,REGISTRANT_ID,EMP_TITLE,EMP_FIRST_NAME,EMP_MI,EMP_LAST_NAME,EMP_SUFFIX,EMP_ADR1,EMP_ADR2,EMP_CITY,EMP_STATE,EMP_ZIP,EMP_EMPLOYER,EMP_OCCUPATION,EMP_POSITION_DESC,COUNCIL_RELATIVE_YN,CM_FIRST_NAME,CM_LAST_NAME,Row_ID
+E0002,R20170815115121,RG0107,,John,,Laycock,,1601 Miriam Avenue,406,Austin,TX,78702,South Llano Strategies,Land Use and Research Associate,,,,,R20170815115121-E0002
+E0001,R20170913085717,RG0014,,Melody,,Clark,,208 Westhaven Drive,,West Lake Hills,TX,78746,Melody Clark Consulting,lobbyist,,,,,R20170913085717-E0001
+E0001,R20171012142849,RG0088,,Glen,,Coleman,,P.O Box 49444,,Austin,TX,78765,South Llano Strategies,Lobbyist,,,,,R20171012142849-E0001
+E0001,R20171012145435,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20171012145435-E0001
+E0001,R20171012154854,RG0014,,Melody,,Clark,,208 Westhaven Drive,,West Lake Hills,TX,78746,Melody Clark Consulting,lobbyist,,,,,R20171012154854-E0001
+E0001,R20171013091954,RG0097,Mr.,Steve,,Genovesi,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Executive Vice President,,,,,R20171013091954-E0001
+E0002,R20171013091954,RG0097,Ms.,Tiffany,,Kerr,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Director of Marketing,,,,,R20171013091954-E0002
+E0003,R20171013091954,RG0097,Ms.,Christine,,Cramer,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Director of Market Analysis & Reserach,,,,,R20171013091954-E0003
+E0004,R20171013091954,RG0097,Mr.,Thomas,James,Noonan,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),CEO,,,,,R20171013091954-E0004
+E0001,R20171018154200,RG0107,,John,,Laycock,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20171018154200-E0001
+E0002,R20171018154200,RG0107,,Kevin,,Quist,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20171018154200-E0002
+E0001,R20171228080525,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20171228080525-E0001
+E0001,R20180123092107,RG0097,Mr.,Steve,,Genovesi,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Executive Vice President,,,,,R20180123092107-E0001
+E0002,R20180123092107,RG0097,Ms.,Tiffany,,Kerr,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Director of Marketing,,,,,R20180123092107-E0002
+E0003,R20180123092107,RG0097,Ms.,Clarissa,,Perez,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Heritage and Diversity Marketing Specialist,,,,,R20180123092107-E0003
+E0004,R20180123092107,RG0097,Mr.,Thomas,James,Noonan,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),CEO,,,,,R20180123092107-E0004
+E0005,R20180123092107,RG0097,Ms.,Amy,,Brown,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Director of Sales,,,,,R20180123092107-E0005
+E0001,R20180126094724,RG0107,,John,,Laycock,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20180126094724-E0001
+E0002,R20180126094724,RG0107,,Kevin,,Quist,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20180126094724-E0002
+E0001,R20180326074455,RG0143,,Tim,,Alborg,,"450 Geary Street, Suite 200",,San Francisco,CA,94102,"Zagster, Inc.",Director of Public Policy & Gov Relations,,,,,R20180326074455-E0001
+E0001,R20180410154335,RG0143,,Tim,,Alborg,,"450 Geary Street, Suite 200",,San Francisco,CA,94102,Zagster,Director of Public Policy,,,,,R20180410154335-E0001
+E0001,R20180413144422,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20180413144422-E0001
+E0001,R20180503154657,RG0097,,Steve,,Genovesi,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Executive Vice President,,,,,R20180503154657-E0001
+E0002,R20180503154657,RG0097,,Tiffany,,Kerr,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Director of Marketing,,,,,R20180503154657-E0002
+E0003,R20180503154657,RG0097,,Mary Kay,,Hackley,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),VP of Strategic Alliances,,,,,R20180503154657-E0003
+E0001,R20180503164406,RG0152,,Ashley,,Kegley-Whitehead,,2901 Bee Caves Road,Suite D,Austin,TX,78746,Buie & Co.,Public Relations / Lobbying,,,,,R20180503164406-E0001
+E0001,R20180509123304,RG0107,,John,,Laycock,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20180509123304-E0001
+E0002,R20180509123304,RG0107,,Kevin,,Quist,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20180509123304-E0002
+E0001,R20180703143851,RG0143,,Tim,,Alborg,,"450 Geary Street, Suite 200",,San Francisco,CA,94102,Zagster,Director of Public Policy,,,,,R20180703143851-E0001
+E0001,R20180705112241,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20180705112241-E0001
+E0005,R20180709110558,RG0097,,Christine,,Cramer,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Director of Market Analysis and Reserach,,,,,R20180709110558-E0005
+E0006,R20180709110558,RG0097,,Linda,,Atkins,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),VP of Convention Services,,,,,R20180709110558-E0006
+E0001,R20180710151446,RG0015,,Kevin,,Opp,,4101 Wildwood Rd,,Austin,TX,78722,Sheryl Cole & Associates,Associate,,,,,R20180710151446-E0001
+E0001,R20180803105829,RG0015,,Kevin,,Opp,,4101 Wildwood Rd,,Austin,TX,78722,Sheryl Cole & Associates,Associate,,,,,R20180803105829-E0001
+E0001,R20170815115121,RG0107,,Evan,,Gill,,Bauerle Avenue,,Austin,TX,78704,South Llano Strategies,Land Use Associate,,,,,R20170815115121-E0001
+E0001,R20181004104929,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20181004104929-E0001
+E0001,R20181010144333,RG0015,,Kevin,,Opp,,4101 Wildwood Rd,,Austin,TX,78722,Sheryl Cole & Associates,Associate,,,,,R20181010144333-E0001
+E0001,R20181018172056,RG0107,,John,,Laycock,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20181018172056-E0001
+E0002,R20181018172056,RG0107,,Kevin,,Quist,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20181018172056-E0002
+E0001,R20181022164612,RG0097,,Julie,,Hart,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Chief Financial Officer,,,,,R20181022164612-E0001
+E0002,R20181022164612,RG0097,,Kristen,,Parker,,111 Congress Avenue,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Director of Eastern Regional Sales,,,,,R20181022164612-E0002
+E0003,R20181022164612,RG0097,,Steve,,Genovesi,,111 Congress Avenue,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Executive Vice President,,,,,R20181022164612-E0003
+E0004,R20181022164612,RG0097,,Amy,,Brown,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Director of Sales,,,,,R20181022164612-E0004
+E0001,R20181128082639,RG0107,,John,,Laycock,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20181128082639-E0001
+E0002,R20181128082639,RG0107,,Kevin,,Quist,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20181128082639-E0002
+E0001,R20190108100710,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20190108100710-E0001
+E0001,R20190111124722,RG0107,,John,,Laycock,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Research,,,,,R20190111124722-E0001
+E0002,R20190111124722,RG0107,,Kevin,,Quist,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Research,,,,,R20190111124722-E0002
+E0001,R20190111142315,RG0015,,Kevin,,Opp,,4101 Wildwood Rd,,Austin,TX,78722,Sheryl Cole & Associates,Associate,,,,,R20190111142315-E0001
+E0001,R20190403092505,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20190403092505-E0001
+E0001,R20190604082149,RG0015,,Kevin,,Opp,,4101 Wildwood Rd,,Austin,TX,78722,Sheryl Cole & Associates,Associate,,,,,R20190604082149-E0001
+E0001,R20190705122413,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20190705122413-E0001
+E0001,R20190716112614,RG0097,Mr.,Steve,,Genovesi,,111 Congress Ave.,Suite 700,Austin,TX,78701,Visit Austin,Executive Vice President,,,,,R20190716112614-E0001
+E0002,R20190716112614,RG0097,Ms.,Julie,,Chase,,111 Congress Ave.,Suite 700,Austin,TX,78701,Visit Austin,Vice President of Marketing,,,,,R20190716112614-E0002
+E0001,R20191009081334,RG0183,,Courtney,,Mogonye-McWhorter,,"805 Las Cimas Pkwy, Las Cimas III, Suite 350",,Austin,TX,78746,Sprouse Shrader Smith PLLC,Attorney,,,,,R20191009081334-E0001
+E0001,R20191009125941,RG0006,Ms.,Julie,,Potrykus,,"222 West Ave., 200",,Austin,TX,78701,"The Bingham Group, LLC",Associate,,,,,R20191009125941-E0001
+E0001,R20191011125244,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20191011125244-E0001
+E0001,R20180720150452,RG0107,,John,,Laycock,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20180720150452-E0001
+E0002,R20180720150452,RG0107,,Kevin,,Quist,,PO box 49444,,Austin,TX,78756,South Llano Strategies,Researcher,,,,,R20180720150452-E0002
+E0001,R20191016115205,RG0097,Mr.,Brian,,Gannon,,111 Congress Ave.,Suite 700,Austin,TX,78701,Visit Austin/ Austin Film Commission,Director of Austin Film Commission,,,,,R20191016115205-E0001
+E0001,R20191204083735,RG0006,Ms.,Julie,,Potrykus,,"222 West Ave., 200",,Austin,TX,78701,"The Bingham Group, LLC",Associate,,,,,R20191204083735-E0001
+E0001,R20191223084604,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20191223084604-E0001
+E0001,R20191230174023,RG0183,,Courtney,,Mogonye-McWhorter,,"805 Las Cimas Pkwy, Las Cimas III, Suite 350",,Austin,TX,78746,Sprouse Shrader Smith PLLC,Attorney,,,,,R20191230174023-E0001
+E0001,R20200107093633,RG0006,Ms.,Julie,,Potrykus,,"222 West Ave., 200",,Austin,TX,78701,"The Bingham Group, LLC",Associate,,,,,R20200107093633-E0001
+E0001,R20200113104908,RG0097,Mr.,Steve,,Genovesi,,111 Congress Ave.,Suite 700,Austin,TX,78701,Visit Austin,Executive Vice President,,,,,R20200113104908-E0001
+E0002,R20200113104908,RG0097,Ms.,Julie,,Chase,,111 Congress Ave.,Suite 700,Austin,TX,78701,Visit Austin,Chief Marketing Officer,,,,,R20200113104908-E0002
+E0001,R20200331151436,RG0074,,,,,,,,,,,,,,,,,R20200331151436-E0001
+E0001,R20200415094708,RG0183,,Courtney,,Mogonye-McWhorter,,"805 Las Cimas Pkwy, Las Cimas III, Suite 350",,Austin,TX,78746,Sprouse Shrader Smith PLLC,Attorney,,,,,R20200415094708-E0001
+E0006,R20170710171605,RG0097,Mr.,Lance,,Aldridge,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Sports Commission,Executive Director,,,,,R20170710171605-E0006
+E0001,R20170703190233,RG0097,Mr.,Steve,,Genovesi,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),Sr. VP Sales & Services,,,,,R20170703190233-E0001
+E0002,R20170703190233,RG0097,Ms.,Julie,,Chase,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),VP & Chief Marketing Officer,,,,,R20170703190233-E0002
+E0003,R20170703190233,RG0097,Ms.,Gina,,Palmertree,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),Director of Finance,,,,,R20170703190233-E0003
+E0004,R20170703190233,RG0097,Ms.,Mary Kay,,Hackley,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),VP Strategic Alliance,,,,,R20170703190233-E0004
+E0005,R20170703190233,RG0097,Ms.,Linda,,Atkins,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),VP of Convention Services,,,,,R20170703190233-E0005
+E0006,R20170703190233,RG0097,Mr.,Lance,,Aldridge,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Sports Commission,Executive Director,,,,,R20170703190233-E0006
+E0007,R20170703190233,RG0097,Ms.,Christine,,Cramer,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),Director of Market Analysis & Research,,,,,R20170703190233-E0007
+E0008,R20170703190233,RG0097,Ms.,Katherine,,Wise,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),Communications Manager,,,,,R20170703190233-E0008
+E0001,R20170710152521,RG0088,,Glen,,Coleman,,P.O Box 49444,,Austin,TX,78765,South Llano Strategies,Lobbyist,,,,,R20170710152521-E0001
+E0007,R20170710171605,RG0097,Ms.,Christine,,Cramer,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),Director of Market Analysis & Research,,,,,R20170710171605-E0007
+E0008,R20170710171605,RG0097,Ms.,Katherine,,Wise,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),Communications Manager,,,,,R20170710171605-E0008
+E0001,R20170710171605,RG0097,Mr.,Steve,,Genovesi,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),Sr. VP Sales & Services,,,,,R20170710171605-E0001
+E0002,R20170710171605,RG0097,Ms.,Julie,,Chase,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),VP & Chief Marketing Officer,,,,,R20170710171605-E0002
+E0003,R20170710171605,RG0097,Ms.,Gina,,Palmertree,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),Director of Finance,,,,,R20170710171605-E0003
+E0004,R20170710171605,RG0097,Ms.,Mary Kay,,Hackley,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),VP Strategic Alliance,,,,,R20170710171605-E0004
+E0005,R20170710171605,RG0097,Ms.,Linda,,Atkins,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA Visit Austin),VP of Convention Services,,,,,R20170710171605-E0005
+E0005,R20181022164612,RG0097,,Christine,,Cramer,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Director of Market Analysis & Reserach,,,,,R20181022164612-E0005
+E0001,R20170814100529,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20170814100529-E0001
+E0003,R20200113104908,RG0097,Ms.,Susan,,Richardson,,111 Congress Ave.,Suite 700,Austin,TX,78701,Visit Austin,Director of Content & Publishing,,,,,R20200113104908-E0003
+E0001,R20200115101351,RG0176,,Josiah,,Stevenson,,1200 N Garfield St.,720,Arlington,VA,22201,South Llano Strategies,Government Affairs,,,,,R20200115101351-E0001
+E0001,R20200402165100,RG0047,Mr.,Donald,H.,Lucardi,,680 Fifth Avenue,18th Floor,New York,NY,10019,Emso Asset Management US LLC,Head of Investor Relations,,,,,R20200402165100-E0001
+E0001,R20180709110558,RG0097,,Steve,,Genovesi,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Executive Vice President,,,,,R20180709110558-E0001
+E0002,R20180709110558,RG0097,,Tiffany,,Kerr,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Director of Marketing,,,,,R20180709110558-E0002
+E0003,R20180709110558,RG0097,,Clarissa,,De Leon,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Heritage & Diversity Specialist,,,,,R20180709110558-E0003
+E0004,R20180709110558,RG0097,,Julie,,Chase,,111 Congress Ave.,Suite 700,Austin,TX,78701,Austin Convention & Visitors Bureau (DBA: Visit Austin),Vice President & Chief Marketing Officer,,,,,R20180709110558-E0004
+E0001,R20190722134334,RG0022,,,,,,,,,,,,,,,,,R20190722134334-E0001

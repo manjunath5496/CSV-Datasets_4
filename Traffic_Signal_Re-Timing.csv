@@ -1,0 +1,130 @@
+atd_retiming_id,system_id,system_name,scheduled_fy,retime_status,status_date,total_vol,vol_wavg_tt_pct_change,vol_wavg_tt_seconds,signal_count,engineer_note
+1,5,YAGER,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,910,0.3287473259,299.1600665515,4,
+2,18,SOUTH 1ST - SOUTH,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1278,0.0213922645,27.3393140884,8,
+3,24,PLEASANT VALLEY,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1109,0.0295017249,32.717412916,11,
+4,28,LOYOLA,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,982,0.0775464369,76.1506010838,4,
+5,32,KOENIG/NORTHLAND,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1434,0,0,21,
+6,46,ANDERSON MILL,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1572,0.0930801724,146.3220310281,10,
+7,20,SLAUGHTER,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1881,0.1771580453,333.2342832776,31,
+8,25,MONTOPOLIS,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,745,0.1393498388,103.8156298896,9,
+9,26,MCNEIL/SPICEWOOD SPGS,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1528,0,0,19,
+10,13,STECK,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,818,0,0,6,
+11,30,LAKELINE MALL,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,556,0,0,4,
+12,31,LAKELINE,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,2085,0.1190108955,248.1377171216,6,
+13,39,CONGRESS - SOUTH,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1532,0.0545649743,83.5935406746,24,
+14,29,LAMAR - SOUTH,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,2018,0.0497571412,100.4099109268,26,
+16,27,MENCHACA,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1537,0.0386520816,59.4082494753,15,
+17,33,JOLLYVILLE,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1189,0.0761216251,90.5086122956,5,
+18,36,GREAT HILLS,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1161,0,0,6,
+19,37,ENFIELD,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,979,0.2099081272,205.5000565431,9,
+20,44,BEN WHITE - EAST,2017,COMPLETED,10/20/2016 05:00:00 AM +0000,1889,-0.009059823,-17.1140056199,14,
+21,7,WILLIAM CANNON,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,1563,0.0706995954,110.5034676669,30,
+22,8,WELLS BRANCH,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,1705,0.0434839699,74.1401687001,13,
+23,9,US 290 - WEST,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,3388,0.2690619238,911.5817977278,9,
+24,12,US 183 - NORTH,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,2352,0.1778807322,418.375482247,15,
+25,15,STASSNEY - EAST,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,742,0.0422376334,31.3403240144,7,
+26,19,SOUTH 1ST - NORTH,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,1148,-0.0235089091,-26.9882276613,14,
+27,23,RED RIVER - NORTH,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,683,-0.0803253368,-54.862205007,6,"The 38th, Red River, Dean Keeton, and IH 35 Service Road corridors were timed as a group, for an average travel time reduction of 9.1% across all four corridors."
+28,34,IH 35 SRVC RDS,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,1021,-0.0342650354,-34.9846011151,16,"The 38th, Red River, Dean Keeton, and IH 35 Service Road corridors were timed as a group, for an average travel time reduction of 9.1% across all four corridors."
+29,35,GUADALUPE - NORTH,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,891,0.1163316667,103.6515150415,17,
+30,38,DEAN KEETON,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,763,0.1463515078,111.6662004611,10,"The 38th, Red River, Dean Keeton, and IH 35 Service Road corridors were timed as a group, for an average travel time reduction of 9.1% across all four corridors."
+31,40,CAMERON - NORTH,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,1868,0.0951458892,177.732520983,11,
+32,42,BURLESON,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,1232,0.0905418032,111.5475015363,11,
+33,43,BRAKER,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,2478,0.1997937087,495.0888100457,19,
+34,45,BARTON SPRINGS,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,1479,0.0204620205,30.2633283876,9,
+35,47,AIRPORT,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,0,0,0,27,
+36,50,38TH,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,1217,0.2585350642,314.6371731202,12,"The 38th, Red River, Dean Keeton, and IH 35 Service Road corridors were timed as a group, for an average travel time reduction of 9.1% across all four corridors."
+37,48,7TH - EAST,2016,COMPLETED,09/26/2016 05:00:00 AM +0000,1217,0.0874176626,106.3872954444,12,
+39,52,12TH - EAST,2017,COMPLETED,03/09/2017 06:00:00 AM +0000,534,0.0219155802,11.7029198324,7,
+40,51,24TH,2017,COMPLETED,03/09/2017 06:00:00 AM +0000,573,0.008297718,4.7545923896,6,
+41,49,45TH,2017,COMPLETED,03/09/2017 06:00:00 AM +0000,1445,0.0441344334,63.7742562724,11,
+42,41,BURNET,2017,COMPLETED,03/09/2017 06:00:00 AM +0000,1884,-0.0041684984,-7.8534509495,36,"The Burnet corridor has seen tremendous growth in the past several years, especially in the Domain area (Braker to Gracy Farms).  As part of the retiming, the times of day that the side street protected left-turns were extended at Esperanza and Palm, reducing green time on Burnet Road.  In addition, the standards by which we calculate pedestrian crossing times has been recently updated, which required longer crossing times crossing Burnet, reducing green time on Burnet Road when pedestrians are present. Finally, some phasing changes were made, which allowed more vehicular traffic to enter the corridor - so despite the minimal delay increase, throughput has increased."
+43,3,LOOP 360 - NORTH,2017,COMPLETED,03/09/2017 06:00:00 AM +0000,3318,0.0399180974,132.4482473338,14,
+44,2,RM 2222 - WEST,2017,COMPLETED,03/09/2017 06:00:00 AM +0000,2569,0.1327743729,341.0973639456,4,
+45,21,ROSS,2017,COMPLETED,03/09/2017 06:00:00 AM +0000,191,0,0,6,
+46,1,US 183 - CENTRAL,2017,COMPLETED,03/09/2017 06:00:00 AM +0000,2851,0,0,10,
+47,11,US 183 - SOUTH,2017,COMPLETED,03/09/2017 06:00:00 AM +0000,1884,0.1955033403,368.3282932,8,
+48,4,LAMAR - CENTRAL,2017,COMPLETED,03/09/2017 06:00:00 AM +0000,1698,0.2467728446,419.0202901951,15,
+49,53,RM 2222 - EAST,2017,COMPLETED,05/22/2017 05:00:00 AM +0000,2569,0.1277766224,328.2581429652,3,
+50,56,TRINITY,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,148,0.0150433559,2.2264166788,6,
+51,58,12TH - WEST,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,285,-0.0069019664,-1.9670604201,7,
+52,54,RM 2222 - CENTRAL,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,2668,0.0635491093,169.5490237219,7,
+55,57,FAR WEST,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1412,-0.0134740528,-19.0253625716,6,
+56,59,LOOP 360 - SOUTH,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,3318,0.0273214686,90.6526328807,9,Adjustments made to Ben White/Lamar/360 to reduce queuing for WB Ben White.  Traffic Responsive operations fine-tuned.  
+57,62,8TH,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,0,0,0,10,Retimed for system improvements; data not used in comprehensive analysis
+58,64,51ST,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,723,0.0333003926,24.0761838695,10,Cycle lengths decreased to synchronize corridor with Cameron and Manor corridors.  Lower cycle lengths allowed quicker service to vehicles & pedestrians from growing Mueller area. Green time adjusted at Manor to clear backups in peak periods.  
+60,60,6TH,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,0,0,0,20,Retimed for system improvements; data not used in comprehensive analysis
+61,63,5TH,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,675,0.022056312,14.8880105848,18,
+62,65,MLK - EAST,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,978,0.0284653782,27.8391398665,15,"Adjusted cycle lengths from Comal to Springdale to synchronize better with Airport corridor.  Intersections east of Springdale needed ongoing monitoring, to match the changing traffic patterns at US 183 overpass construction. Leading pedestrian Interval implemented at Cedar."
+63,67,METRIC,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,1580,-0.0213056708,-33.6629598647,14,"Cycle lengths increased at intersections surrounding Parmer, to synchronize up with changes along Parmer corridor.  Resulting cycles were expected to slightly increase delays along Metric.  "
+64,55,PARMER - WEST,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,2027,0.1739970025,352.691924057,29,Cycle length increased for all timing plans during daylight hours.  Resulted in longer green times and improved progression for vehicles traveling along Parmer.  
+65,68,MLK - WEST,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,1710,0.0572502085,97.8978565498,13,"Cycle lengths changed for AM/PM peak plans, reducing side street delay.  Green times adjusted to improve progression for off peak and overnight plans.  "
+66,69,LAVACA,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1111,0.0308960082,34.3254651269,13,
+67,70,LAMAR - NORTH,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1481,0.0124564146,18.4479499594,15,
+68,61,ESCARPMENT,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,597,-0.0119523607,-7.135559322,7,Coordinated only between William Cannon and Slaughter.
+69,72,MANOR,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1315,-0.000531097,-0.6983925628,15,
+70,73,CAMERON - SOUTH,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1066,-0.0265625696,-28.3156991927,14,
+71,71,RUNDBERG,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,1267,0.0268349812,33.9999212145,14,"Major signal construction project implemented at North Plaza, resulting in timing adjustments being made for improved traffic flow to I-35.  Timing adjustments made to intersections from Parkfield to Lamar.  "
+72,17,SOUTHWEST PARKWAY,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,2478,0.0509653083,126.2920339226,18,
+73,75,11TH,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,621,-0.0108205159,-6.7195403697,10,
+74,74,15TH,2020,PLANNED,09/06/2017 05:00:00 AM +0000,0,0,0,18,
+75,76,RED RIVER - SOUTH,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,0,0,0,9,"Retimed for system improvements; Before = After, data not used in comprehensive analysis"
+76,6,WOODWARD,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,759,0.0232325754,17.6335247516,9,
+77,77,CONGRESS - NORTH,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1060,0.0155665976,16.5005935052,20,
+78,78,SAN JACINTO,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,228,0.0079291007,1.8078349591,8,
+79,22,RM 620,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,2281,0.0434385617,99.0833592908,23,
+80,16,ST JOHNS,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,335,0.1162421774,38.9411294196,8,
+81,14,STASSNEY - WEST,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1126,0.0017033673,1.9179915899,8,
+82,79,WEST GATE,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,1053,-0.0194447247,-20.4752951496,6,"Cycle lengths reduced for intersections near US 290 to reduce delay for all vehicular demand at US 290 intersection, as well as new phasing sequence designed to improve safety.  "
+83,80,EXPOSITION,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,863,0.0616829135,53.232354349,12,
+84,81,CESAR CHAVEZ - E,2020,PLANNED,09/06/2017 05:00:00 AM +0000,716,0,0,7,
+85,82,HOWARD,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1517,-0.0127725937,-19.3760247134,10,Retimed mid December.  Good data collection dates will be October or November for before and January 2018 for after.
+86,83,ANDERSON,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1337,0.010196386,13.6325680173,10,
+87,84,7TH - WEST,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,0,0,0,12,Retimed for system improvements; data not used in comprehensive analysis
+88,85,GUADALUPE - SOUTH,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,849,0.0453195915,38.4763331426,12,
+89,10,US 290 - EAST,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1681,0.0038390818,6.4534964231,19,
+90,87,CESAR CHAVEZ - WEST,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1260,0.0786447974,99.0924446952,17,
+91,88,BRODIE,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,1393,-0.0125202657,-17.4407301203,19,"Increased cycle lengths resulted in improved coordination across William Cannon and Slaughter corridors, with a tradeoff of slightly increased delays for lower volume intersections further down the corridor.  Weekend plans adjusted to accommodate higher volumes in Sunset Valley area."
+92,89,RIVERSIDE,2018,COMPLETED,09/06/2017 05:00:00 AM +0000,1926,-0.0251592517,-48.4567187424,24,
+93,7,WILLIAM CANNON,2020,PLANNED,09/06/2017 05:00:00 AM +0000,0,0,0,30,
+101,35,GUADALUPE - NORTH,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,891,-0.0418657896,-37.3024185338,17,"Cycle length was reduced for AM/PM peak plans, reducing side street delay. Implemented leading pedestrian intervals at several intersections along corridor.  Those two actions contributed to expected increase in delay along corridor.  "
+107,47,AIRPORT,2019,COMPLETED,09/06/2017 05:00:00 AM +0000,1805,-0.0361352828,-65.2241855167,27,"Slightly increased cycle length and adjusted splits to accommodate traffic conditions. Added FYA to about 5 locations; Oak Springs previously only had a permissive WBLT but with the FYA installation, it now runs a protected/permissive operation. Implemented advanced walk at Highland Mall. Due to the US 183 construction, signal at Levander loop was bagged and taken out of operation (temporary)."
+109,48,7TH - EAST,2016,COMPLETED,09/06/2017 05:00:00 AM +0000,0,0,0,12,"			
+"
+111,4,LAMAR - CENTRAL,2020,PLANNED,09/06/2017 05:00:00 AM +0000,0,0,0,15,
+112,11,US 183 - SOUTH,2020,COMPLETED,09/06/2017 05:00:00 AM +0000,1884,-0.0139514745,-26.284577875,8,"Cycle lengths were matched for all three signals, which resulted in higher traffic volumes getting through each intersection, but limited coordination possible with higher cycle lengths and variable intersection spacing.  "
+113,1,US 183 - CENTRAL,2020,COMPLETED,09/06/2017 05:00:00 AM +0000,0,0,0,10,"At Great Hills and Braker, coordination was adjusted to work with the cross street instead of NB and SB 183.  At Balcones Woods, Duval, and Oak Knoll, signals were set to run free except for the AM and PM peaks when progression is provided in the peak direction of 183."
+116,3,LOOP 360 - NORTH,2020,COMPLETED,09/06/2017 05:00:00 AM +0000,3318,0.0972436247,322.6543468223,14,"Cycle length were further optimized by time of day and changing traffic volumes.  Some peak periods saw increases in delay for the side streets, while traffic along 360 should experience longer green times and better progression."
+120,52,12TH - EAST,2020,PLANNED,09/06/2017 05:00:00 AM +0000,0,0,0,7,
+121,5,YAGER,2020,READY FOR DATA COLLECTION,09/06/2017 05:00:00 AM +0000,0,0,0,4,
+126,46,ANDERSON MILL,2020,PLANNED,09/06/2017 05:00:00 AM +0000,0,0,0,10,
+129,26,MCNEIL/SPICEWOOD SPGS,2020,PLANNED,09/06/2017 05:00:00 AM +0000,0,0,0,19,
+136,33,JOLLYVILLE,2020,COMPLETED,09/06/2017 05:00:00 AM +0000,981,0.0008528575,0.8366531996,5,"Corridor was modified to change according to demand-based setting during non-peak periods, for lower traffic volumes, and quicker service to side street and pedestrian volumes.  As a result, no coordination for traffic flow.  Corridor remained in coordination with nearby US 183 intersections during peak periods, with limited vehicular flow along Jollyville.   "
+137,36,GREAT HILLS,2020,COMPLETED,09/06/2017 05:00:00 AM +0000,1161,-0.0014228727,-1.6519551827,6,"Cycle lengths were adjusted by time of day to reflect traffic volumes from the shopping generators in the immediate area.  Signals west of Jollyville had cycles reduced by half, which will result in more red time for traffic along Great Hills, but reduces delay and queuing for all side street traffic, which will improve safety in the adjacent parking lots."
+143,90,ANDERSON MILL WEST,2018,COMPLETED,01/26/2018 06:00:00 AM +0000,0,0,0,4,Brought into coordination for AM and PM peaks.  7-9 AM and 430-630 PM.
+146,86,OLTORF,2018,COMPLETED,04/17/2018 05:00:00 AM +0000,1179,-0.0161460364,-19.036176872,14,
+147,91,PARMER - EAST,2019,COMPLETED,06/01/2018 05:00:00 AM +0000,2088,0.129421868,270.232860416,7,Cycle lengths increase to accommodate larger traffic volumes along corridor. 
+155,93,NON-CORRIDOR,2019,COMPLETED,09/20/2019 05:00:00 AM +0000,0,0,0,166,These signals were re-timed over the course of the year.
+156,44,BEN WHITE - EAST,2019,COMPLETED,09/25/2019 05:00:00 AM +0000,1889,0.0009265651,1.7502814491,14,"No changes made, with volumes not apparently changed from US 183 construction. "
+157,48,7TH - EAST,2020,PLANNED,12/09/2019 06:00:00 AM +0000,0,0,0,12,
+159,94,QUINLAN PARK,2019,COMPLETED,10/31/2019 05:00:00 AM +0000,0,0,0,5,Coordinated timing plans were developed for weekdays to allow for progression through the corridor.  Flashing yellow arrows were installed at all intersections in the corridor to improve safety.
+161,73,CAMERON - SOUTH,2020,READY FOR DATA COLLECTION,01/28/2020 06:00:00 AM +0000,0,0,0,14,
+162,40,CAMERON - NORTH,2020,PLANNED,01/28/2020 06:00:00 AM +0000,0,0,0,11,
+163,9,US 290 - WEST,2020,COMPLETED,01/30/2020 06:00:00 AM +0000,3388,0.1060222201,359.2032817627,9,"Cycle lengths were increased at bottleneck intersections during peak hours to increase throughput.  Additionally, a traffic responsive system was installed for US 290 westbound approaching William Cannon, that can increase green time whenever vehicular queues back up beyond a certain threshold."
+164,12,US 183 - NORTH,2020,COMPLETED,02/05/2020 06:00:00 AM +0000,2792,0.0396509773,110.7055286706,15,"Cycle lengths were adjusted lower during the AM peak period, except for Lakeline and Lake Creek, where increases were required based on traffic demand. Northbound 183 progression was prioritized from Lakeline Mall through Lakeline.  Southbound progression was prioritized from Lakeline Mall to Lake Creek.   "
+165,95,US 183 - EAST,2020,PLANNED,03/05/2020 06:00:00 AM +0000,0,0,0,8,
+166,97,PLEASANT VALLEY - NORTH,2020,PLANNED,03/05/2020 06:00:00 AM +0000,0,0,0,5,
+167,98,PLEASANT VALLEY - SOUTH,2020,COMPLETED,03/05/2020 06:00:00 AM +0000,1109,0.0752972769,83.5046800459,6,"Cycle lengths were reduced to coordinate with Riverside.  New left turn phases were activated at Elmont. The heavily used PHB north of Riverside was placed into coordination in the system, to improve safety and operations."
+168,99,BRAKER - EAST,2020,READY FOR DATA COLLECTION,03/05/2020 06:00:00 AM +0000,0,0,0,6,
+169,100,BRAKER - WEST,2020,COMPLETED,03/05/2020 06:00:00 AM +0000,2478,0.0412345884,102.1793101688,12,"No changes to cycle lengths or green times, and settings for synchronization were optimized.  Several left turns at Jollyville and at Metric were converted to “protected only” at certain times of day to increase safety."
+170,8,WELLS BRANCH,2020,PLANNED,03/10/2020 05:00:00 AM +0000,0,0,0,13,
+171,16,ST JOHNS,2020,PLANNED,03/11/2020 05:00:00 AM +0000,0,0,0,8,
+172,42,BURLESON,2020,PLANNED,03/11/2020 05:00:00 AM +0000,0,0,0,11,
+173,15,STASSNEY - EAST,2020,PLANNED,03/11/2020 05:00:00 AM +0000,0,0,0,7,
+174,50,38TH,2020,PLANNED,03/11/2020 05:00:00 AM +0000,0,0,0,12,
+176,38,DEAN KEETON,2020,PLANNED,03/11/2020 05:00:00 AM +0000,0,0,0,10,
+177,34,IH 35 SRVC RDS,2020,PLANNED,03/11/2020 05:00:00 AM +0000,0,0,0,16,
+178,23,RED RIVER - NORTH,2020,PLANNED,03/11/2020 05:00:00 AM +0000,0,0,0,6,
+180,66,BEN WHITE - WEST,2020,PLANNED,03/11/2020 05:00:00 AM +0000,0,0,0,8,
+181,19,SOUTH 1ST - NORTH,2020,PLANNED,03/11/2020 05:00:00 AM +0000,0,0,0,14,
+182,103,MANOR - WEST,2020,PLANNED,03/12/2020 05:00:00 AM +0000,0,0,0,6,
