@@ -1,0 +1,25 @@
+SERIAL NO,DATE,REGION,METRO/MUNICIPAL/DISTRICT,INSTITUTION NAME,INSTALLED CAPACITY(kW) GRIDCONNECTED,LOCALITY,LATITUDE,LONGITUDE
+001,1998,Greater Accra Region,Accra Metropolitan Assembly,Ministry of Energy,50,Accra,05.5514N,000.2008W
+002,May 2008,Greater Accra Region,Accra Metropolitan Assembly,Energy Commission,4.25,Accra,05.5975N,000.1829W
+003,May 2008,Ashanti Region,KMA,KNUST,4,Kumasi,06.6735N,001.5654W
+004,March 2012,Ashanti Region,KMA,KNUST,20,Kumasi,06.6735N,001.5654W
+005,May 2010,Greater Accra Region,Ga East,Valley View University,8.36,Oyibi,05.7974N,000.1224W
+006,May 2010,Greater Accra Region,Ga East,Presby Women's Centre,4.18,Abokobi,05.7386N,000.2046W
+007,May 2010,Brong Ahafo Region,Kintampo Municipal,Pure Company Ltd,4.18,Benkrom,08.7610N,001.4493W
+008,May 2010,Greater Accra Region,Accra Metropolitan Assembly,V. Attafuah - Residence ,4.18,"East Airport, Spintex Rd, Accra",05.6227N,000.1416W
+009,May 2010,Greater Accra Region,Accra Metropolitan Assembly,V. Adomako - Residence ,4.18,"Dzowulu, Accra",05.6154N,000.1950W
+010,Sept 2011,Greater Accra Region,Tema,S. Adjei - Residence ,4,Tema,05.6431N,000.0151W
+011,Sept 2011,Eastern Region,Akwapim South ,G Mills - Residence ,3.8,Peduase,05.8050N,000.1760W
+012,Nov 2011,Greater Accra Region,Ledzokuku,Abdulai -  Residence ,3.29,Tesijriganor,05.6413N,000.1343W
+013,Nov 2011,Greater Accra Region,Ga East,Trade Works Company Ltd (Office),10.575,South Dome,05.6491N,000.2506W
+014,Nov 2011,Eastern Region,Asuogyaman,Wienco Gh Ltd ,42.77,Atempoku,06.2777N,000.0718E
+015,Dec 2011,Greater Accra Region,Adenta,O Asante - Residence ,0.8,Fafraha-Ashyie,05.7357N,000.1465W
+016,Dec 2011,Greater Accra Region,Tema,Dr. George Puplampu Clinic,4,Sakumono,05.6304N,000.0751W
+017,Oct 2012,Eastern Region,Akwapim South ,Rita Marley Music Studio,4,Aburi,05.8321N,000.18321W
+018,Oct 2012,Greater Accra Region,Ningo Prampram,R. Marley - Residence ,4,Prampram,05.7160N,000.1315E
+019,Oct 2012,Greater Accra Region,Tema,R. Tuffour - Residence ,7.6,Sakumono,05.6306N,000.0564W
+020,April 2013,Greater Accra Region,Accra Metropolitan Assembly,"Noguchi Mem. Institute, Uni. Of Ghana",315,"Legon, Accra",05.6330N,000.1817W
+021,May 2013,Upper East Region,Kassena Nandani East,Volta River Authority (VRA),2500,Navrongo,10.9234N,001.0550W
+022,,Greater Accra Region,,Residence installed by TW,2.82,"Regimanual Estates, Kwabenya",,
+023,,Greater Accra Region,,Residence installed by TW,5.17,West Legon,,
+024,,Greater Accra Region,,Residence installed by TW,1.41,,,
