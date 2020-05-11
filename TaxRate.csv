@@ -1,0 +1,260 @@
+taxRateKey,taxRateYearDate,taxRateDsc,taxRate,districtNbr
+81,2008,Sanitary district rate,0.01,
+95,2009,Sanitary district rate,0.01,
+109,2010,Sanitary district rate,0.013,
+124,2011,Sanitary district rate,0.013,
+139,2012,Sanitary district rate,0.013,
+154,2013,Sanitary district rate,0.013,
+169,2014,Sanitary district rate,0.013,
+184,2015,Sanitary District Rate,0.013,
+199,2016,Sanitary District Rate,0.013,0
+214,2017,Sanitary District Rate,0.013,0
+229,2018,Sanitary District Rate,0.013,0
+244,2019,Sanitary District Rate,0.013,0
+259,2020,Sanitary District Rate,0.013,0
+27,2004,commercial Rate,0.0,0C
+37,2005,commercial Rate,0.0,0C
+47,2006,commercial Rate,0.0,0C
+72,2008,Commercial Rate,0.125,0C
+86,2009,Commercial Rate,0.125,0C
+100,2010,Commercial Rate,0.125,0C
+115,2011,Commercial Rate,0.125,0C
+130,2012,Commercial Rate,0.125,0C
+145,2013,Commercial Rate,0.125,0C
+160,2014,Commercial Rate,0.125,0C
+175,2015,Commercial Rate,0.125,0C
+190,2016,Commercial Rate,0.125,0C
+205,2017,Commercial Rate,0.125,0C
+220,2018,Commercial Rate,0.125,0C
+235,2019,Commercial Rate,0.125,0C
+250,2020,Commercial Rate,0.125,0C
+17,2003,commercial Rate,0.978,0C
+9,2002,commercial Rate,0.993,0C
+1,2000,commercial Rate,1.023,0C
+3,2001,commercial Rate,1.023,0C
+51,2006,Residential Rate,0.818,0G
+63,2007,Residential Rate,0.818,0G
+77,2008,Residential Rate,0.838,0G
+91,2009,Residential Rate,0.865,0G
+38,2005,Residential Rate,0.878,0G
+105,2010,Residential Rate,0.945,0G
+120,2011,Residential Rate,0.945,0G
+28,2004,Residential Rate,0.958,0G
+135,2012,Residential Rate,0.958,0G
+18,2003,Residential Rate,0.978,0G
+195,2016,Residential Rate,0.978,0G
+165,2014,Residential Rate,0.983,0G
+180,2015,Residential Rate,0.983,0G
+10,2002,Residential Rate,0.993,0G
+150,2013,Residential Rate,0.993,0G
+210,2017,Residential Rate,0.993,0G
+225,2018,Residential Rate,0.993,0G
+240,2019,Residential Rate,1.013,0G
+255,2020,Residential Rate,1.013,0G
+2,2000,Residential Rate,1.023,0G
+4,2001,Residential Rate,1.023,0G
+171,2015,2nd Rd N BID Residential Rate,0.0,0M
+186,2016,2nd Rd N BID Residential Rate,0.0,0M
+201,2017,2nd Rd N BID Residential Rate,0.0,0M
+216,2018,2nd Rd N BID Residential Rate,0.0,0M
+231,2019,2nd Rd N BID Residential Rate,0.0,0M
+246,2020,2nd Rd N BID Residential Rate,0.0,0M
+76,2008,Mixed Use Resid/Comm,0.0,0M
+90,2009,Mixed Use Resid/Comm,0.0,0M
+104,2010,Mixed Use Resid/Comm,0.0,0M
+119,2011,Mixed Use Resid/Comm,0.0,0M
+134,2012,Mixed Use Resid/Comm,0.0,0M
+149,2013,Mixed Use Resid/Comm,0.0,0M
+164,2014,Mixed Use Resid/Comm,0.0,0M
+179,2015,Mixed Use Resid/Comm,0.0,0M
+194,2016,Mixed Use Resid/Comm,0.0,0M
+209,2017,Mixed Use Resid/Comm Rate,0.0,0M
+224,2018,Mixed Use Resid/Comm Rate,0.0,0M
+239,2019,Mixed Use Resid/Comm Rate,0.0,0M
+254,2020,Mixed Use Resid/Comm Rate,0.0,0M
+70,2008,Chain Bridge Road Commercial Rate,0.052,1C
+56,2007,Chain Bridge Road Commercial Rate,0.053,1C
+57,2007,Chain Bridge Road Commercial Rate,0.053,1C
+43,2006,Chain Bridge Road Commercial Rate,0.054,1C
+44,2006,Chain Bridge Road Commercial Rate,0.054,1C
+33,2005,Chain Bridge Road Commercial Rate,0.069,1C
+34,2005,Chain Bridge Road Commercial Rate,0.069,1C
+23,2004,Chain Bridge Road Commercial Rate,0.08,1C
+24,2004,Chain Bridge Road Commercial Rate,0.08,1C
+13,2003,Chain Bridge Road Commercial Rate,0.087,1C
+14,2003,Chain Bridge Road Commercial Rate,0.087,1C
+5,2002,Chain Bridge Road Commercial Rate,0.126,1C
+6,2002,Chain Bridge Road Commercial Rate,0.126,1C
+71,2008,Chain Bridge Road Residential Rate,0.052,1G
+58,2007,Chain Bridge Road Residential Rate,0.053,1G
+59,2007,Chain Bridge Road Residential Rate,0.053,1G
+45,2006,Chain Bridge Road Residential Rate,0.054,1G
+46,2006,Chain Bridge Road Residential Rate,0.054,1G
+35,2005,Chain Bridge Road Residential Rate,0.069,1G
+36,2005,Chain Bridge Road Residential Rate,0.069,1G
+25,2004,Chain Bridge Road Residential Rate,0.08,1G
+26,2004,Chain Bridge Road Residential Rate,0.08,1G
+15,2003,Chain Bridge Road Residential Rate,0.087,1G
+16,2003,Chain Bridge Road Residential Rate,0.087,1G
+7,2002,Chain Bridge Road Residential Rate,0.126,1G
+8,2002,Chain Bridge Road Residential Rate,0.126,1G
+29,2004,Rosslyn BID Commercial Rate,0.048,BC
+19,2003,Rosslyn BID Commercial Rate,0.049,BC
+52,2006,Rosslyn BID Commercial Rate,0.078,BC
+136,2012,Rosslyn BID Commercial Rate,0.078,BC
+151,2013,Rosslyn BID Commercial Rate,0.078,BC
+166,2014,Rosslyn BID Commercial Rate,0.078,BC
+181,2015,Rosslyn BID Commercial Rate,0.078,BC
+196,2016,Rosslyn BID Commercial Rate,0.078,BC
+211,2017,Rosslyn BID Commercial Rate,0.078,BC
+226,2018,Rosslyn BID Commercial Rate,0.078,BC
+241,2019,Rosslyn BID Commercial Rate,0.078,BC
+256,2020,Rosslyn BID Commerical Rate,0.078,BC
+92,2009,Rosslyn BID Commercial Rate,0.08,BC
+106,2010,Rosslyn BID Commercial Rate,0.08,BC
+121,2011,Rosslyn BID Commercial Rate,0.08,BC
+64,2007,Rosslyn BID Commercial Rate,0.082,BC
+78,2008,Rosslyn BID Commercial Rate,0.082,BC
+39,2005,Rosslyn BID Commercial Rate,0.086,BC
+30,2004,Rosslyn BID Residential Rate,0.048,BG
+20,2003,Rosslyn BID Residential Rate,0.049,BG
+53,2006,Rosslyn BID Residential Rate,0.078,BG
+137,2012,Rosslyn BID Residential Rate,0.078,BG
+152,2013,Rosslyn BID Residential Rate,0.078,BG
+167,2014,Rosslyn BID Residential Rate,0.078,BG
+182,2015,Rosslyn BID Residential Rate,0.078,BG
+197,2016,Rosslyn BID Residential Rate,0.078,BG
+212,2017,Rosslyn BID Residential Rate,0.078,BG
+227,2018,Rosslyn BID Residential Rate,0.078,BG
+242,2019,Rosslyn BID Residential Rate,0.078,BG
+257,2020,Rosslyn BID Residential Rate,0.078,BG
+93,2009,Rosslyn BID Residential Rate,0.08,BG
+107,2010,Rosslyn BID Residential Rate,0.08,BG
+65,2007,Rosslyn BID Residential Rate,0.082,BG
+79,2008,Rosslyn BID Residential Rate,0.082,BG
+122,2011,Rosslyn BID Residential Rate,0.082,BG
+40,2005,Rosslyn BID Residential Rate,0.086,BG
+138,2012,Rosslyn Mixed Use,0.078,BM
+153,2013,Rosslyn Mixed Use,0.078,BM
+168,2014,Rosslyn Mixed Use,0.078,BM
+183,2015,Rosslyn Mixed Use,0.078,BM
+198,2016,Rosslyn Mixed Use,0.078,BM
+213,2017,Rosslyn Mixed Use,0.078,BM
+228,2018,Rosslyn Mixed Use,0.078,BM
+243,2019,Rosslyn Mixed Use,0.078,BM
+258,2020,Rosslyn Mixed Use,0.078,BM
+94,2009,Rosslyn Mixed Use,0.08,BM
+108,2010,Rosslyn Mixed Use,0.08,BM
+123,2011,Rosslyn Mixed Use,0.08,BM
+80,2008,Rosslyn Mixed Use,0.082,BM
+140,2013,2nd Rd N BID Commercial Rate,,CC
+155,2014,2nd Rd N BID Commercial Rate,,CC
+170,2015,2nd Rd N BID Commercial Rate,,CC
+185,2016,2nd Rd N BID Commercial Rate,0.0,CC
+200,2017,2nd Rd N BID Commercial Rate,0.0,CC
+215,2018,2nd Rd N BID Commercial Rate,0.0,CC
+230,2019,2nd Rd N BID Commercial Rate,0.0,CC
+245,2020,2nd Rd N BID Commercial Rate,0.0,CC
+66,2008,2nd Rd N BID Commercial Rate,0.144,CC
+54,2007,2nd Rd N BID Commercial Rate,0.147,CC
+82,2009,2nd Rd N BID Commercial Rate,0.148,CC
+125,2012,2nd Rd N BID Commercial Rate,0.149,CC
+96,2010,2nd Rd N BID Commercial Rate,0.153,CC
+110,2011,2nd Rd N BID Commercial Rate,0.159,CC
+41,2006,2nd Rd N BID Commercial Rate,0.223,CC
+31,2005,2nd Rd N BID Commercial Rate,0.265,CC
+21,2004,2nd Rd N BID Commercial Rate,0.375,CC
+11,2003,2nd Rd N BID Commercial Rate,0.478,CC
+156,2014,2nd Rd N BID Residential Rate,,CG
+141,2013,2nd Rd N BID Residential Rate,0.0,CG
+67,2008,2nd Rd N BID Residential Rate,0.144,CG
+55,2007,2nd Rd N BID Residential Rate,0.147,CG
+83,2009,2nd Rd N BID Residential Rate,0.148,CG
+126,2012,2nd Rd N BID Residential Rate,0.149,CG
+97,2010,2nd Rd N BID Residential Rate,0.153,CG
+111,2011,2nd Rd N BID Residential Rate,0.159,CG
+42,2006,2nd Rd N BID Residential Rate,0.223,CG
+32,2005,2nd Rd N BID Residential Rate,0.265,CG
+22,2004,2nd Rd N BID Residential Rate,0.375,CG
+12,2003,2nd Rd N BID Residential Rate,0.478,CG
+73,2008,Crystal City BID Commercial Rate,0.043,DC
+87,2009,Crystal City BID Commercial Rate,0.043,DC
+101,2010,Crystal City BID Commercial Rate,0.043,DC
+116,2011,Crystal City BID Commercial Rate,0.043,DC
+131,2012,Crystal City BID Commercial Rate,0.043,DC
+146,2013,Crystal City BID Commercial Rate,0.043,DC
+161,2014,Crystal City BID Commercial Rate,0.043,DC
+176,2015,Crystal City BID Commercial Rate,0.043,DC
+191,2016,Crystal City BID Commercial Rate,0.043,DC
+206,2017,Crystal City BID Commercial Rate,0.043,DC
+221,2018,Crystal City BID Commercial Rate,0.043,DC
+236,2019,Crystal City BID Commercial Rate,0.043,DC
+251,2020,Crystal City BID Commercial Rate,0.043,DC
+48,2006,Crystal City BID Commercial Rate,0.045,DC
+60,2007,Crystal City BID Commercial Rate,0.045,DC
+74,2008,Crystal City BID Residential Rate,0.043,DG
+88,2009,Crystal City BID Residential Rate,0.043,DG
+102,2010,Crystal City BID Residential Rate,0.043,DG
+117,2011,Crystal City BID Residential Rate,0.043,DG
+132,2012,Crystal City BID Residential Rate,0.043,DG
+147,2013,Crystal City BID Residential Rate,0.043,DG
+162,2014,Crystal City BID Residential Rate,0.043,DG
+177,2015,Crystal City BID Residential Rate,0.043,DG
+192,2016,Crystal City BID Residential Rate,0.043,DG
+207,2017,Crystal City BID Residential Rate,0.043,DG
+252,2020,Crystal City BID Residential Rate,0.043,DG
+222,2018,Crystal City BID Rsidential Rate,0.043,DG
+237,2019,Crystal City BID Rsidential Rate,0.043,DG
+49,2006,Crystal City BID Residential Rate,0.045,DG
+61,2007,Crystal City BID Residential Rate,0.045,DG
+253,2020,Crystal City Mixed Rate,0.043,DM
+75,2008,Crystal City Mixed Use,0.043,DM
+89,2009,Crystal City Mixed Use,0.043,DM
+103,2010,Crystal City Mixed Use,0.043,DM
+118,2011,Crystal City Mixed Use,0.043,DM
+133,2012,Crystal City Mixed Use,0.043,DM
+148,2013,Crystal City Mixed Use,0.043,DM
+163,2014,Crystal City Mixed Use,0.043,DM
+178,2015,Crystal City Mixed Use,0.043,DM
+193,2016,Crystal City Mixed Use,0.043,DM
+208,2017,Crystal City Mixed Use,0.043,DM
+223,2018,Crystal City Mixed Use,0.043,DM
+238,2019,Crystal City Mixed Use,0.043,DM
+50,2006,Crystal City Mixed Use,0.045,DM
+62,2007,Crystal City Mixed Use,0.045,DM
+68,2008,Ballston BID Commercial Rate,0.045,FC
+84,2009,Ballston BID Commercial Rate,0.045,FC
+98,2010,Ballston BID Commercial Rate,0.045,FC
+112,2011,Ballston BID Commercial Rate,0.045,FC
+127,2012,Ballston BID Commercial Rate,0.045,FC
+142,2013,Ballston BID Commercial Rate,0.045,FC
+157,2014,Ballston BID Commercial Rate,0.045,FC
+172,2015,Ballston BID Commercial Rate,0.045,FC
+187,2016,Ballston BID Commercial Rate,0.045,FC
+202,2017,Ballston BID Commercial Rate,0.045,FC
+232,2019,Ballston BID Commercial Rate,0.045,FC
+247,2020,Ballston BID Commercial Rate,0.045,FC
+217,2018,Ballston BID Commercial Rate,0.053,FC
+69,2008,Ballston BID Residential Rate,,FG
+85,2009,Ballston BID Residential Rate,,FG
+99,2010,Ballston BID Residential Rate,,FG
+113,2011,Ballston BID Residential Rate,0.045,FG
+128,2012,Ballston BID Residential Rate,0.045,FG
+143,2013,Ballston BID Residential Rate,0.045,FG
+158,2014,Ballston BID Residential Rate,0.045,FG
+173,2015,Ballston BID Residential Rate,0.045,FG
+188,2016,Ballston BID Residential Rate,0.045,FG
+203,2017,Ballston BID Residential Rate,0.045,FG
+233,2019,Ballston BID Residential Rate,0.045,FG
+248,2020,Ballston BID Residential Rate,0.045,FG
+218,2018,Ballston BID Residential Rate,0.053,FG
+114,2011,Ballston Mixed Use,0.045,FM
+129,2012,Ballston Mixed Use,0.045,FM
+144,2013,Ballston Mixed Use,0.045,FM
+159,2014,Ballston Mixed Use,0.045,FM
+174,2015,Ballston Mixed Use,0.045,FM
+189,2016,Ballston Mixed Use,0.045,FM
+204,2017,Ballston Mixed Use,0.045,FM
+234,2019,Ballston Mixed Use,0.045,FM
+249,2020,Ballston Mixed Use,0.045,FM
+219,2018,Ballston Mixed Use,0.053,FM

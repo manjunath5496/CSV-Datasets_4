@@ -1,0 +1,247 @@
+ID,Name,StationCode1,StationCode2,Description,Lat,Lon
+220,SOUTH ELEVATOR ENTRANCE  (SOUTH OF N FAIRFAX DR & N STUARD ST),K04,,Entrance elevators located at the southwest corner of N Fairfax Dr and N Stuart St.,38.882054,-77.112097
+219,NORTH ELEVATOR ENTRANCE  (NORTH OF N FAIRFAX DR & N STUARD ST),K04,,Entrance elevators located at the northwest corner of N Fairfax Dr and N Stuart St.,38.882368,-77.112131
+221,MAIN ENTRANCE (N FAIRFAX DR & N STUARD ST),K04,,Canopied escalator entrance at southeast corner of N Fairfax Dr and N Stuart St.,38.881868,-77.111358
+218,MAIN ENTRANCE (NORTHEWEST CORNER OF N MONROE ST AND N FAIRFAX DR),K03,,Station entrance from the southwest corner of  North Monroe St and  N.Fairfax Dr.,38.88283,-77.103278
+217,ELEVATOR ENTRANCE (NORTH OF THE MAIN ENTRANCE ON N MONROE ST),K03,,Street level elevator just north of escalator located west of North Monroe St.,38.883017,-77.103295
+214,"ELEVATOR ENTRANCE (CLARENDON CENTRAL PARK, BETWEEN WILSON BLVD & CLARENDON BLVD)",K02,,"Elevator entrance from Clarendon Central Park, between Wilson Blvd and Clarendon Blvd.",38.886756,-77.09567
+216,BUILDING ENTRANCE (GOVERNMENT BUILDING),K02,,Government building entrance to intermediate passageway (only open during building hours).,38.887002,-77.095287
+215,MAIN ENTRANCE (WILSON BLVD & N HIGHLAND ST),K02,,Canopied escalator and stairway entrance at southwest corner of Wilson Blvd and Highland St.,38.88718,-77.0951
+222,MAIN ENTRANCE (N SYCAMORE ST & I66),K05,,Street level station entrance located under I-66 is accessible by the walkway from bus bay and parking lot located at the north side and from kiss&ride area located at the south of the side station.,38.885893,-77.156571
+212,WEST ELEVATOR ENTRANCE (CLARENDON BLVD & 15TH ST N),K01,,Elevator entrance at Clarendon Blvd and 15th St N.,38.890462,-77.086071
+209,"SOUTH ENTRANCE (PLAZA EXIT, AMC COURTHOUSE PLAZA, 15TH ST N)",K01,,Canopied entrance next to AMC Theaters.,38.890315,-77.085112
+211,SOUTH ELEVATOR ENTRANCE (SW OF 15TH ST N & N UHLE ST),K01,,Elevator to tunnel located next to parking space located on 15th St N.,38.890603,-77.084938
+213,"NORTH ENTRANCE (SW OF CLARENDON BLVD & N UHLE ST, STRYER UNIVERSITY EXIT)",K01,,Escalator entrance at Strayer University building entrance at Clarendon Blvd and  N Uhie St intersection.,38.891183,-77.085011
+210,"NORTH ELEVATOR ENTRANCE (NW OF CLARENDON BLVD & N UHLE ST, COLONIAL VILLAGE EXIT)",K01,,Street level elevator located at the northwest corner of Wilson Blvd and N.Uhle St(Colonial Village Building).,38.891731,-77.085063
+93,"WEST ENTRANCE (FT. MAYER DR EXIT, BUILDING ENTRANCE FROM N FT. MAYER DR BETWEEN N NASH ST AND WILSON BLVD)",C05,,Building entrance from N. Fort Myer Dr segment between N. Nash St and Wilson Blvd is accessible by N. Fort Myer Dr sidewalks.,38.895807,-77.072105
+92,"EAST ENTRANCE (N MOORE ST EXIT, WEST N MOORE ST, BETWEEN 19TH ST & WILSON BLVD)",C05,,Station main entrance is accessible from bus bay area located on N.Moore St segment between 19th St.N and Wilson Blvd.,38.895949,-77.071707
+91,EAST ELEVATOR STREET ENTRANCE (BETWEEN N MOORE ST & N LYNN ST),C05,,"Street level high-speed elevator entrance, accessible from N. Lynn St and N.Moore St sidewalks.",38.895987,-77.071402
+96,NORTH ENTRANCE (NORTH OF MEMORIAL DR & JEFFERSON HWY),C06,,Escalator entrance from the west side of Memorial Dr where it crosses over Jefferson Davis Hwy.,38.884511,-77.063761
+97,SOUTH ENTRANCE (SOUTH OF MEMORIAL DR & JEFFERSON HWY),C06,,Escalator entrance from the east side of Memorial Dr where it crosses over Jefferson Davis Hwy.,38.884168,-77.063556
+95,WEST ELEVATOR ENTRANCE (MEMORIAL DR & JEFFERSON HWY),C06,,Elevator entrance from Memorial Dr (between Jefferson Davis Hwy and rail tracks).,38.884719,-77.063338
+94,EAST ELEVATOR ENTRANCE (MEMORIAL DR & GW PKWY),C06,,Elevator entrance from Memorial Dr (between rail tracks and GW Pkwy).,38.884817,-77.063075
+103,"WEST ENTRANCE (W SIDE HAYES EXIT, BETWEEN SERVICE RD & HAYES STs)",C08,,"Canopied entrance between S.Hayes St and service road to the stores(Nordstrom, Macy's).",38.862615,-77.059909
+102,"EAST ENTRANCE (E SIDE HAYES EXIT, SE CORNER OF 12th & HAYES STs)",C08,,Canopied entrance in front of Pentagon Center(Borders Store) building located southeast corner of Hayes St and 12th St.,38.862548,-77.059105
+101,EAST ELEVATOR ENTRANCE (SE CORNER OF 12th & HAYES STs),C08,,Street level elevator located at the southeast corner of Hayes St and 12th St next to escalator.,38.86281,-77.058954
+224,"SOUTH ENTRANCE (MAIN EXIT, NORTH SIDE OF HAYCOCK RD)",K06,,"Pedestrian bridge to station from south side is accessible from bus bay, kiss&ride, parking garage located north of Haycock Rd.",38.900319,-77.188878
+223,"NORTH ENTRANCE (NORTH BUS BAY, NORTH SIDE OF I66 ACCESS FROM WEST FALLS CHURCH METRO DRIVEWAY)",K06,,Station entrance from north side is accessible from bus bay located off Rt.267.,38.9011,-77.188973
+100,"SOUTH ENTRANCE (SW OF S EADS ST, NE OF N ROTARY RD)",C07,,Station entrance at the south side of bus bay accessible from the bus bay area sidewalks.,38.869037,-77.054509
+98,ELEVATOR ENTRANCE (NE OF S EADS ST),C07,,Steet level elevator to station is accessible from bus bay area sidewalks.,38.869591,-77.053838
+99,EAST ENTRANCE (NE OF S EADS ST),C07,,Station entrance at the north side of bus bay accessible from the bus bay area sidewalks.,38.869773,-77.05352
+89,ELEVATOR ENTRANCE (23RD & I STs),C04,,"Station entrance form street level elevator facing I St NW, adjacent to station escalator  (south end of George Washington University Hospital building).",38.900824,-77.050856
+105,MAIN ENTRANCE (CLARK & 18th STs),C09,,Canopied entrance is accessible from the sidewalks from 18th St South.,38.858038,-77.051472
+90,MAIN ENTRANCE (23RD & I STs),C04,,Station entrance from the northwest corner of 23rd St NW and I St NW (south end of George Washington University Hospital building).,38.900866,-77.050371
+106,CRYSTAL CITY SHOP ENTRANCE  (NORTH ),C09,,Entrance from north side intermediate passageway to mezzanine,38.858059,-77.051158
+107,CRYSTAL CITY SHOP ENTRANCE (SOUTH),C09,,Entrance from south side intermediate passageway to mezzanine,38.857982,-77.051164
+104,WEST ELEVATOR ENTRANCE (WEST OF 18th & CRYSTAL DR),C09,,Entrance elevator located at the right side of 18th St South segment between S. Bell St and Crystal Dr.,38.857962,-77.050786
+109,"NORTH ENTRANCE (NORTH EXIT, TO PARKING GARAGE C AND TERMINAL C)",C10,,Pedestrian bridge to station north entrance is accessible from parking garage - C and airport terminal -C,38.85463,-77.044507
+88,WEST ENTRANCE 2(BUIDLING INTERIOR),C03,,Station entrance escalator is located in the building (International Square) food court,38.90149,-77.042054
+87,WEST ENTRANCE (WEST OF 17th & I STs),C03,,"Station entrance escalator is located in the building courtyard, at the northwest corner of 18 St NW and I St NW.",38.901622,-77.041965
+85,WEST ELEVATOR ENTRANCE (WEST OF 17th & I STs),C03,,Entrance elevator is located at the northwest corner of 18th St NW and I St NW.,38.901502,-77.041888
+108,ELEVATOR ENTRANCE FROM STREET BELOW THE TRACKS,C10,,Street level elevator to station platform,38.853463,-77.044086
+110,SOUTH ENTRANCE (SOUTH EXIT TO TERMINAL B AND PARKING GARAGE B),C10,,Pedestrian bridge to station south entrance is accessible from parking garage-B and airport terminal-B,38.85234,-77.043571
+11,SOUTH ENTRANCE (19th ST & CONNECTICUT AVE),A03,,Canopied entrance from 19th St NW and is also accessible from Connecticut Ave NW.,38.908648,-77.043322
+10,NORTH ENTRANCE (Q & 20th & CONNECTICUT),A03,,North side station entrance is located at the southeast corner of  20th NW and Q St NW and accessible from Connecticut Ave NW.,38.911001,-77.044746
+9,NORTH ELEVATOR ENTRANCE (Q ST & CONNECTICUT AVE),A03,,"Street level elevator at north side of the station is accessible from Connecticut Ave NW, 20th NW and Q St NW.",38.910792,-77.044553
+8,WEST ENTRANCE (WEST OF CONNECTICUT & L ST),A02,,Building entrance from the southwest corner of  L St  NW and Connecticut Ave NW. (Escalator Only),38.903525,-77.040186
+86,EAST ENTRANCE (EAST OF 17th & I STs),C03,,Building entrance from the southeast corner of 17th St NW and I St NW(Escalator only).,38.901169,-77.039164
+6,NORTH ENTRANCE (EAST OF CONNECTICUT & L ST),A02,,Building entrance from the northeast corner of L St  NW and Connecticut Ave NW. (Escalator Only),38.903925,-77.039787
+5,ELEVATOR ENTRANCE (CONNECTICUT AVE NW),A02,,Elevator entrance from Connecticut Ave NW,38.903021,-77.039314
+7,SOUTH ENTRANCE (CONNECTICUT & K ST),A02,,Building entrance from the northeast corner of Connecticut Ave NW and K St NW.,38.902767,-77.039121
+13,"SOUTH MAIN ENTRANCE (24TH ST EXIT, SOUTHWEST CORNER OF CONNECTICUT AVE & 24TH ST)",A04,,Station entrance from southwest corner of Connecticut Ave NW and 24th St NW.,38.924461,-77.05236
+12,NORTH ELEVATOR ENTRANCE (SOUTHWEST CORNER OF WOODLEY RD & CONNECTICUT AVE),A04,,Street level elevator from the southwest corner of Woodley Rd NW and Connecticut Ave NW.,38.925435,-77.052876
+84,WEST ENTRANCE (VERMONT & I STs),C02,,"Building entrance from the southwest corner of I St NW,15th St NW and Vermont Ave NW.",38.90113,-77.034947
+81,EAST ELEVATOR ENTRANCE (14TH & I STs),C02,,Building entrance to elevator towards the station is located at the southwest corner of I St NW and 14th St NW.,38.901098,-77.032303
+82,EAST BUILDING ENTRANCE (1400 EYE ST NW),C02,,Building entrance from east mezzanine to 1400 Eye St NW office building entrance.,38.901142,-77.032318
+83,EAST ENTRANCE (14TH & I STs),C02,,Building entrance from the southwest corner of 14th St NW and I St NW  to the station escalator.,38.900915,-77.032222
+123,SOUTH ENTRANCE (SOUTHWEST CORNER OF 12TH ST & INDEPENDENCE AVE),D02,,Station entrance adjacent to Department of Agriculture building located southwest corner of 12th St SW and Independence Ave SW.,38.887364,-77.028604
+121,SOUTH ELEVATOR ENTRANCE (NORTHWEST CORNER OF 12TH ST & INDEPENDENCE AVE),D02,,Street level elevator located at the northwest corner of  Independence Ave SW and 12th St SW.,38.887739,-77.028544
+122,"NORTH ENTRANCE (MALL EXIT, NORTHEAST OF 12TH ST & JEFERSON DR)",D02,,Station entrance from National Mall area at Jefferson Dr SW between 12th St NW and 13th St NW.,38.889086,-77.028371
+120,MAIN ENTRANCE (WEST SIDE 12TH BETWEEN PENNSYLVANIA &  CONNECTICUT),D01,,Building entrance from 12th St  NW segment between Pennsylvania Ave NW and Constitution Ave NW.,38.893827,-77.028988
+16,"WEST ENTRANCE (WEST SIDE CONNECTICUT AVE NW, NORTH OF ORDWAY ST NW)",A05,,"Canopied escalator and stairway entrance on west side of Connecticut Ave NW, between Ordway St NW and Porter St NW.",38.936203,-77.059041
+14,"ELEVATOR ENTRANCE (EAST SIDE CONNECTICUT AVE NW, NORTH OF ORDWAY ST NW)",A05,,Elevator entrance from northeast corner  of Connecticut Ave NW and Ordway St NW.,38.935771,-77.058431
+15,"EAST ENTRANCE (EAST SIDE CONNECTICUT AVE NW, NORTH OF ORDWAY ST NW)",A05,,"Canopied escalator and stairway entrance on east side of Connecticut Ave NW, between Ordway St NW and Porter St NW.",38.935916,-77.05851
+119,ELEVATOR ENTRANCE (WEST SIDE 12TH BETWEEN PENNSYLVANIA &  CONNECTICUT),D01,,Street level elevator located at 12th St NW segment between Pennsylvania Ave NW and Constitution Ave NW.,38.893773,-77.028318
+4,WEST ENTRANCE (13TH & G STs) TO RED LINES,A01,C01,Building Entrance from the southeast corner of 13th St NW and G St NW.,38.898026,-77.029379
+3,WEST BUILDING ENTRANCE (MACY'S) TO RED LINES,A01,C01,Building entrance from west mezzanine to Macy's entrance.,38.898433,-77.029402
+22,WEST ENTRANCE (NORTHWEST OF WISCONSIN AVE & ALBEMARLE ST),A07,,Building entrance from west side of Wisconsin Ave segment between River Rd NW and Albemarle St NW( Next to Best Buy).,38.948309,-77.080166
+79,SOUTH ENTRANCE (12TH & F STs) TO ORANGE/BLUE LINES,C01,A01,Escalator to station from the building located at the southeast corner of 12th St NW and F St NW.,38.897147,-77.028567
+21,EAST ENTRANCE (NORTHEAST OF WISCONSIN AVE & ALBEMARLE ST),A07,,Station entrance from the northeast corner of Albemarle St NW and Wisconsin Ave NW.,38.948078,-77.079358
+20,"EAST ELEVATOR ENTRANCE (NEXT TO EAST ENTRANCE, NORTHEAST OF WISCONSIN AVE & ALBEMARLE ST)",A07,,Street level elevator at the northeast corner of Albemarle St NW and Wisconsin Ave NW (next to Sears and Whole Foods).,38.948099,-77.07927
+80,NORTH BUILDING ENTRANCE (MACY'S) TO ORANGE/BLUE LINES,C01,A01,Building entrance from north mezzanine to Macy's entrance.,38.898985,-77.028228
+78,NORTH ENTRANCE (12TH & G STs) TO ORANGE/BLUE LINES,C01,A01,Escalator to station from northeast corner of 12th St NW and G St NW.,38.898498,-77.027903
+77,NORTH ELEVATOR ENTRANCE (NORTH OF 12TH & G STs) TO ORANGE/BLUE LINES,C01,A01,Street level elevator at 12th St NW segment between G St NW and H St NW.,38.89892,-77.027914
+2,EAST ENTRANCE (11TH & G STs) TO RED LINES,A01,C01,Building Entrance from the southeast corner of 11th St NW and G St NW.,38.898073,-77.026789
+1,EAST BUILDING ENTRANCE (HYATT) TO RED LINES,A01,C01,Building entrance from east mezzanine to Grand Hyatt Hotel entrance.,38.898365,-77.026683
+125,WEST ENTRANCE (9TH AND D STs) TO ORANGE/BLUE LINES,D03,F03,Building entrance(L'Enfant Plaza) from D St SW segment between 9th St SW and 7th St SW.,38.884449,-77.023542
+17,WEST ELEVATOR ENTRANCE (SOUTHWEST  OF CONNECTICUT AVE & VEAZEY TERR),A06,,Street level elevator at southwest corner of Connecticut Ave NW and Veazey Terrace NW.,38.943969,-77.063576
+231,SOUTH PAVILION ENTRANCE,N01,,"South pavilion entrance accessible from south bus bay, south kiss & ride, and the sidewalk along the south west corner of Dolley Madison Blvd and Colshire Dr.",38.924559,-77.208332
+19,"WEST ENTRANCE (UDC EXIT, NORTHWEST CORNER OF CONNECTICUT AVE & VEAZEY TERR)",A06,,Station entrance from the northwest corner of Connecticut Ave NW and Veazey Terrace NW.,38.944532,-77.064027
+229,SOUTH PAVILION ELEVATOR ENTRANCE,N01,,"South pavilion elevator is accessible from south bus bay, south kiss & ride, and the sidewalk along the south west corner of Dolley Madison Blvd and Colshire Dr.",38.924427,-77.208588
+177,NORTHWEST ELEVATOR ENTRANCE (SW CORNER OF 7TH ST & C ST & MARYLAND AVE) TO GREEN/YELLOW LINES,F03,D03,Street level elevator located on 7th St SW segment between VRE tracks and C St SW/Maryland Ave SW intersection.,38.885982,-77.022117
+18,"EAST ENTRANCE (BUS EXIT, NORTHEAST CORNER OF CONNECTICUT AVE & VEAZEY TERR)",A06,,Station entrance from the northeast corner of Connecticut Ave NW and Veazey Terrace NW.,38.944623,-77.063569
+178,NORTH ENTRANCE (7TH ST & MARYLAND AVE) TO GREEN/YELLOW LINES,F03,D03,Canopied entrance located at Maryland Ave SW and the east of 7th St SW.,38.886227,-77.021593
+48,WEST ENTRANCE (SOUTHEAST OF 9TH & G STs) TO RED LINE,B01,F01,Station entrance located at the southeast corner of 9th St NW and G St NW.,38.898048,-77.023763
+176,MAIN ENTRANCE (7TH ST NW & PENNSYLVANIA AVE NW),F02,,Escalator entrance adjacent to Navy Memorial/west side of 7th and Indiana Ave NW.,38.893939,-77.022528
+228,EAST ELEVATOR ENTRANCE,N01,,"Elevator inside the station is accessible from Dolley Madison, Capital One Dr. sidewalk, and Fairfax Connector bus bay.",38.924802,-77.209491
+230,EAST ENTRANCE,N01,,"Station entrance from Dolley Madison, Capital One Dr sidewalk, and Fairfax Connector bus bay.",38.924751,-77.209603
+124,EAST ENTRANCE (7TH & D STs) TO ORANGE/BLUE LINES,D03,F03,Building entrance(USDOT) from D St SW segment  between 6th St SW and 7th St SW.,38.884483,-77.020865
+175,ELEVATOR ENTRANCE (7TH ST NW & PENNSYLVANIA AVE NW),F02,,Elevator entrance from 7th St and Indiana Ave NW.,38.893879,-77.022073
+205,"WEST ENTRANCE (KISS & RIDE, NORTHEAST CORNER OF EISENHOWER AVE & METRO RD)",J02,,Passageway to station from parking lot and kiss&ride located northwest corner of Eisenhower Ave.,38.799708,-77.129682
+206,EAST ENTRANCE (EAST SIDE OF EISENHOWER AVE BUS BAY),J02,,Facility entrance from bus bay located southeast corner of Eisenhower Ave.,38.799535,-77.129222
+47,EAST ENTRANCE (NORTHEAST OF 7TH & F STs) TO RED LINE,B01,F01,"Station entrance from Verizon center, located at the northeast corner of F St NW and 7th St NW.",38.897574,-77.021681
+173,"ELEVATOR ENTRANCE (VERISON CENTER, EAST OF 7TH & F STs) TO GREEN/YELLOW LINES",F01,B01,"Elevator from Verizon Center, located at east of 7th St NW.",38.897926,-77.021729
+225,MAIN ENTRANCE (GALLOWS RD & I66),K07,,"Station entrance is accessible from bus bay, kiss&ride area and parking lot located at the northwest corner of Bellforest Dr and Gallows Rd.",38.882817,-77.228436
+174,NORTH ENTRANCE (SOUTHEAST OF 7TH & H STs) TO GREEN/YELLOW LINES,F01,B01,Station entrance from the southeast corner of 7th St NW and H St NW.,38.89963,-77.02156
+157,WEST ENTRANCE (SOUTHEAST CORNER OF 13TH & U STs),E03,,Station entrance from southeast corner of 13th Ave NW and U St NW.,38.916823,-77.029193
+155,WEST ELEVATOR ENTRANCE (SOUTH SIDE OF U ST BETWEEN 12TH AND 13TH STs),E03,,Street level elevator from the building located at U St NW segment between 12th St NW and 13th St NW.,38.916778,-77.028917
+180,MAIN ENTRANCE (NORTHEAST OF M & 4TH STs),F04,,Station entrance located just north of M St SW and 4th St SW ( near Safeway).,38.876982,-77.017533
+149,"MAIN ELEVATOR ENTRANCE (CONVENTION CENTER, M & 7TH STs)",E01,,Station entrance from Convention Center building located at the southwest corner of M St NW and 7th St NW.,38.905522,-77.022349
+179,ELEVATOR ENTRANCE (NEXT TO MAIN ENTRANCE),F04,,Street level elevator located at the northeast corner of M St SW and 4th St SW.,38.876638,-77.017329
+151,"MAIN ENTRANCE (CONVENTION CENTER, M & 7TH STs)",E01,,Station entrance from  Convention Center building located at the southwest corner of M St NW and 7th St NW,38.905251,-77.022117
+150,"NORTH ELEVATOR ENTRANCE (CONVENTION CENTER, M & 7TH STs)",E01,,Station entrance from  Convention Center building located at the northwest corner of M St NW and 7th St NW.,38.905947,-77.02211
+26,SOUTH ELEVATOR ENTRANCE (SW SIDE OF WISCONSIN & JENNIFER ST),A08,,Elevator entrance to station from southwest corner of Jenifer St  NW and Wisconsin Ave NW.,38.958508,-77.085009
+126,"BUILDING ELEVATOR ENTRANCE (BUILDING EXIT, D ST BETWEEN 3RD & 4TH STs)",D04,,Building entrance located in the D St SW segment between 3rd St SW and 4th St SW.,38.884904,-77.01602
+50,NORTHWEST ELEVATOR ENTRANCE (SW CORNER METRO JUDICIARY SQUARE BETWEEN F & E STs),B02,,Street level elevator to station platform( to Glenmont)  is located between F St NW and E St NW.,38.896652,-77.017649
+156,EAST ENTRANCE (SOUTHWEST CORNER OF VERMONT AVE & U ST),E03,,Station entrance from the south of 10th St and southwest corner of U St NW and Vermont Ave NW.,38.916714,-77.02597
+51,"NORTH ENTRANCE (F ST EXIT, NATIONAL BUILDING MUSEUM)",B02,,Station entrance from F St NW located across from national building museum.,38.897178,-77.017559
+49,"NORTHEAST ELEVATOR ENTRANCE (NE CORNER, METRO JUDICIARY SQUARE BETWEEN F & E STs)",B02,,Street level elevator to station platform( to Shady Grove) is located between F St NW and E St NW.,38.896824,-77.017453
+127,MAIN ENTRANCE (SOUTHWEST OF D & 3RD STs),D04,,Station entrance is at the southeast corner of 3rd St SW and D St SW.,38.884875,-77.015372
+154,SOUTH ENTRANCE (8TH & R STs),E02,,Canopied entrance from R St NW segment between 7th St NW and 8th St NW.,38.912779,-77.022723
+52,SOUTH ENTRANCE (4TH & D STs),B02,,Station entrance from 4th St NW segment between F St NW and E St NW.,38.895222,-77.016
+25,EAST ELEVATOR ENTRANCE (EAST SIDE OF WISCONSIN AVE NW),A08,,Elevator entrance to station from east side of Wisconsin Ave NW.,38.960219,-77.085197
+29,WEST ENTRANCE (WISCONSIN AVE & WESTERN AVE SW,A08,,Station entrance from Mazza Gallerie.,38.960433,-77.085895
+160,WEST ENTRANCE (SOUTHWEST OF 14TH ST NW & IRVING ST NW),E04,,Canopied escalator and stairway entrance from southwest corner of 14th St NW and Irving St NW.,38.928607,-77.033139
+24,NORTHWEST BUILDING ENTRANCE (NW SIDE OF WISCONSIN & WESTERN AVEs),A08,,Station entrance from Wisconsin Place parking garage.,38.960777,-77.086223
+158,WEST ELEVATOR ENTRANCE (SOUTHWEST OF 14TH ST NW & IRVING ST NW),E04,,Elevator entrance from southwest corner of 14th St NW and Irving St NW.,38.928557,-77.032802
+23,EAST ENTRANCE (WISCONSIN AVE & WESTERN AVE SE),A08,,Station entrance from Chevy Chase Pavilion.,38.960736,-77.085403
+28,NORTHWEST ENTRANCE (NW SIDE OF WISCONSIN & WESTERN AVEs),A08,,Canopied entrance from the northwest corner of Western Ave and Wisconsin Ave NW.,38.960955,-77.086051
+232,SOUTH PAVILION ELEVATOR ENTRANCE,N02,,South pavilion elevator entrance from Fairfax Connector bus bay.,38.919778,-77.222032
+111,MAIN ENTRANCE (N WEST ST & MADISON ST),C12,,Mezzanine entrance from the bus bay and kiss&ride area off N West St.,38.813735,-77.053876
+159,EAST ENTRANCE (NORTHEAST OF 14TH ST NW & IRVING ST NW),E04,,Canopied escalator entrance from northeast corner of 14th St NW and Irving St NW.,38.928982,-77.03245
+235,SOUTH PAVILION ENTRANCE,N02,,South pavilion entrance from  station sideswalk and Fairfax Connector bus bay.,38.919758,-77.222388
+27,NORTHEAST ENTRANCE (NE SIDE OF WISCONSIN & WESTERN AVEs),A08,,Station entrance from the northeast corner of Western Ave and Wisconsin Ave (Entrance escalator accessible from bus terminal) .,38.961271,-77.085628
+152,NORTH ELEVATOR ENTRANCE (NORTHEAST CORNER OF 7TH & S STs),E02,,Street level elevator from northeast corner of S St NW and 7th St NW.,38.914222,-77.0216
+153,NORTH ENTRANCE (7TH & S STs),E02,,Canopied Entrance from 7th St NW segment between S St NW and T St NW.,38.914572,-77.021672
+234,WEST ENTRANCE,N02,,Station entrance from the bus bay and sidewalk located at the northwest corner of  Tysons Blvd and Chain Bridge Rd intersection.,38.920576,-77.222566
+233,WEST ELEVATOR ENTRANCE,N02,,Elevator to the station accessible from the bus bay and sidewalk located at the northwest corner of  Tysons Blvd and Chain Bridge Rd intersection.,38.920654,-77.222564
+114,NORTH ENTRANCE (WALKWAY FROM  CAMERON ST & COMMONWEALTH AVE),C13,,Station entrance located under the platform and tracks accessible from the northeast corner of Cameron St and Commonwealth Ave intersection.,38.807295,-77.059808
+113,"MIDDLE ENTRANCE (WALKWAY FROM NORTHEAST BUS BAY, CAMERON & KING STs )",C13,,"Station entrance located just below the platform and tracks, accessible by the sidewalks from King St(Route.7) and east end of bus bay.",38.806767,-77.060715
+112,MAIN ENTRANCE (WEST OF DIAGONAL RD),C13,,"Station main entrance by the walkway from bus bay and kiss&ride area located west of Diagonal Rd and from the sidewalks from Rt.7,( King Street).",38.80629,-77.061299
+116,"WEST ENTRANCE (WEST OF PLATFORM, EISENHOWER AVE & SWAMP FOX RD)",C14,,Facility entrance from busbay and west side of the station to access the elevator/escalator inside the station.,38.800566,-77.071001
+115,"EAST ENTRANCE (EAST OF PLATFORM, EISENHOWER AVE & SWAMP FOX RD)",C14,,Station entrance from bus bay and east side of the station to access the elevator/escalator inside the station.,38.800477,-77.070881
+183,WEST ENTRANCE (SE OF M ST & HALF ST),F05,,Building entrance from the southeast corner Half St SE and M St SE to access station escalator.,38.876068,-77.007311
+128,ELEVATOR ENTRANCE (1ST ST SE & D ST SE),D05,,Elevator entrance from the northwest corner of D St SE and 1 St SE.,38.885182,-77.006151
+129,MAIN ENTRANCE (1ST ST SE & C ST SE),D05,,"Escalator entrance from 1 St SE, between C St SE and D St SE.",38.885665,-77.00606
+54,"SOUTH ENTRANCE (MASS AVE EXIT, NORTHEAST CORNER OF 1ST ST & MASSACHUSETTS AVE)",B03,,Station entrance from 1st St NE to southeast corner of the Union station building.,38.897383,-77.007262
+55,"NORTH ENTRANCE (1ST ST EXIT, WEST SIDE OF 1ST ST BETWEEN G ST AND MASSACHUSETTS AVE)",B03,,Station entrance from northeast corner of Massachusetts Ave NE and 1st NE.,38.89845,-77.007243
+53,"ENTRANCE FROM AMTRAK, MARC, VRE TRAINS",B03,,"Escalator entrance from the passageway to  AMTRAK, MARC, VRE TRAINS",38.898541,-77.006984
+181,EAST ELEVATOR ENTRANCE (WEST OF M ST & NEW JERSEY AVE),F05,,Street level elevator to station is located at M St SE segment between 1st St SE and New Jersey Ave SE.,38.876617,-77.004702
+182,EAST ENTRANCE (NW OF M ST & NEW JERSEY AVE),F05,,Canopied entrance from the northwest corner of New Jersey Ave SE and M St SE.,38.876667,-77.004456
+118,NORTH ENTRANCE (HUNTINGTON AVE EXIT),C15,,"Station entrance is accessible by the walkway from kiss&ride, bus bay and parking garage located north end of station near Huntington Ave.",38.794613,-77.075168
+238,NORTH PAVILION ENTRANCE,N03,,North pavilion entrance from Pinnacle Dr and SAIC Dr sidewalk.,38.921107,-77.233001
+236,NORTH PAVILION ELEVATOR ENTRANCE,N03,,North pavilion elevator entrance from Pinnacle Dr and SAIC Dr sidewalk.,38.920951,-77.233127
+237,SOUTH PAVILION ELEVATOR ENTRANCE,N03,,South pavilion elevator entrance is accessible from pavilion sidewalk along Leesburg Pike west bound.,38.92047,-77.233959
+239,SOUTH PAVILION ENTRANCE,N03,,South pavilion entrance from the west corner of Leesburg Pike and Marshalls Dr.,38.920658,-77.234138
+117,SOUTH ENTRANCE (N KINGS HWY EXIT),C15,,"Escalator to station mezzanine is located and accessible from  metered parking, bus bay and parking garage (south end) sidewalks",38.792475,-77.07591
+161,"WEST ELEVATOR ENTRANCE (BUILDING EXIT, WEST OF GEORGIA & NEW HAMPSHIRE AVEs)",E05,,Elevator entrance from west side of Georgia Ave NW and New Hampshire Ave NW.,38.93681,-77.024663
+163,"WEST ENTRANCE (BUILDING EXIT, WEST OF GEORGIA & NEW HAMPSHIRE AVEs)",E05,,Building entrance located at the west side of Georgia Ave NW and New Hampshire Ave NW.,38.937192,-77.024721
+162,MAIN ENTRANCE (NORTHEAST OF GEORGIA & NEW HAMPSHIRE AVEs),E05,,Canopied entrance from the west of New Hampshire Ave NW.,38.93698,-77.024127
+76,"SOUTH ENTRANCE (M ST EXIT, WEST M & 2ND STs)",B35,,Station entrance is located at the northwest corner of M St NE and 2nd St NE ( M St Exit).,38.905774,-77.003629
+75,"NORTH ENTRANCE (FLORIDA AVE EXIT, EAST OF FLORIDA AVE & 2ND ST)",B35,,Station entrance is located east of N St NE and 2nd St NE intersection ( Florida Ave exit ).,38.907336,-77.003302
+130,ELEVATOR ENTRANCE (D & 7th STs),D06,,Entrance elevator located just east of D St SE/7th St SE intersection and adjacent to canopied entrance.,38.884246,-76.996024
+131,MAIN ENTRANCE (PENNSYLVANIA AVE & 7th ST),D06,,"Canopied entrance located at the southeast corner of Pennsylvania Ave SE and 7th St SE, and it also accessible from 8th St SE and D St SE.",38.884213,-76.995736
+184,NORTH ENTRANCE (HOWARD RD SE PARKING GARAGE),F06,,Station entrance from west side of parking garage located at Howard St SE.,38.864603,-76.995959
+186,SOUTH ENTRANCE 2 (HOWARD RD SE & FIRTH STERING AVE SE),F06,,Station entrance from north of bus bay.,38.862115,-76.995316
+185,SOUTH ENTRANCE 1 (HOWARD RD SE & FIRTH STERING AVE SE),F06,,Station entrance from south side of Howard St SE and Shannon Pl SE.,38.862152,-76.995112
+242,NORTH PAVILION ENTRANCE,N04,,"North pavilion entrance is accessible from north bus bay,  north kiss & ride, and the short term parking lot located at the north east corner of Leesburg Pike and Spring Hill Rd.",38.929288,-77.240822
+240,NORTH PAVILION ELEVATOR ENTRANCE,N04,,"North pavilion elevator is accessible from north bus bay, north kiss & ride, and the short term parking lot located at the north east corner of Leesburg Pike and Spring Hill Rd.",38.92915,-77.241002
+243,SOUTH PAVILION ENTRANCE,N04,,South pavilion entrance from the west corner of Leesburg Pike and Spring Hill Road intersection.,38.928405,-77.241686
+241,SOUTH PAVILION ELEVATOR ENTRANCE,N04,,South pavilion elevator is accessible from the pavilion sidewalk along Leesburg Pike westbound.,38.928566,-77.241841
+31,SOUTH ELEVATOR ENTRANCE (WISCONSIN AVE & MONTGOMERY LN),A09,,Elevator entrance from northwest corner of Wisconsin Ave and Montgomery Ln.,38.9836,-77.094155
+32,BUSBAY ENTRANCE (SE EDGEMOOR LN),A09,,Entrance from bus bay (intermediate level),38.984424,-77.094612
+33,NORTH ENTRANCE (WISCONSIN AVE & OLD GEORGETOWN RD),A09,,Escalator entrance from southwest corner of Wisconsin Ave and Old Georgetown Rd.,38.984618,-77.094599
+30,EAST ENTRANCE (WISCONSIN AVE & EAST-WEST HWY),A09,,Building entrance to tunnel to station located at southeast corner of Wisconsin Ave and East-West Hwy.,38.98454,-77.094002
+56,"MAIN ENTRANCE (SOUTHWEST OF RHODE ISLAND AVE & 8TH PL, WEST OF WASHINGTON PL)",B04,,"Station entrance is accessible from bus bay,parking lot and kiss&ride area located south of Rhode Island Ave NE and Reed St NE.",38.920505,-76.996104
+133,MAIN ENTRANCE (NE CORNER OF 14TH ST & PENNSYLVANIA AVE),D07,,Station entrance is located north of bus bay and northeast corner of 14th St SE and Potomac Ave SE.,38.880768,-76.985199
+132,NORTH ELEVATOR ENTRANCE (NORTH OF THE MAIN ENTRANCE),D07,,"Street level elevator is accessible by the sidewalks from G St SE, 14th St SE and from bus bay.",38.881049,-76.985113
+189,NORTH ENTRANCE (NORTHEAST OF ALABAMA AVE SE & 13TH ST SE),F07,,"Canopied escalator and stairway entrance from bus bay, kiss&ride and parking lot areas.",38.845446,-76.987816
+187,ELEVATOR ENTRANCE (NORTHEAST OF ALABAMA AVE SE & 13TH ST SE),F07,,"Elevator entrance from bus bay, located northeast of 13th St SE and Alabama Ave SE.",38.845117,-76.98781
+188,SOUTH ENTRANCE (SOUTHEAST OF ALABAMA AVE SE & 13TH ST SE),F07,,Canopied escalator entrance at southeast corner of Alabama Ave SE and 13th St SE.,38.844606,-76.987591
+59,WEST ENTRANCE (JOHN F MCCORMACK RD NE & MICHIGAN AVE NE),B05,,"Canopied escalator and stairway entrance by walkway from John F. McCormick Rd NE, west of Michigan Ave NE.",38.93383,-76.995024
+58,EAST ENTRANCE (9TH ST NE & MONROE ST NE),B05,,Escalator and stairway entrance from bus bay at 9th St NE between Bunker Hill Rd NE and Monroe St NE.,38.933504,-76.994341
+57,ELEVATOR ENTRANCE (9TH ST NE & BUNKER HILL RD NE),B05,,Elevator entrance from northwest corner of bus bay and from Bunker Hill Rd NE.,38.933748,-76.994426
+134,SOUTH ELEVATOR ENTRANCE (EAST SIDE OF 19TH ST BETWEEN C AND BURKE ST),D08,,Street level elevator from 19th St SE segment between Burke St SE and C St SE.,38.885918,-76.977158
+136,"SOUTH ENTRANCE (DC GENERAL EXIT, EAST SIDE OF 19TH ST BETWEEN C AND BURKE ST)",D08,,Station entrance located at the northeast corner of 19th St SE and C St SE.,38.885602,-76.977059
+135,"NORTH ENTRANCE (STADIUM & ARMORY EXIT, EAST OF 19TH & A STs)",D08,,Station entrance at the northeast corner of 19th St SE and Independence Ave SE.,38.888355,-76.977098
+227,SOUTH ENTRANCE (NORTH SIDE OF SAINTSBURY DR),K08,,"Pedestrian bridge to station from south side accessible by the sidewalks from south side parking lot, parking garage, bus bay and kiss&ride located on Saintsbury Dr.",38.877378,-77.271284
+226,NORTH ENTRANCE (SOUTH SIDE OF VIRGINIA CENTER BLVD),K08,,"Pedestrian bridge to station from north side accessible by the sidewalks from north side parking lot, parking garage, bus bay and kiss&ride located off Virginia Center Blvd.",38.878301,-77.271539
+60,MAIN ENTRANCE (GALLOWAY ST & FIRST PL),B06,E06,"Facility entrance from the Galloway St NE segment goes under the track, and also accessible from kiss&ride and bus bay area.",38.952078,-77.002275
+208,PEDESTRIAN BRIDGE ENTRANCE (PEDESTRIAN BRIDGE FROM PARKING GARAGE),J03,,"Pedestrian bridge to station is accessible from the bus bay, kiss&ride, parking garage.",38.766676,-77.169126
+207,MAIN ENTRANCE (FRANCONIA SPRINGFIELD PKWY AT FRONTIER DR),J03,,Facility entrance by pedestrian bridge connecting WMATA station and VRE station located on the south side.,38.766078,-77.168692
+35,MAIN ENTRANCE (SW CORNER OF ROCKVILLE PIKE & SOUTH DR),A10,,Canopied entrance from the south side of bus bay area located southwest corner of Bethesda Trolley Trial and South Dr.,38.999064,-77.097875
+34,"ELEVATOR ENTRANCE (EAST OF MAIN ENTRANCE, SW CORNER OF ROCKVILLE PIKE & SOUTH DR)",A10,,Street level elevator is accessible by the sidewalks from Bethesda Trolley Trial and from bus bay area.,38.999041,-77.097119
+190,NORTHWEST ENTRANCE (SOUTHERN AVE & VLLEY TERR),F08,,West side station entrance from bus bay located east of Southern Ave.,38.840592,-76.975797
+191,SOUTHEAST ENTRANCE (EAST SIDE OF SOUTHERN AVE ACCESS FROM OXON RUN DR),F08,,"Station entrance from bus bay, and pedestrian bridge connecting parking garage and station is accessible from Southern Ave and Oxon Run Dr.",38.840473,-76.97575
+62,SOUTH ENTRANCE (NORTH OF THE MAIN ENTRANCE),B07,,"South side station entrance located east of Cedar St NW and Eastern Ave NW, accessible from bus bay and the sidewalks from Cedar St NW.",38.975102,-77.017425
+61,ELEVATOR ENTRANCE (NORTHWEST OF CEDAR ST & CARROL AVE),B07,,Elevator to station is located inside the tunnel and  is accessible from  parking lot and  bus bay.,38.975839,-77.017831
+192,"MAIN ENTRANCE (ACCESS FROM BRANCH AVE, AND WEST OF NAYLOR RD & GOOD HOPE AVE)",F09,,"Station entrance located south of the station between bus bay,kiss&ride and parking lot area.",38.850953,-76.956822
+66,SOUTHWEST ENTRANCE (SOUTHEAST CORNER OF COLESVILLE RD & E-WEST HWY),B08,,Station entrance from south of Colesville Road and east of East-West Hwy to station southwest side.,38.993739,-77.031348
+64,NORTHWEST ENTRANCE (NORTHEAST CORNER OF COLESVILLE RD & E-WEST HWY),B08,,Station entrance from north of Colesville Road and east of East-West Hwy to station northwest side.,38.994093,-77.031854
+65,SOUTHEAST ENTRANCE (SOUTHWEST OF WAYNE AVE & COLESVILLE RD),B08,,Walkway from Wayne Ave and Colesville Rd to south side of the station.,38.993832,-77.031116
+63,NORTHEAST ENTRANCE (NORTHEAST CORNER OF COLESVILLE RD & E-WEST HWY),B08,,Station entrance from north of Colesville Road and west of 2nd Ave to station northeast side.,38.994243,-77.031654
+138,SOUTH ENTRANCE (NW SIDE OF MINNESOTA AVE & GRANT ST),D09,,Station entrance is from the north end of the bus bay at Minnesota Ave. NE and Grant St. NE (Northwest side).,38.898607,-76.946922
+137,SOUTH ELEVATOR ENTRANCE (West of Minnesota Ave NE),D09,,"Street level elevator located west of Minnesota Ave NE is accessible by the sidewalks from Minnesota Ave, bus bay and parking lot.",38.898807,-76.946692
+139,NORTH TUNNEL ENTRANCE (ACCESS PEDESTRIAN BRIDGE FROM HAYES ST & I295),D09,,Pedestrian walkway from street level to station passageway is located at the east side of I-295 northbound  and is accessible by the pedestrian bridge originates at the west side of I-295(Kenilworth Ave NE) at Hayes St NE.,38.899569,-76.946823
+164,MAIN ENTRANCE (NORTHWEST OF HAMILTON ST & AGER RD),E07,,"Station entrance located west of Ager Rd is accessible by the sidewalks from bus bay, kiss&ride and parking lot and by the walkway from Lancer Dr located west of the station.",38.955717,-76.9689
+196,ELEVATOR ENTRANCE (CENTRAL AVE NE & BENNING RD NE),G01,,Elevator from northeast corner of Central Ave and Benning Road NE.,38.890546,-76.937531
+197,MAIN ENTRANCE (CENTRAL AVE NE & BENNING RD NE),G01,,Canopied escalator entrance at northeast corner of Central Ave and Benning Road NE.,38.890343,-76.937376
+67,STAIRWAY ENTRANCE (FROM SE CORNER OF COLERIDGE DR/FOREST GLEN RD),B09,,Stairway entrance into main entrance passageway from southeast corner of Coleridge Dr/Forest Glen Rd.,39.015326,-77.043647
+68,"BUSBAY TUNNEL ENTRANCE (BUS BAY & KISS & RIDE AREA, KIMBALL PL & FOREST GLEN RD)",B09,,"Entrance by ramp from southeast corner of bus bay, kiss&ride area, and parking lot located at  Kimball Pl/Forest Glen Rd(passageway goes under Forest Glen Rd to the station).",39.01582,-77.044327
+36,WEST TUNNEL ENTRANCE (TUNNEL UNDER ROCKVILLE PIKE FROM GROSVENOR PL),A11,,Passageway from east of Grosvenor Pl  goes under Rockville pike to the escalator to the station.,39.028702,-77.104317
+38,"WEST ENTRANCE (ROCKVILLE PIKE EXIT, SIDEWALK FROM  N BOUND ROCKVILLE PIKE)",A11,,Station entrance accessible by the sidewalks from Rockville Pike northbound.,39.028859,-77.10381
+37,"EAST ENTRANCE (PARKING EXIT, STRATHMORE PARK CT & TUCKERMAN LN)",A11,,"Facility entrance by the walkway from bus bay, parking lot and kiss&ride area located at the northwest corner of Strathmore Park Ct and Tuckerman Ln.",39.028917,-77.103615
+142,WEST WALKWAY ENTRANCE (POLK & OLIVER STs),D10,,"Walkway from the intersection of Polk St NE and Olive St NE, passageway goes under CSX rail tracks to the station.",38.908552,-76.935179
+140,ELEVATOR ENTRANCE (ADJACENT TO MAIN ENTRANCE),D10,,"Elevator from bus bay, kiss&ride area and parking lot located at the Minnesota Ave NE.",38.908191,-76.934833
+141,MAIN ENTRANCE (MINNESOTA AVE between NASH & 48th STs),D10,,"Station entrance is accessible from the bus bay, kiss&ride area and parking lot located at the Minnesota Ave NE.",38.908341,-76.934626
+193,MAIN ENTRANCE (WEST OF SILVER HILL RD & NAVY DAY DR),F10,,"Station entrance is accessible by bus bay, pedestrian bridge from parking garage and the sidewalks from Silver Hill Road.",38.844258,-76.932298
+166,SOUTH ENTRANCE (SOUTH BUS BAY),E08,,Station entrance from  south side parking garage (bus bay A-D)  located south of East-West Hwy and west of Belcrest Rd.,38.965174,-76.955588
+165,NORTH ENTRANCE (NORTH BUS BAY),E08,,Station entrance from  north side parking garage (bus bay E-H)  located south of East-West Hwy and west of Belcrest Rd.,38.965384,-76.955585
+199,MAIN ENTRANCE (E CAPITOL ST & SOUTHERN AVE),G02,,"Canopied escalator entrance from bus bay, located at southeast corner of Southern Ave and E Capital St NE.",38.889225,-76.913268
+198,ELEVATOR ENTRANCE (E CAPITOL ST & SOUTHERN AVE),G02,,"Elevator entrance from parking lot, bus bay, and the sidewalks from E Capital St.",38.88924,-76.912991
+143,"ELEVATOR ENTRANCE (COLUMBIA PARK RD, FROM RT 50)",D11,,"Elevator entrance from northeast corner of parking lot, next to bus bay and kiss&ride.",38.916174,-76.916766
+144,"MAIN ENTRANCE (COLUMBIA PARK RD, FROM RT 50)",D11,,"Escalator entrance from bus bay, parking lot, and walkway from Columbia Park Rd.",38.916255,-76.916519
+39,EAST ENTRANCE ( NE OF MARINELLI RD AND ROCKVILLE PIKE),A12,,Station entrance from the northeast corner of Rockville Pike and Marinelli Rd.,39.047492,-77.112572
+69,WEST ENTRANCE (NORTHWEST OF VEIRS RD & GEORGIA AVE),B10,,Passageway to station from the bus bay area located southwest corner of Georgia Ave and Reedie Dr and is also reachable by the pedestrian bridge over Veirs Mill Rd.,39.038319,-77.051086
+70,"EAST ENTRANCE (EAST SIDE GEORGIA, SOUTHEAST CORNER OF GEORGIA AVE & REEDIE DR)",B10,,Station entrance from the building located at the southeast corner of Georgia Ave and Reedie Dr.,39.038671,-77.050275
+194,"MAIN ENTRANCE (SOUTH , AUTH WAY & OLD SOPER RD)",F11,,"Mezzanine entrance from bus bays, kiss&ride, and Old Soper Rd.",38.827079,-76.912557
+195,NORTH ENTRANCE (AUTH WAY & CAPITAL GATEWAY DR),F11,,Mezzanine entrance from the parking lot between north end of Auth Way and Capital Gateway Dr.,38.827195,-76.912441
+200,"MAIN ENTRANCE (ADDISON RD, SOUTH OF CENTRAL AVE)",G03,,Station entrance is reachable by the walkway from parking garage and the sidewalks from Central Ave.,38.886716,-76.895749
+170,WEST ENTRANCE (CALVERT RD TUNNEL),E09,,"Canopied escalator and stairway entrance from bus bay and kiss&ride off Calvert Rd, located on west side of station.",38.97835,-76.928939
+246,NORTH PEDESTRIAN BRIDGE ENTRANCE,N06,,Walkway to station pedestrian bridge is accessible from parking garage and kiss & ride located at the north side of the station.,38.948291,-77.338919
+168,WEST ELEVATOR ENTRANCE (CALVERT RD TUNNEL),E09,,"Elevator entrance from bus bay and kiss&ride off Calvert Rd, located on west side of station.",38.978357,-76.92874
+245,SOUTH PAVILION ENTRANCE,N06,,South pavilion entrance from station south bus bay.,38.946881,-77.339912
+244,SOUTH PAVILION ELEVATOR ENTRANCE,N06,,South pavilion elevator entrance from station south bus bay.,38.946993,-77.340156
+167,EAST ELEVATOR ENTRANCE (RIVER RD & PAINT BRANCH PKWY),E09,,"Elevator entrance by the walkway from parking lot, bus bay, and kiss&ride off of River Rd, located on east side of station.",38.978133,-76.928016
+169,EAST ENTRANCE (RIVER RD & PAINT BRANCH PKWY),E09,,"Escalator and stairway entrance by the walkway from parking lot, bus bay, and kiss&ride off of River Rd, located on east side of station.",38.978183,-76.927953
+41,"WEST ENTRANCE (WEST SIDE ROCKVILLE PIKE, NORTHEAST OF CHAPMAN AVE & BOUIC AVE)",A13,,"West side entrance from bus bay, kiss&ride and parking lot located northeast corner of Chapman Ave and Bouic Ave.",39.062126,-77.1207
+40,"EAST ENTRANCE (EAST SIDE ROCKVILLE PIKE, NORTHWEST OF PARKLAWN DR & WICOMICO AVE)",A13,,"Passageway from east side of the station is accessible by bus bay, kiss&ride and parking lot located east of Parklawn Dr and Twinbrook Pkwy.",39.062326,-77.120416
+145,"MAIN ENTRANCE (WEST PENNSY DR, NORTH OF LANDOVER RD)",D12,,"Station entrance is accessible by the walkway from parking lot, bus bay and kiss&ride area located west of Pennsy Dr.",38.933429,-76.891189
+74,WEST ENTRANCE (WEST SIDE OF GEORGIA AVE FROM GLENALLAN AVE),B11,,Station entrance from west of Georgia Ave and is accessible from Georgia Ave sidewalks and  from Urbana Dr and Flack St walkway to the station.,39.061783,-77.053599
+72,WEST ELEVATOR ENTRANCE (WEST SIDE OF GEORGIA AVE FROM GLENALLAN AVE),B11,,Street level elevator from west from Georgia Ave next to metered parking area.,39.061956,-77.05361
+71,EAST ELEVATOR ENTRANCE (EAST SIDE OF GEORGIA AVE FROM LAYHILL RD),B11,,"Street level elevator from east of Georgia Ave, and is accessible from Glenallan Ave to the metered parking space and parking garage.",39.062246,-77.053358
+73,EAST ENTRANCE (EAST SIDE OF GEORGIA AVE FROM LAYHILL RD),B11,,"Station entrance from east side of Georgia Ave, and is accessible from parking garage and bus bay area.",39.062312,-77.053179
+201,NORTH ENTRANCE (WALKWAY FROM GARRET A MORGAN BLVD & SGT HARTMAN LN),G04,,Station entrance is accessible from walkway at Garret A Morgan Blvd and SGT Hartman Ln.,38.893764,-76.868543
+202,SOUTH ENTRANCE (GARRET A MORGAN BLVD & FIELDSTONE WAY),G04,,Station entrance from bus bay and parking located west side of Garret A Morgan Blvd.,38.893551,-76.868402
+43,"WEST ENTRANCE (ROCKVILLE PIKE EXIT, SOUTHEAST OF PARK RD & ROCKVILLE PIKE)",A14,,"Station west side entrance is accessible from bus bay, metered parking located southeast of Park Rd/ Rockville Pike and from the pedestrian bridge originates from the opposite building.",39.084471,-77.146574
+42,"EAST ENTRANCE (EAST SIDE EXIT, SOUTHWEST CORNER OF S STONESTREET AVE & PARK RD)",A14,,Passageway to station east side is accessible from park&ride and bus bay located at the southwest corner of S.Stonestreet Ave/Park Rd and from the sidewalks from Park Road.,39.084676,-77.146276
+147,"NORTHWEST ENTRANCE (IRS EXIT, SE OF ELLIS RD & HARKINS RD)",D13,,"Canopied entrance  (towards passageway to station) from west side of the station is accessible from pedestrian bridge from IRS building, bus bay and parking lot located southeast corner of Ellis Rd and Harkins Rd.",38.948458,-76.872344
+146,NORTHWEST ELEVATOR ENTRANCE (ADJACENT TO NORTHWEST ENTRANCE),D13,,"Entrance elevator( towards passageway to station) is adjacent to west side escalator and is accessible from IRS pedestrian bridge, parking lot and bus bay located southeast corner of Ellin Rd and Harkins Rd.",38.948423,-76.872176
+148,MAIN ENTRANCE (SW OF GARDEN CITY DR & CORPORATE DR),D13,,East side station entrance is accessible from bus bay and parking lot located southwest corner of Garden City Dr and Corporate Dr.,38.947915,-76.871785
+171,"WEST ENTRANCE (TUNNEL EXIT, LACKAWANNA ST & 53RD AVE)",E10,,Passageway from the intersection of Lackawanna St and 53rd Ave towards the station (tunnel goes under MARC train tracks).,39.010818,-76.911942
+172,"EAST ENTRANCE (PARKING EXIT, GREENBELT METRO DR & CHERRYWOOD LN)",E10,,"Station entrance is accessible  by the walkway from bus bay, Kiss&Ride, and parking lot located on the east side of the station.",39.010833,-76.911018
+204,NORTH ENTRANCE (ACCESS FROM NORTH PARKING GARAGE AND BUSBAY),G05,,Facility entrance from west side of the station is accessible from bus bay and north side parking garage.,38.900147,-76.845257
+203,MAIN ENTRANCE (N HARRY S TRUMAN DR & LARGO DR),G05,,Canopied entrance located east side of the station and is reachable by the walkway from parking lot and south parking garage.,38.899866,-76.844917
+45,WEST ENTRANCE (EAST OF SUMMERVILLE DR),A15,,West side station entrance from bus bay and parking lot is located east of Somerville Dr.,39.119939,-77.16501
+44,WEST ELEVATOR ENTRANCE (ADJACENT TO WEST ENTRANCE),A15,,Street level elevator to station is located next to west side escalator and is accessible from bus bay and parking lot.,39.120076,-77.165004
+46,EAST ENTRANCE (NORTHWEST CORNER OF CRABBS BRANCH WAY & REDLAND RD),A15,,Passageway from east side of the station accessible from bus bay and parking garage located northwest corner of Crabbs Branch Way and Redland Rd.,39.120423,-77.164433

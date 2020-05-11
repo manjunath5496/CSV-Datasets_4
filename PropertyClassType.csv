@@ -1,0 +1,70 @@
+propertyClassTypeKey,propertyClassTypeCode,propertyClassTypeDsc
+1,100,100-Off Bldg-VacLand-no s.plan
+2,101,101-Off Bldg-VacLand-site plan
+3,110,110-Office Building Parking
+4,111,111-Off bldg  7 stories
+5,112,112-Off bldg 7+ stories
+6,200,200-GenCom VacLand-no siteplan
+7,201,201-GenCom VacLand-siteplan
+8,210,210-General Comm Parking
+9,211,211-Retail strip
+10,212,212-Restaurant/eating facility
+11,213,213-Small office
+12,214,214-Neighborhood Center
+13,215,215-Gen Comm - other
+14,216,216-Fast food
+15,217,217-Bank
+16,218,218-Health care Facilities
+17,219,219-Mixed office/comm
+18,251,251-Warehouse
+19,252,252-Self-storage
+20,253,253-Service station
+21,254,254-Auto dealership
+22,266,266-Mixed Use
+23,290,290-Commercial Condo
+24,300,300-MultiFam-VacLand-no s.plan
+25,301,301-MultiFam-VacLand-site plan
+26,310,310-Apartment Parking
+27,311,311-Apartment - Garden
+28,312,312-Apartment - Mid-rise
+29,313,313-Apartment - High-rise
+30,314,314-Apartment 4 or  units
+31,399,399-Apt Rehab Exemption
+32,410,410-Hotel Residence Suites
+33,411,411-Hotel - Full service
+34,412,412-Hotel - Limited Service
+35,413,413-Hotel - Lodging
+36,414,414-Hotel - land/other
+37,415,415-Hotel - Select Service
+38,510,510-Res - Vacant(SF & Twnhse)
+39,511,511-Single Family Detached
+40,512,512-Townhouse (fee simple own)
+41,513,513-Townhouse (condo own)
+42,514,514-Side by side
+43,515,515-Duplex
+44,518,518-SFD/Comm Zone no site plan
+45,519,519-SFD/Comm Zone site plan
+46,520,520-SFD/Comm Zone no site plan
+47,521,521-SFD/Comm Zone site plan
+48,528,528-SFD/Apt Zone no site plan
+49,529,529-SFD/Apt Zone site plan
+50,530,530-SFD/Apt Zone no site plan
+51,531,531-SFD/Apt Zone site plan
+52,540,540 - Not Valued Resd. (H.O.A)
+53,541,541-Affordable Dwelling Unit
+54,543,543 - Community Benefit Unit
+55,611,611-Condo High-rise
+56,612,612-Condo Mid-rise
+57,613,613-Condo Garden
+58,614,614-Condo Co-op
+59,615,615-Condo Commercial (INACT)
+60,616,616-Condo Stacked
+61,617,617 - Condo Confidential
+62,630,630-Condo Master
+63,640,640-Not Valued Condo (H.O.A.)
+64,641,641-Affordable Dwelling Unit
+65,642,642-Community Benefit Unit
+66,710,710-Public Service Corp
+67,901,901-MixUse-Commercial
+68,902,902-MixUse-Residential
+69,999,Future Parcel
